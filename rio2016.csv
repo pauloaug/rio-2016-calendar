@@ -1,318 +1,318 @@
-id,inicio,fim,esporte,genero,fase,local1,local2,cidade
-BK002,2016-08-06T14:15-03:00,2016-08-06T16:00-03:00,Basquetebol,Masculino,Primeira fase,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,,
-BK004,2016-08-06T19:00-03:00,2016-08-06T20:45-03:00,Basquetebol,Masculino,Primeira fase,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,,
-BK005,2016-08-06T22:30-03:00,2016-08-06T00:15-03:00,Basquetebol,Masculino,Primeira fase,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,,
-BK007,2016-08-07T14:15-03:00,2016-08-07T16:00-03:00,Basquetebol,Masculino,Primeira fase,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,,
-BK009,2016-08-07T19:00-03:00,2016-08-07T20:45-03:00,Basquetebol,Masculino,Primeira fase,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,,
-BK010,2016-08-07T22:30-03:00,2016-08-07T00:15-03:00,Basquetebol,Masculino,Primeira fase,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,,
-BK012,2016-08-08T14:15-03:00,2016-08-08T16:00-03:00,Basquetebol,Masculino,Primeira fase,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,,
-BK014,2016-08-08T19:00-03:00,2016-08-08T20:45-03:00,Basquetebol,Masculino,Primeira fase,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,,
-BK015,2016-08-08T22:30-03:00,2016-08-08T00:15-03:00,Basquetebol,Masculino,Primeira fase,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,,
-BK017,2016-08-09T14:15-03:00,2016-08-09T16:00-03:00,Basquetebol,Masculino,Primeira fase,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,,
-BK019,2016-08-09T19:00-03:00,2016-08-09T20:45-03:00,Basquetebol,Masculino,Primeira fase,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,,
-BK020,2016-08-09T22:30-03:00,2016-08-09T00:15-03:00,Basquetebol,Masculino,Primeira fase,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,,
-BK022,2016-08-10T14:15-03:00,2016-08-10T16:00-03:00,Basquetebol,Masculino,Primeira fase,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,,
-BK024,2016-08-10T19:00-03:00,2016-08-10T20:45-03:00,Basquetebol,Masculino,Primeira fase,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,,
-BK025,2016-08-10T22:30-03:00,2016-08-10T00:15-03:00,Basquetebol,Masculino,Primeira fase,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,,
-BK027,2016-08-11T14:15-03:00,2016-08-11T16:00-03:00,Basquetebol,Masculino,Primeira fase,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,,
-BK029,2016-08-11T19:00-03:00,2016-08-11T20:45-03:00,Basquetebol,Masculino,Primeira fase,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,,
-BK030,2016-08-11T22:30-03:00,2016-08-11T00:15-03:00,Basquetebol,Masculino,Primeira fase,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,,
-BK032,2016-08-12T14:15-03:00,2016-08-12T16:00-03:00,Basquetebol,Masculino,Primeira fase,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,,
-BK033,2016-08-12T19:00-03:00,2016-08-12T20:45-03:00,Basquetebol,Masculino,Primeira fase,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,,
-BK035,2016-08-12T22:30-03:00,2016-08-12T00:15-03:00,Basquetebol,Masculino,Primeira fase,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,,
-BK037,2016-08-13T14:15-03:00,2016-08-13T16:00-03:00,Basquetebol,Masculino,Primeira fase,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,,
-BK038,2016-08-13T19:00-03:00,2016-08-13T20:45-03:00,Basquetebol,Masculino,Primeira fase,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,,
-BK040,2016-08-13T22:30-03:00,2016-08-13T00:15-03:00,Basquetebol,Masculino,Primeira fase,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,,
-BK042,2016-08-14T14:15-03:00,2016-08-14T16:00-03:00,Basquetebol,Masculino,Primeira fase,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,,
-BK043,2016-08-14T19:00-03:00,2016-08-14T20:45-03:00,Basquetebol,Masculino,Primeira fase,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,,
-BK045,2016-08-14T22:30-03:00,2016-08-14T00:15-03:00,Basquetebol,Masculino,Primeira fase,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,,
-BK046,2016-08-15T14:15-03:00,2016-08-15T16:00-03:00,Basquetebol,Masculino,Primeira fase,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,,
-BK047,2016-08-15T19:00-03:00,2016-08-15T20:45-03:00,Basquetebol,Masculino,Primeira fase,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,,
-BK048,2016-08-15T22:30-03:00,2016-08-15T00:15-03:00,Basquetebol,Masculino,Primeira fase,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,,
-BK049,2016-08-16T11:00-03:00,2016-08-16T12:45-03:00,Basquetebol,Feminino,Quarta de final,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,,
-BK050,2016-08-16T14:30-03:00,2016-08-16T16:15-03:00,Basquetebol,Feminino,Quarta de final,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,,
-BK051,2016-08-16T18:45-03:00,2016-08-16T20:30-03:00,Basquetebol,Feminino,Quarta de final,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,,
-BK052,2016-08-16T22:15-03:00,2016-08-16T00:00-03:00,Basquetebol,Feminino,Quarta de final,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,,
-BK053,2016-08-17T11:00-03:00,2016-08-17T12:45-03:00,Basquetebol,Masculino,Quarta de final,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,,
-BK054,2016-08-17T14:30-03:00,2016-08-17T16:15-03:00,Basquetebol,Masculino,Quarta de final,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,,
-BK055,2016-08-17T18:45-03:00,2016-08-17T20:30-03:00,Basquetebol,Masculino,Quarta de final,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,,
-BK056,2016-08-17T22:15-03:00,2016-08-17T00:00-03:00,Basquetebol,Masculino,Quarta de final,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,,
-BK057,2016-08-18T15:00-03:00,2016-08-18T17:00-03:00,Basquetebol,Feminino,Semifinal,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,,
-BK058,2016-08-18T19:00-03:00,2016-08-18T21:00-03:00,Basquetebol,Feminino,Semifinal,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,,
-BK059,2016-08-19T15:30-03:00,2016-08-19T17:30-03:00,Basquetebol,Masculino,Semifinal,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,,
-BK060,2016-08-19T19:00-03:00,2016-08-19T21:00-03:00,Basquetebol,Masculino,Semifinal,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,,
-BK061,2016-08-20T11:30-03:00,2016-08-20T13:30-03:00,Basquetebol,Feminino,Bronze,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,,
-BK062,2016-08-20T15:30-03:00,2016-08-20T17:50-03:00,Basquetebol,Feminino,Final,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,,
-BK063,2016-08-21T11:30-03:00,2016-08-21T13:30-03:00,Basquetebol,Masculino,Bronze,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,,
-BK064,2016-08-21T15:45-03:00,2016-08-21T18:05-03:00,Basquetebol,Masculino,Final,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,,
-JU001,2016-08-06T10:00-03:00,2016-08-06T13:00-03:00,Judô,Masculino até 60kg e Feminino até 48kg,,Arena Carioca 2,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-JU002,2016-08-06T15:30-03:00,2016-08-06T18:10-03:00,Judô,Masculino até 60kg e Feminino até 48kg,Finais,Arena Carioca 2,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-JU003,2016-08-07T10:00-03:00,2016-08-07T13:00-03:00,Judô,Masculino até 66kg e Feminino até 52kg,,Arena Carioca 2,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-JU004,2016-08-07T15:30-03:00,2016-08-07T18:10-03:00,Judô,Masculino até 66kg e Feminino até 52kg,Finais,Arena Carioca 2,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-JU006,2016-08-08T15:30-03:00,2016-08-08T18:10-03:00,Judô,Masculino até 73kg e Feminino até 57kg,Finais,Arena Carioca 2,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-JU008,2016-08-09T15:30-03:00,2016-08-09T18:10-03:00,Judô,Masculino até 81kg e Feminino até 63kg,Finais,Arena Carioca 2,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-JU010,2016-08-10T15:30-03:00,2016-08-10T18:10-03:00,Judô,Masculino até 90kg e Feminino até 70kg,Finais,Arena Carioca 2,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-JU012,2016-08-11T15:30-03:00,2016-08-11T18:10-03:00,Judô,Masculino até 100kg e Feminino até 78kg,Finais,Arena Carioca 2,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-JU014,2016-08-12T15:30-03:00,2016-08-12T18:10-03:00,Judô,Masculino acima de 100kg e Feminino acima de 78kg,Finais,Arena Carioca 2,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-FE009,2016-08-10T08:30-03:00,2016-08-10T16:00-03:00,Esgrima,Masculino e Feminino,Sabre individual e Florete individual,Arena Carioca 3,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-FE010,2016-08-10T17:30-03:00,2016-08-10T21:35-03:00,Esgrima,Masculino e Feminino,Sabre individual e Florete individual,Arena Carioca 3,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-FE012,2016-08-11T17:00-03:00,2016-08-11T19:50-03:00,Esgrima,Espada por Equipes feminina,Bronze e Final,Arena Carioca 3,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-FE014,2016-08-12T17:00-03:00,2016-08-12T19:50-03:00,Esgrima,Florete por Equipes masculino,Bronze e Final,Arena Carioca 3,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-FE016,2016-08-13T17:00-03:00,2016-08-13T19:35-03:00,Esgrima,Sabre por Equipes feminino,Bronze e Final,Arena Carioca 3,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-FE018,2016-08-14T17:00-03:00,2016-08-14T19:50-03:00,Esgrima,Espada por Equipes masculina,Bronze e Final,Arena Carioca 3,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-TK001,2016-08-17T09:00-03:00,2016-08-17T13:00-03:00,Taekwondo,Masculino até 58kg e Feminino até 49kg,Preliminares,Arena Carioca 3,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-TK002,2016-08-17T15:00-03:00,2016-08-17T18:00-03:00,Taekwondo,Masculino até 58kg e Feminino até 49kg,Quartas e Semis,Arena Carioca 3,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-TK004,2016-08-18T09:00-03:00,2016-08-18T13:00-03:00,Taekwondo,Masculino até 68kg e Feminino até 57kg,Preliminares,Arena Carioca 3,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-TK005,2016-08-18T15:00-03:00,2016-08-18T18:00-03:00,Taekwondo,Masculino até 68kg e Feminino até 57kg,Quartas e Semis,Arena Carioca 3,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-TK007,2016-08-19T09:00-03:00,2016-08-19T13:00-03:00,Taekwondo,Masculino até 80kg e Feminino até 67kg,Preliminares,Arena Carioca 3,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-TK008,2016-08-19T15:00-03:00,2016-08-19T18:00-03:00,Taekwondo,Masculino até 80kg e Feminino até 67kg,Quartas e Semis,Arena Carioca 3,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-TK010,2016-08-20T09:00-03:00,2016-08-20T13:00-03:00,Taekwondo,Masculino +80kg e Feminino +67kg,Preliminares e Oitavas,Arena Carioca 3,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-TK011,2016-08-20T15:00-03:00,2016-08-20T18:00-03:00,Taekwondo,Masculino +80kg e Feminino +67kg,Quartas e Semifinais,Arena Carioca 3,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-TK012,2016-08-20T20:00-03:00,2016-08-20T23:05-03:00,Taekwondo,Masculino +80kg e Feminino +67kg,Repescagens e Finais,Arena Carioca 3,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-FB002,2016-08-03T15:00-03:00,2016-08-03T20:00-03:00,Futebol,Feminino,primeira fase,Arena Corinthians,Av. Miguel Ignácio Curi, 111 - Vila Carmosina,São Paulo,
-FB008,2016-08-06T15:00-03:00,2016-08-06T20:00-03:00,Futebol,Feminino,primeira fase,Arena Corinthians,Av. Miguel Ignácio Curi, 111 - Vila Carmosina,São Paulo,
-FB022,2016-08-10T19:00-03:00,2016-08-10T00:00-03:00,Futebol,Masculino,primeira fase,Arena Corinthians,Av. Miguel Ignácio Curi, 111 - Vila Carmosina,São Paulo,
-FB025,2016-08-12T19:00-03:00,2016-08-12T21:00-03:00,Futebol,Feminino,quarta de final,Arena Corinthians,Av. Miguel Ignácio Curi, 111 - Vila Carmosina,São Paulo,
-FB030,2016-08-13T22:00-03:00,2016-08-13T00:00-03:00,Futebol,Masculino,quarta de final,Arena Corinthians,Av. Miguel Ignácio Curi, 111 - Vila Carmosina,São Paulo,
-FB033,2016-08-17T16:00-03:00,2016-08-17T18:00-03:00,Futebol,Masculino,semifinal,Arena Corinthians,Av. Miguel Ignácio Curi, 111 - Vila Carmosina,São Paulo,
-FB035,2016-08-19T13:00-03:00,2016-08-19T16:00-03:00,Futebol,Feminino,bronze,Arena Corinthians,Av. Miguel Ignácio Curi, 111 - Vila Carmosina,São Paulo,
-FB007,2016-08-04T18:00-03:00,2016-08-04T23:00-03:00,Futebol,Masculino,primeira fase,Arena da Amazônia,Av. Constantino Nery -  Flores,Manaus,
-FB011,2016-08-07T18:00-03:00,2016-08-07T23:00-03:00,Futebol,Masculino,primeira fase,Arena da Amazônia,Av. Constantino Nery -  Flores,Manaus,
-FB017,2016-08-09T18:00-03:00,2016-08-09T23:00-03:00,Futebol,Feminino,primeira fase,Arena da Amazônia,Av. Constantino Nery -  Flores,Manaus,
-BK001,2016-08-06T12:00-03:00,2016-08-06T16:00-03:00,Basquetebol,Feminino,Primeira fase,Arena da Juventude,Estrada São Pedro de Alcântara 2020 - Vila Militar, Rio de Janeiro,,
-BK003,2016-08-06T17:30-03:00,2016-08-06T21:30-03:00,Basquetebol,Feminino,Primeira fase,Arena da Juventude,Estrada São Pedro de Alcântara 2020 - Vila Militar, Rio de Janeiro,,
-BK006,2016-08-07T12:00-03:00,2016-08-07T16:00-03:00,Basquetebol,Feminino,Primeira fase,Arena da Juventude,Estrada São Pedro de Alcântara 2020 - Vila Militar, Rio de Janeiro,,
-BK008,2016-08-07T17:30-03:00,2016-08-07T21:30-03:00,Basquetebol,Feminino,Primeira fase,Arena da Juventude,Estrada São Pedro de Alcântara 2020 - Vila Militar, Rio de Janeiro,,
-BK011,2016-08-08T12:00-03:00,2016-08-08T16:00-03:00,Basquetebol,Feminino,Primeira fase,Arena da Juventude,Estrada São Pedro de Alcântara 2020 - Vila Militar, Rio de Janeiro,,
-BK013,2016-08-08T17:30-03:00,2016-08-08T21:30-03:00,Basquetebol,Feminino,Primeira fase,Arena da Juventude,Estrada São Pedro de Alcântara 2020 - Vila Militar, Rio de Janeiro,,
-BK016,2016-08-09T12:15-03:00,2016-08-09T14:00-03:00,Basquetebol,Feminino,Primeira fase,Arena da Juventude,Estrada São Pedro de Alcântara 2020 - Vila Militar, Rio de Janeiro,,
-BK018,2016-08-09T15:30-03:00,2016-08-09T19:30-03:00,Basquetebol,Feminino,Primeira fase,Arena da Juventude,Estrada São Pedro de Alcântara 2020 - Vila Militar, Rio de Janeiro,,
-BK021,2016-08-10T12:15-03:00,2016-08-10T14:00-03:00,Basquetebol,Feminino,Primeira fase,Arena da Juventude,Estrada São Pedro de Alcântara 2020 - Vila Militar, Rio de Janeiro,,
-BK023,2016-08-10T15:30-03:00,2016-08-10T19:30-03:00,Basquetebol,Feminino,Primeira fase,Arena da Juventude,Estrada São Pedro de Alcântara 2020 - Vila Militar, Rio de Janeiro,,
-BK026,2016-08-11T12:15-03:00,2016-08-11T14:00-03:00,Basquetebol,Feminino,Primeira fase,Arena da Juventude,Estrada São Pedro de Alcântara 2020 - Vila Militar, Rio de Janeiro,,
-BK028,2016-08-11T15:30-03:00,2016-08-11T19:30-03:00,Basquetebol,Feminino,Primeira fase,Arena da Juventude,Estrada São Pedro de Alcântara 2020 - Vila Militar, Rio de Janeiro,,
-BK031,2016-08-12T12:15-03:00,2016-08-12T14:00-03:00,Basquetebol,Feminino,Primeira fase,Arena da Juventude,Estrada São Pedro de Alcântara 2020 - Vila Militar, Rio de Janeiro,,
-BK034,2016-08-12T15:30-03:00,2016-08-12T19:30-03:00,Basquetebol,Feminino,Primeira fase,Arena da Juventude,Estrada São Pedro de Alcântara 2020 - Vila Militar, Rio de Janeiro,,
-BK036,2016-08-13T12:15-03:00,2016-08-13T14:00-03:00,Basquetebol,Feminino,Primeira fase,Arena da Juventude,Estrada São Pedro de Alcântara 2020 - Vila Militar, Rio de Janeiro,,
-BK039,2016-08-13T15:30-03:00,2016-08-13T19:30-03:00,Basquetebol,Feminino,Primeira fase,Arena da Juventude,Estrada São Pedro de Alcântara 2020 - Vila Militar, Rio de Janeiro,,
-BK041,2016-08-14T12:15-03:00,2016-08-14T14:00-03:00,Basquetebol,Feminino,Primeira fase,Arena da Juventude,Estrada São Pedro de Alcântara 2020 - Vila Militar, Rio de Janeiro,,
-BK044,2016-08-14T15:30-03:00,2016-08-14T19:30-03:00,Basquetebol,Feminino,Primeira fase,Arena da Juventude,Estrada São Pedro de Alcântara 2020 - Vila Militar, Rio de Janeiro,,
-MP001,2016-08-18T10:00-03:00,2016-08-18T13:00-03:00,Pentatlo moderno,Feminino,Prova classificatória de Esgrima,Arena da Juventude,Estrada São Pedro de Alcântara 2020 - Vila Militar, Rio de Janeiro,,
-MP002,2016-08-18T14:30-03:00,2016-08-18T17:30-03:00,Pentatlo moderno,Masculino,Prova classificatória de Esgrima,Arena da Juventude,Estrada São Pedro de Alcântara 2020 - Vila Militar, Rio de Janeiro,,
-BV001,2016-08-06T10:00-03:00,2016-08-06T13:50-03:00,Vôlei de praia,Masculino e/ou Feminino,Fase de grupos,Arena de Vôlei de Praia,Av. Atlântica - Posto 2 - Copacabana, Rio de Janeiro,,
-BV002,2016-08-06T15:30-03:00,2016-08-06T19:20-03:00,Vôlei de praia,Masculino e/ou Feminino,Fase de grupos,Arena de Vôlei de Praia,Av. Atlântica - Posto 2 - Copacabana, Rio de Janeiro,,
-BV003,2016-08-06T21:00-03:00,2016-08-06T00:50-03:00,Vôlei de praia,Masculino e/ou Feminino,Fase de grupos,Arena de Vôlei de Praia,Av. Atlântica - Posto 2 - Copacabana, Rio de Janeiro,,
-BV004,2016-08-07T10:00-03:00,2016-08-07T13:50-03:00,Vôlei de praia,Masculino e/ou Feminino,Fase de grupos,Arena de Vôlei de Praia,Av. Atlântica - Posto 2 - Copacabana, Rio de Janeiro,,
-BV005,2016-08-07T15:30-03:00,2016-08-07T19:20-03:00,Vôlei de praia,Masculino e/ou Feminino,Fase de grupos,Arena de Vôlei de Praia,Av. Atlântica - Posto 2 - Copacabana, Rio de Janeiro,,
-BV006,2016-08-07T21:00-03:00,2016-08-07T00:50-03:00,Vôlei de praia,Masculino e/ou Feminino,Fase de grupos,Arena de Vôlei de Praia,Av. Atlântica - Posto 2 - Copacabana, Rio de Janeiro,,
-BV007,2016-08-08T10:00-03:00,2016-08-08T13:50-03:00,Vôlei de praia,Masculino e/ou Feminino,Fase de grupos,Arena de Vôlei de Praia,Av. Atlântica - Posto 2 - Copacabana, Rio de Janeiro,,
-BV008,2016-08-08T15:30-03:00,2016-08-08T19:20-03:00,Vôlei de praia,Masculino e/ou Feminino,Fase de grupos,Arena de Vôlei de Praia,Av. Atlântica - Posto 2 - Copacabana, Rio de Janeiro,,
-BV009,2016-08-08T21:00-03:00,2016-08-08T00:50-03:00,Vôlei de praia,Masculino e/ou Feminino,Fase de grupos,Arena de Vôlei de Praia,Av. Atlântica - Posto 2 - Copacabana, Rio de Janeiro,,
-BV010,2016-08-09T10:00-03:00,2016-08-09T13:50-03:00,Vôlei de praia,Masculino e/ou Feminino,Fase de grupos,Arena de Vôlei de Praia,Av. Atlântica - Posto 2 - Copacabana, Rio de Janeiro,,
-BV011,2016-08-09T15:30-03:00,2016-08-09T19:20-03:00,Vôlei de praia,Masculino e/ou Feminino,Fase de grupos,Arena de Vôlei de Praia,Av. Atlântica - Posto 2 - Copacabana, Rio de Janeiro,,
-BV012,2016-08-09T21:00-03:00,2016-08-09T00:50-03:00,Vôlei de praia,Masculino e/ou Feminino,Fase de grupos,Arena de Vôlei de Praia,Av. Atlântica - Posto 2 - Copacabana, Rio de Janeiro,,
-BV013,2016-08-10T10:00-03:00,2016-08-10T13:50-03:00,Vôlei de praia,Masculino e/ou Feminino,Fase de grupos,Arena de Vôlei de Praia,Av. Atlântica - Posto 2 - Copacabana, Rio de Janeiro,,
-BV014,2016-08-10T15:30-03:00,2016-08-10T19:20-03:00,Vôlei de praia,Masculino e/ou Feminino,Fase de grupos,Arena de Vôlei de Praia,Av. Atlântica - Posto 2 - Copacabana, Rio de Janeiro,,
-BV015,2016-08-10T21:00-03:00,2016-08-10T00:50-03:00,Vôlei de praia,Masculino e/ou Feminino,Fase de grupos,Arena de Vôlei de Praia,Av. Atlântica - Posto 2 - Copacabana, Rio de Janeiro,,
-BV016,2016-08-11T10:00-03:00,2016-08-11T13:50-03:00,Vôlei de praia,Masculino e/ou Feminino,Fase de grupos,Arena de Vôlei de Praia,Av. Atlântica - Posto 2 - Copacabana, Rio de Janeiro,,
-BV017,2016-08-11T15:30-03:00,2016-08-11T19:20-03:00,Vôlei de praia,Masculino e/ou Feminino,Fase de grupos,Arena de Vôlei de Praia,Av. Atlântica - Posto 2 - Copacabana, Rio de Janeiro,,
-BV018,2016-08-11T21:00-03:00,2016-08-11T00:50-03:00,Vôlei de praia,Masculino e/ou Feminino,Fase de grupos e Repescagem,Arena de Vôlei de Praia,Av. Atlântica - Posto 2 - Copacabana, Rio de Janeiro,,
-BV019,2016-08-12T11:00-03:00,2016-08-12T12:50-03:00,Vôlei de praia,Masculino e/ou Feminino,Oitavas de final,Arena de Vôlei de Praia,Av. Atlântica - Posto 2 - Copacabana, Rio de Janeiro,,
-BV020,2016-08-12T15:00-03:00,2016-08-12T16:50-03:00,Vôlei de praia,Masculino e/ou Feminino,Oitavas de final,Arena de Vôlei de Praia,Av. Atlântica - Posto 2 - Copacabana, Rio de Janeiro,,
-BV021,2016-08-12T19:00-03:00,2016-08-12T20:50-03:00,Vôlei de praia,Masculino e/ou Feminino,Oitavas de final,Arena de Vôlei de Praia,Av. Atlântica - Posto 2 - Copacabana, Rio de Janeiro,,
-BV022,2016-08-12T23:00-03:00,2016-08-12T00:50-03:00,Vôlei de praia,Masculino e/ou Feminino,Oitavas de final,Arena de Vôlei de Praia,Av. Atlântica - Posto 2 - Copacabana, Rio de Janeiro,,
-BV023,2016-08-13T11:00-03:00,2016-08-13T12:50-03:00,Vôlei de praia,Masculino e/ou Feminino,Oitavas de final,Arena de Vôlei de Praia,Av. Atlântica - Posto 2 - Copacabana, Rio de Janeiro,,
-BV024,2016-08-13T15:00-03:00,2016-08-13T16:50-03:00,Vôlei de praia,Masculino e/ou Feminino,Oitavas de final,Arena de Vôlei de Praia,Av. Atlântica - Posto 2 - Copacabana, Rio de Janeiro,,
-BV025,2016-08-13T19:00-03:00,2016-08-13T20:50-03:00,Vôlei de praia,Masculino e/ou Feminino,Oitavas de final,Arena de Vôlei de Praia,Av. Atlântica - Posto 2 - Copacabana, Rio de Janeiro,,
-BV026,2016-08-13T23:00-03:00,2016-08-13T00:50-03:00,Vôlei de praia,Masculino e/ou Feminino,Oitavas de final,Arena de Vôlei de Praia,Av. Atlântica - Posto 2 - Copacabana, Rio de Janeiro,,
-BV027,2016-08-14T16:00-03:00,2016-08-14T17:50-03:00,Vôlei de praia,Feminino,Quartas de final,Arena de Vôlei de Praia,Av. Atlântica - Posto 2 - Copacabana, Rio de Janeiro,,
-BV028,2016-08-14T23:00-03:00,2016-08-14T00:50-03:00,Vôlei de praia,Feminino,Quartas de final,Arena de Vôlei de Praia,Av. Atlântica - Posto 2 - Copacabana, Rio de Janeiro,,
-BV029,2016-08-15T16:00-03:00,2016-08-15T17:50-03:00,Vôlei de praia,Masculino,Quartas de final,Arena de Vôlei de Praia,Av. Atlântica - Posto 2 - Copacabana, Rio de Janeiro,,
-BV030,2016-08-15T23:00-03:00,2016-08-15T00:50-03:00,Vôlei de praia,Masculino,Quartas de final,Arena de Vôlei de Praia,Av. Atlântica - Posto 2 - Copacabana, Rio de Janeiro,,
-BV031,2016-08-16T16:00-03:00,2016-08-16T17:50-03:00,Vôlei de praia,Masculino e/ou Feminino,Semifinais,Arena de Vôlei de Praia,Av. Atlântica - Posto 2 - Copacabana, Rio de Janeiro,,
-BV032,2016-08-16T23:00-03:00,2016-08-16T00:50-03:00,Vôlei de praia,Masculino e/ou Feminino,Semifinais,Arena de Vôlei de Praia,Av. Atlântica - Posto 2 - Copacabana, Rio de Janeiro,,
-BV033,2016-08-17T22:00-03:00,2016-08-17T01:10-03:00,Vôlei de praia,Feminino,Bronze e Final,Arena de Vôlei de Praia,Av. Atlântica - Posto 2 - Copacabana, Rio de Janeiro,,
-BV034,2016-08-18T22:00-03:00,2016-08-18T01:10-03:00,Vôlei de praia,Masculino,Bronze e Final,Arena de Vôlei de Praia,Av. Atlântica - Posto 2 - Copacabana, Rio de Janeiro,,
-HB001,2016-08-06T09:30-03:00,2016-08-06T13:00-03:00,Handebol,Feminino,Primeira fase,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-HB002,2016-08-06T14:40-03:00,2016-08-06T18:10-03:00,Handebol,Feminino,Primeira fase,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-HB003,2016-08-06T19:50-03:00,2016-08-06T23:20-03:00,Handebol,Feminino,Primeira fase,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-HB004,2016-08-07T09:30-03:00,2016-08-07T13:00-03:00,Handebol,Masculino,Primeira fase,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-HB005,2016-08-07T14:40-03:00,2016-08-07T18:10-03:00,Handebol,Masculino,Primeira fase,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-HB006,2016-08-07T19:50-03:00,2016-08-07T23:20-03:00,Handebol,Masculino,Primeira fase,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-HB007,2016-08-08T09:30-03:00,2016-08-08T13:00-03:00,Handebol,Feminino,Primeira fase,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-HB008,2016-08-08T14:40-03:00,2016-08-08T18:10-03:00,Handebol,Feminino,Primeira fase,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-HB009,2016-08-08T19:50-03:00,2016-08-08T23:20-03:00,Handebol,Feminino,Primeira fase,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-HB010,2016-08-09T09:30-03:00,2016-08-09T13:00-03:00,Handebol,Masculino,Primeira fase,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-HB011,2016-08-09T14:40-03:00,2016-08-09T18:10-03:00,Handebol,Masculino,Primeira fase,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-HB012,2016-08-09T19:50-03:00,2016-08-09T23:20-03:00,Handebol,Masculino,Primeira fase,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-HB013,2016-08-10T09:30-03:00,2016-08-10T13:00-03:00,Handebol,Feminino,Primeira fase,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-HB014,2016-08-10T14:40-03:00,2016-08-10T18:10-03:00,Handebol,Feminino,Primeira fase,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-HB015,2016-08-10T19:50-03:00,2016-08-10T23:20-03:00,Handebol,Feminino,Primeira fase,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-HB016,2016-08-11T09:30-03:00,2016-08-11T13:00-03:00,Handebol,Masculino,Primeira fase,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-HB017,2016-08-11T14:40-03:00,2016-08-11T18:10-03:00,Handebol,Masculino,Primeira fase,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-HB018,2016-08-11T19:50-03:00,2016-08-11T23:20-03:00,Handebol,Masculino,Primeira fase,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-HB019,2016-08-12T09:30-03:00,2016-08-12T13:00-03:00,Handebol,Feminino,Primeira fase,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-HB020,2016-08-12T14:40-03:00,2016-08-12T18:10-03:00,Handebol,Feminino,Primeira fase,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-HB021,2016-08-12T19:50-03:00,2016-08-12T23:20-03:00,Handebol,Feminino,Primeira fase,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-HB022,2016-08-13T09:30-03:00,2016-08-13T13:00-03:00,Handebol,Masculino,Primeira fase,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-HB023,2016-08-13T14:40-03:00,2016-08-13T18:10-03:00,Handebol,Masculino,Primeira fase,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-HB024,2016-08-13T19:50-03:00,2016-08-13T23:20-03:00,Handebol,Masculino,Primeira fase,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-HB025,2016-08-14T09:30-03:00,2016-08-14T13:00-03:00,Handebol,Feminino,Primeira fase,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-HB026,2016-08-14T14:40-03:00,2016-08-14T18:10-03:00,Handebol,Feminino,Primeira fase,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-HB027,2016-08-14T19:50-03:00,2016-08-14T23:20-03:00,Handebol,Feminino,Primeira fase,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-HB028,2016-08-15T09:30-03:00,2016-08-15T13:00-03:00,Handebol,Masculino,Primeira fase,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-HB029,2016-08-15T14:40-03:00,2016-08-15T18:10-03:00,Handebol,Masculino,Primeira fase,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-HB030,2016-08-15T19:50-03:00,2016-08-15T23:20-03:00,Handebol,Masculino,Primeira fase,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-HB031,2016-08-16T10:00-03:00,2016-08-16T12:00-03:00,Handebol,Feminino,Quartas de final,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-HB032,2016-08-16T13:30-03:00,2016-08-16T15:30-03:00,Handebol,Feminino,Quartas de final,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-HB033,2016-08-16T17:00-03:00,2016-08-16T19:00-03:00,Handebol,Feminino,Quartas de final,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-HB034,2016-08-16T20:30-03:00,2016-08-16T22:30-03:00,Handebol,Feminino,Quartas de final,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-HB035,2016-08-17T10:00-03:00,2016-08-17T12:00-03:00,Handebol,Masculino,Quartas de final,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-HB036,2016-08-17T13:30-03:00,2016-08-17T15:30-03:00,Handebol,Masculino,Quartas de final,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-HB037,2016-08-17T17:00-03:00,2016-08-17T19:00-03:00,Handebol,Masculino,Quartas de final,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-HB038,2016-08-17T20:30-03:00,2016-08-17T22:30-03:00,Handebol,Masculino,Quartas de final,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-HB039,2016-08-18T15:30-03:00,2016-08-18T17:30-03:00,Handebol,Feminino,Semifinal,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-HB040,2016-08-18T20:30-03:00,2016-08-18T22:30-03:00,Handebol,Feminino,Semifinal,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-HB041,2016-08-19T15:30-03:00,2016-08-19T17:30-03:00,Handebol,Masculino,Semifinal,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-HB042,2016-08-19T20:30-03:00,2016-08-19T22:30-03:00,Handebol,Masculino,Semifinal,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-HB043,2016-08-20T11:30-03:00,2016-08-20T13:30-03:00,Handebol,Feminino,Bronze,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-HB044,2016-08-20T15:30-03:00,2016-08-20T17:45-03:00,Handebol,Feminino,Final,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-HB045,2016-08-21T10:30-03:00,2016-08-21T12:30-03:00,Handebol,Masculino,Bronze,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-HB046,2016-08-21T14:00-03:00,2016-08-21T16:15-03:00,Handebol,Masculino,Final,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-FB006,2016-08-04T17:00-03:00,2016-08-04T22:00-03:00,Futebol,Masculino,primeira fase,Arena Fonte Nova,Ladeira Fonte das Pedras - Nazaré, Salvador,
-FB013,2016-08-07T13:00-03:00,2016-08-07T18:00-03:00,Futebol,Masculino,primeira fase,Arena Fonte Nova,Ladeira Fonte das Pedras - Nazaré, Salvador,
-FB016,2016-08-09T16:00-03:00,2016-08-09T21:00-03:00,Futebol,Feminino,primeira fase,Arena Fonte Nova,Ladeira Fonte das Pedras - Nazaré, Salvador,
-FB021,2016-08-10T19:00-03:00,2016-08-10T00:00-03:00,Futebol,Masculino,primeira fase,Arena Fonte Nova,Ladeira Fonte das Pedras - Nazaré, Salvador,
-FB024,2016-08-12T16:00-03:00,2016-08-12T18:00-03:00,Futebol,Feminino,quarta de final,Arena Fonte Nova,Ladeira Fonte das Pedras - Nazaré, Salvador,
-FB028,2016-08-13T16:00-03:00,2016-08-13T18:00-03:00,Futebol,Masculino,quarta de final,Arena Fonte Nova,Ladeira Fonte das Pedras - Nazaré, Salvador,
-GA001,2016-08-06T10:30-03:00,2016-08-06T13:00-03:00,Ginástica artística,Masculino,Classificatória,Arena Olímpica do Rio,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-GA002,2016-08-06T14:30-03:00,2016-08-06T17:00-03:00,Ginástica artística,Masculino,Classificatória,Arena Olímpica do Rio,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-GA003,2016-08-06T18:30-03:00,2016-08-06T21:00-03:00,Ginástica artística,Masculino,Classificatória,Arena Olímpica do Rio,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-GA004,2016-08-07T09:45-03:00,2016-08-07T13:00-03:00,Ginástica artística,Feminino,Classificatória,Arena Olímpica do Rio,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-GA005,2016-08-07T14:30-03:00,2016-08-07T16:00-03:00,Ginástica artística,Feminino,Classificatória,Arena Olímpica do Rio,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-GA006,2016-08-07T17:30-03:00,2016-08-07T19:00-03:00,Ginástica artística,Feminino,Classificatória,Arena Olímpica do Rio,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-GA007,2016-08-07T20:30-03:00,2016-08-07T22:00-03:00,Ginástica artística,Feminino,Classificatória,Arena Olímpica do Rio,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-GA008,2016-08-08T16:00-03:00,2016-08-08T19:00-03:00,Ginástica artística,Competição por Equipes masculina,Final,Arena Olímpica do Rio,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-GA009,2016-08-09T16:00-03:00,2016-08-09T18:15-03:00,Ginástica artística,Competição por Equipes feminina,Final,Arena Olímpica do Rio,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-GA010,2016-08-10T16:00-03:00,2016-08-10T18:45-03:00,Ginástica artística,Competição Individual Geral masculina,Final,Arena Olímpica do Rio,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-GA011,2016-08-11T16:00-03:00,2016-08-11T18:10-03:00,Ginástica artística,Competição Individual Geral feminina,Final,Arena Olímpica do Rio,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-GT001,2016-08-12T14:00-03:00,2016-08-12T16:30-03:00,Ginástica de trampolim,Rotina classificatória feminina,Final,Arena Olímpica do Rio,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-GT002,2016-08-13T14:00-03:00,2016-08-13T16:30-03:00,Ginástica de trampolim,Rotina classificatória masculina,Final,Arena Olímpica do Rio,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-GA012,2016-08-14T14:00-03:00,2016-08-14T17:00-03:00,Ginástica artística,Masculino e Feminino,Finais de aparelhos,Arena Olímpica do Rio,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-GA013,2016-08-15T14:00-03:00,2016-08-15T16:25-03:00,Ginástica artística,Masculino e Feminino,Finais de aparelhos,Arena Olímpica do Rio,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-GA014,2016-08-16T14:00-03:00,2016-08-16T16:15-03:00,Ginástica artística,Masculino e Feminino,Finais de aparelhos,Arena Olímpica do Rio,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-GR001,2016-08-19T10:20-03:00,2016-08-19T13:20-03:00,Ginástica rítmica,Competição individual geral feminina,Classificatórias,Arena Olímpica do Rio,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-GR002,2016-08-19T14:50-03:00,2016-08-19T17:50-03:00,Ginástica rítmica,Competição individual geral feminina,Classificatórias,Arena Olímpica do Rio,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-GR003,2016-08-20T10:00-03:00,2016-08-20T11:10-03:00,Ginástica rítmica,Competição por equipes femininas,Classificatórias,Arena Olímpica do Rio,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-GR004,2016-08-20T12:40-03:00,2016-08-20T13:50-03:00,Ginástica rítmica,Competição por equipes femininas,Classificatórias,Arena Olímpica do Rio,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-GR005,2016-08-20T15:20-03:00,2016-08-20T17:45-03:00,Ginástica rítmica,Competição individual geral feminina,Final,Arena Olímpica do Rio,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
-GR006,2016-08-21T11:00-03:00,2016-08-21T12:45-03:00,Ginástica rítmica,Competição por equipes femininas,Final,Arena Olímpica do Rio,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,
+id,inicio,fim,esporte,genero,fase,local1,local2,cidade,extra1
+BK002,2016-08-06T14:15-03:00,2016-08-06T16:00-03:00,Basquetebol,Masculino,Primeira fase,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+BK004,2016-08-06T19:00-03:00,2016-08-06T20:45-03:00,Basquetebol,Masculino,Primeira fase,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+BK005,2016-08-06T22:30-03:00,2016-08-06T00:15-03:00,Basquetebol,Masculino,Primeira fase,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+BK007,2016-08-07T14:15-03:00,2016-08-07T16:00-03:00,Basquetebol,Masculino,Primeira fase,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+BK009,2016-08-07T19:00-03:00,2016-08-07T20:45-03:00,Basquetebol,Masculino,Primeira fase,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+BK010,2016-08-07T22:30-03:00,2016-08-07T00:15-03:00,Basquetebol,Masculino,Primeira fase,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+BK012,2016-08-08T14:15-03:00,2016-08-08T16:00-03:00,Basquetebol,Masculino,Primeira fase,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+BK014,2016-08-08T19:00-03:00,2016-08-08T20:45-03:00,Basquetebol,Masculino,Primeira fase,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+BK015,2016-08-08T22:30-03:00,2016-08-08T00:15-03:00,Basquetebol,Masculino,Primeira fase,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+BK017,2016-08-09T14:15-03:00,2016-08-09T16:00-03:00,Basquetebol,Masculino,Primeira fase,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+BK019,2016-08-09T19:00-03:00,2016-08-09T20:45-03:00,Basquetebol,Masculino,Primeira fase,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+BK020,2016-08-09T22:30-03:00,2016-08-09T00:15-03:00,Basquetebol,Masculino,Primeira fase,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+BK022,2016-08-10T14:15-03:00,2016-08-10T16:00-03:00,Basquetebol,Masculino,Primeira fase,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+BK024,2016-08-10T19:00-03:00,2016-08-10T20:45-03:00,Basquetebol,Masculino,Primeira fase,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+BK025,2016-08-10T22:30-03:00,2016-08-10T00:15-03:00,Basquetebol,Masculino,Primeira fase,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+BK027,2016-08-11T14:15-03:00,2016-08-11T16:00-03:00,Basquetebol,Masculino,Primeira fase,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+BK029,2016-08-11T19:00-03:00,2016-08-11T20:45-03:00,Basquetebol,Masculino,Primeira fase,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+BK030,2016-08-11T22:30-03:00,2016-08-11T00:15-03:00,Basquetebol,Masculino,Primeira fase,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+BK032,2016-08-12T14:15-03:00,2016-08-12T16:00-03:00,Basquetebol,Masculino,Primeira fase,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+BK033,2016-08-12T19:00-03:00,2016-08-12T20:45-03:00,Basquetebol,Masculino,Primeira fase,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+BK035,2016-08-12T22:30-03:00,2016-08-12T00:15-03:00,Basquetebol,Masculino,Primeira fase,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+BK037,2016-08-13T14:15-03:00,2016-08-13T16:00-03:00,Basquetebol,Masculino,Primeira fase,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+BK038,2016-08-13T19:00-03:00,2016-08-13T20:45-03:00,Basquetebol,Masculino,Primeira fase,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+BK040,2016-08-13T22:30-03:00,2016-08-13T00:15-03:00,Basquetebol,Masculino,Primeira fase,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+BK042,2016-08-14T14:15-03:00,2016-08-14T16:00-03:00,Basquetebol,Masculino,Primeira fase,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+BK043,2016-08-14T19:00-03:00,2016-08-14T20:45-03:00,Basquetebol,Masculino,Primeira fase,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+BK045,2016-08-14T22:30-03:00,2016-08-14T00:15-03:00,Basquetebol,Masculino,Primeira fase,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+BK046,2016-08-15T14:15-03:00,2016-08-15T16:00-03:00,Basquetebol,Masculino,Primeira fase,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+BK047,2016-08-15T19:00-03:00,2016-08-15T20:45-03:00,Basquetebol,Masculino,Primeira fase,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+BK048,2016-08-15T22:30-03:00,2016-08-15T00:15-03:00,Basquetebol,Masculino,Primeira fase,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+BK049,2016-08-16T11:00-03:00,2016-08-16T12:45-03:00,Basquetebol,Feminino,Quarta de final,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+BK050,2016-08-16T14:30-03:00,2016-08-16T16:15-03:00,Basquetebol,Feminino,Quarta de final,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+BK051,2016-08-16T18:45-03:00,2016-08-16T20:30-03:00,Basquetebol,Feminino,Quarta de final,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+BK052,2016-08-16T22:15-03:00,2016-08-16T00:00-03:00,Basquetebol,Feminino,Quarta de final,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+BK053,2016-08-17T11:00-03:00,2016-08-17T12:45-03:00,Basquetebol,Masculino,Quarta de final,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+BK054,2016-08-17T14:30-03:00,2016-08-17T16:15-03:00,Basquetebol,Masculino,Quarta de final,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+BK055,2016-08-17T18:45-03:00,2016-08-17T20:30-03:00,Basquetebol,Masculino,Quarta de final,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+BK056,2016-08-17T22:15-03:00,2016-08-17T00:00-03:00,Basquetebol,Masculino,Quarta de final,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+BK057,2016-08-18T15:00-03:00,2016-08-18T17:00-03:00,Basquetebol,Feminino,Semifinal,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+BK058,2016-08-18T19:00-03:00,2016-08-18T21:00-03:00,Basquetebol,Feminino,Semifinal,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+BK059,2016-08-19T15:30-03:00,2016-08-19T17:30-03:00,Basquetebol,Masculino,Semifinal,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+BK060,2016-08-19T19:00-03:00,2016-08-19T21:00-03:00,Basquetebol,Masculino,Semifinal,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+BK061,2016-08-20T11:30-03:00,2016-08-20T13:30-03:00,Basquetebol,Feminino,Bronze,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+BK062,2016-08-20T15:30-03:00,2016-08-20T17:50-03:00,Basquetebol,Feminino,Final,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+BK063,2016-08-21T11:30-03:00,2016-08-21T13:30-03:00,Basquetebol,Masculino,Bronze,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+BK064,2016-08-21T15:45-03:00,2016-08-21T18:05-03:00,Basquetebol,Masculino,Final,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+JU001,2016-08-06T10:00-03:00,2016-08-06T13:00-03:00,Judô,Masculino até 60kg e Feminino até 48kg,,Arena Carioca 2,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+JU002,2016-08-06T15:30-03:00,2016-08-06T18:10-03:00,Judô,Masculino até 60kg e Feminino até 48kg,Finais,Arena Carioca 2,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+JU003,2016-08-07T10:00-03:00,2016-08-07T13:00-03:00,Judô,Masculino até 66kg e Feminino até 52kg,,Arena Carioca 2,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+JU004,2016-08-07T15:30-03:00,2016-08-07T18:10-03:00,Judô,Masculino até 66kg e Feminino até 52kg,Finais,Arena Carioca 2,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+JU006,2016-08-08T15:30-03:00,2016-08-08T18:10-03:00,Judô,Masculino até 73kg e Feminino até 57kg,Finais,Arena Carioca 2,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+JU008,2016-08-09T15:30-03:00,2016-08-09T18:10-03:00,Judô,Masculino até 81kg e Feminino até 63kg,Finais,Arena Carioca 2,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+JU010,2016-08-10T15:30-03:00,2016-08-10T18:10-03:00,Judô,Masculino até 90kg e Feminino até 70kg,Finais,Arena Carioca 2,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+JU012,2016-08-11T15:30-03:00,2016-08-11T18:10-03:00,Judô,Masculino até 100kg e Feminino até 78kg,Finais,Arena Carioca 2,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+JU014,2016-08-12T15:30-03:00,2016-08-12T18:10-03:00,Judô,Masculino acima de 100kg e Feminino acima de 78kg,Finais,Arena Carioca 2,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+FE009,2016-08-10T08:30-03:00,2016-08-10T16:00-03:00,Esgrima,Masculino e Feminino,Sabre individual e Florete individual,Arena Carioca 3,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+FE010,2016-08-10T17:30-03:00,2016-08-10T21:35-03:00,Esgrima,Masculino e Feminino,Sabre individual e Florete individual,Arena Carioca 3,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+FE012,2016-08-11T17:00-03:00,2016-08-11T19:50-03:00,Esgrima,Espada por Equipes feminina,Bronze e Final,Arena Carioca 3,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+FE014,2016-08-12T17:00-03:00,2016-08-12T19:50-03:00,Esgrima,Florete por Equipes masculino,Bronze e Final,Arena Carioca 3,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+FE016,2016-08-13T17:00-03:00,2016-08-13T19:35-03:00,Esgrima,Sabre por Equipes feminino,Bronze e Final,Arena Carioca 3,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+FE018,2016-08-14T17:00-03:00,2016-08-14T19:50-03:00,Esgrima,Espada por Equipes masculina,Bronze e Final,Arena Carioca 3,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+TK001,2016-08-17T09:00-03:00,2016-08-17T13:00-03:00,Taekwondo,Masculino até 58kg e Feminino até 49kg,Preliminares,Arena Carioca 3,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+TK002,2016-08-17T15:00-03:00,2016-08-17T18:00-03:00,Taekwondo,Masculino até 58kg e Feminino até 49kg,Quartas e Semis,Arena Carioca 3,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+TK004,2016-08-18T09:00-03:00,2016-08-18T13:00-03:00,Taekwondo,Masculino até 68kg e Feminino até 57kg,Preliminares,Arena Carioca 3,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+TK005,2016-08-18T15:00-03:00,2016-08-18T18:00-03:00,Taekwondo,Masculino até 68kg e Feminino até 57kg,Quartas e Semis,Arena Carioca 3,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+TK007,2016-08-19T09:00-03:00,2016-08-19T13:00-03:00,Taekwondo,Masculino até 80kg e Feminino até 67kg,Preliminares,Arena Carioca 3,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+TK008,2016-08-19T15:00-03:00,2016-08-19T18:00-03:00,Taekwondo,Masculino até 80kg e Feminino até 67kg,Quartas e Semis,Arena Carioca 3,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+TK010,2016-08-20T09:00-03:00,2016-08-20T13:00-03:00,Taekwondo,Masculino +80kg e Feminino +67kg,Preliminares e Oitavas,Arena Carioca 3,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+TK011,2016-08-20T15:00-03:00,2016-08-20T18:00-03:00,Taekwondo,Masculino +80kg e Feminino +67kg,Quartas e Semifinais,Arena Carioca 3,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+TK012,2016-08-20T20:00-03:00,2016-08-20T23:05-03:00,Taekwondo,Masculino +80kg e Feminino +67kg,Repescagens e Finais,Arena Carioca 3,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+FB002,2016-08-03T15:00-03:00,2016-08-03T20:00-03:00,Futebol,Feminino,primeira fase,Arena Corinthians,Av. Miguel Ignácio Curi, 111 - Vila Carmosina,São Paulo
+FB008,2016-08-06T15:00-03:00,2016-08-06T20:00-03:00,Futebol,Feminino,primeira fase,Arena Corinthians,Av. Miguel Ignácio Curi, 111 - Vila Carmosina,São Paulo
+FB022,2016-08-10T19:00-03:00,2016-08-10T00:00-03:00,Futebol,Masculino,primeira fase,Arena Corinthians,Av. Miguel Ignácio Curi, 111 - Vila Carmosina,São Paulo
+FB025,2016-08-12T19:00-03:00,2016-08-12T21:00-03:00,Futebol,Feminino,quarta de final,Arena Corinthians,Av. Miguel Ignácio Curi, 111 - Vila Carmosina,São Paulo
+FB030,2016-08-13T22:00-03:00,2016-08-13T00:00-03:00,Futebol,Masculino,quarta de final,Arena Corinthians,Av. Miguel Ignácio Curi, 111 - Vila Carmosina,São Paulo
+FB033,2016-08-17T16:00-03:00,2016-08-17T18:00-03:00,Futebol,Masculino,semifinal,Arena Corinthians,Av. Miguel Ignácio Curi, 111 - Vila Carmosina,São Paulo
+FB035,2016-08-19T13:00-03:00,2016-08-19T16:00-03:00,Futebol,Feminino,bronze,Arena Corinthians,Av. Miguel Ignácio Curi, 111 - Vila Carmosina,São Paulo
+FB007,2016-08-04T18:00-03:00,2016-08-04T23:00-03:00,Futebol,Masculino,primeira fase,Arena da Amazônia,Av. Constantino Nery -  Flores,Manaus
+FB011,2016-08-07T18:00-03:00,2016-08-07T23:00-03:00,Futebol,Masculino,primeira fase,Arena da Amazônia,Av. Constantino Nery -  Flores,Manaus
+FB017,2016-08-09T18:00-03:00,2016-08-09T23:00-03:00,Futebol,Feminino,primeira fase,Arena da Amazônia,Av. Constantino Nery -  Flores,Manaus
+BK001,2016-08-06T12:00-03:00,2016-08-06T16:00-03:00,Basquetebol,Feminino,Primeira fase,Arena da Juventude,Estrada São Pedro de Alcântara 2020 - Vila Militar, Rio de Janeiro
+BK003,2016-08-06T17:30-03:00,2016-08-06T21:30-03:00,Basquetebol,Feminino,Primeira fase,Arena da Juventude,Estrada São Pedro de Alcântara 2020 - Vila Militar, Rio de Janeiro
+BK006,2016-08-07T12:00-03:00,2016-08-07T16:00-03:00,Basquetebol,Feminino,Primeira fase,Arena da Juventude,Estrada São Pedro de Alcântara 2020 - Vila Militar, Rio de Janeiro
+BK008,2016-08-07T17:30-03:00,2016-08-07T21:30-03:00,Basquetebol,Feminino,Primeira fase,Arena da Juventude,Estrada São Pedro de Alcântara 2020 - Vila Militar, Rio de Janeiro
+BK011,2016-08-08T12:00-03:00,2016-08-08T16:00-03:00,Basquetebol,Feminino,Primeira fase,Arena da Juventude,Estrada São Pedro de Alcântara 2020 - Vila Militar, Rio de Janeiro
+BK013,2016-08-08T17:30-03:00,2016-08-08T21:30-03:00,Basquetebol,Feminino,Primeira fase,Arena da Juventude,Estrada São Pedro de Alcântara 2020 - Vila Militar, Rio de Janeiro
+BK016,2016-08-09T12:15-03:00,2016-08-09T14:00-03:00,Basquetebol,Feminino,Primeira fase,Arena da Juventude,Estrada São Pedro de Alcântara 2020 - Vila Militar, Rio de Janeiro
+BK018,2016-08-09T15:30-03:00,2016-08-09T19:30-03:00,Basquetebol,Feminino,Primeira fase,Arena da Juventude,Estrada São Pedro de Alcântara 2020 - Vila Militar, Rio de Janeiro
+BK021,2016-08-10T12:15-03:00,2016-08-10T14:00-03:00,Basquetebol,Feminino,Primeira fase,Arena da Juventude,Estrada São Pedro de Alcântara 2020 - Vila Militar, Rio de Janeiro
+BK023,2016-08-10T15:30-03:00,2016-08-10T19:30-03:00,Basquetebol,Feminino,Primeira fase,Arena da Juventude,Estrada São Pedro de Alcântara 2020 - Vila Militar, Rio de Janeiro
+BK026,2016-08-11T12:15-03:00,2016-08-11T14:00-03:00,Basquetebol,Feminino,Primeira fase,Arena da Juventude,Estrada São Pedro de Alcântara 2020 - Vila Militar, Rio de Janeiro
+BK028,2016-08-11T15:30-03:00,2016-08-11T19:30-03:00,Basquetebol,Feminino,Primeira fase,Arena da Juventude,Estrada São Pedro de Alcântara 2020 - Vila Militar, Rio de Janeiro
+BK031,2016-08-12T12:15-03:00,2016-08-12T14:00-03:00,Basquetebol,Feminino,Primeira fase,Arena da Juventude,Estrada São Pedro de Alcântara 2020 - Vila Militar, Rio de Janeiro
+BK034,2016-08-12T15:30-03:00,2016-08-12T19:30-03:00,Basquetebol,Feminino,Primeira fase,Arena da Juventude,Estrada São Pedro de Alcântara 2020 - Vila Militar, Rio de Janeiro
+BK036,2016-08-13T12:15-03:00,2016-08-13T14:00-03:00,Basquetebol,Feminino,Primeira fase,Arena da Juventude,Estrada São Pedro de Alcântara 2020 - Vila Militar, Rio de Janeiro
+BK039,2016-08-13T15:30-03:00,2016-08-13T19:30-03:00,Basquetebol,Feminino,Primeira fase,Arena da Juventude,Estrada São Pedro de Alcântara 2020 - Vila Militar, Rio de Janeiro
+BK041,2016-08-14T12:15-03:00,2016-08-14T14:00-03:00,Basquetebol,Feminino,Primeira fase,Arena da Juventude,Estrada São Pedro de Alcântara 2020 - Vila Militar, Rio de Janeiro
+BK044,2016-08-14T15:30-03:00,2016-08-14T19:30-03:00,Basquetebol,Feminino,Primeira fase,Arena da Juventude,Estrada São Pedro de Alcântara 2020 - Vila Militar, Rio de Janeiro
+MP001,2016-08-18T10:00-03:00,2016-08-18T13:00-03:00,Pentatlo moderno,Feminino,Prova classificatória de Esgrima,Arena da Juventude,Estrada São Pedro de Alcântara 2020 - Vila Militar, Rio de Janeiro
+MP002,2016-08-18T14:30-03:00,2016-08-18T17:30-03:00,Pentatlo moderno,Masculino,Prova classificatória de Esgrima,Arena da Juventude,Estrada São Pedro de Alcântara 2020 - Vila Militar, Rio de Janeiro
+BV001,2016-08-06T10:00-03:00,2016-08-06T13:50-03:00,Vôlei de praia,Masculino e/ou Feminino,Fase de grupos,Arena de Vôlei de Praia,Av. Atlântica - Posto 2 - Copacabana, Rio de Janeiro
+BV002,2016-08-06T15:30-03:00,2016-08-06T19:20-03:00,Vôlei de praia,Masculino e/ou Feminino,Fase de grupos,Arena de Vôlei de Praia,Av. Atlântica - Posto 2 - Copacabana, Rio de Janeiro
+BV003,2016-08-06T21:00-03:00,2016-08-06T00:50-03:00,Vôlei de praia,Masculino e/ou Feminino,Fase de grupos,Arena de Vôlei de Praia,Av. Atlântica - Posto 2 - Copacabana, Rio de Janeiro
+BV004,2016-08-07T10:00-03:00,2016-08-07T13:50-03:00,Vôlei de praia,Masculino e/ou Feminino,Fase de grupos,Arena de Vôlei de Praia,Av. Atlântica - Posto 2 - Copacabana, Rio de Janeiro
+BV005,2016-08-07T15:30-03:00,2016-08-07T19:20-03:00,Vôlei de praia,Masculino e/ou Feminino,Fase de grupos,Arena de Vôlei de Praia,Av. Atlântica - Posto 2 - Copacabana, Rio de Janeiro
+BV006,2016-08-07T21:00-03:00,2016-08-07T00:50-03:00,Vôlei de praia,Masculino e/ou Feminino,Fase de grupos,Arena de Vôlei de Praia,Av. Atlântica - Posto 2 - Copacabana, Rio de Janeiro
+BV007,2016-08-08T10:00-03:00,2016-08-08T13:50-03:00,Vôlei de praia,Masculino e/ou Feminino,Fase de grupos,Arena de Vôlei de Praia,Av. Atlântica - Posto 2 - Copacabana, Rio de Janeiro
+BV008,2016-08-08T15:30-03:00,2016-08-08T19:20-03:00,Vôlei de praia,Masculino e/ou Feminino,Fase de grupos,Arena de Vôlei de Praia,Av. Atlântica - Posto 2 - Copacabana, Rio de Janeiro
+BV009,2016-08-08T21:00-03:00,2016-08-08T00:50-03:00,Vôlei de praia,Masculino e/ou Feminino,Fase de grupos,Arena de Vôlei de Praia,Av. Atlântica - Posto 2 - Copacabana, Rio de Janeiro
+BV010,2016-08-09T10:00-03:00,2016-08-09T13:50-03:00,Vôlei de praia,Masculino e/ou Feminino,Fase de grupos,Arena de Vôlei de Praia,Av. Atlântica - Posto 2 - Copacabana, Rio de Janeiro
+BV011,2016-08-09T15:30-03:00,2016-08-09T19:20-03:00,Vôlei de praia,Masculino e/ou Feminino,Fase de grupos,Arena de Vôlei de Praia,Av. Atlântica - Posto 2 - Copacabana, Rio de Janeiro
+BV012,2016-08-09T21:00-03:00,2016-08-09T00:50-03:00,Vôlei de praia,Masculino e/ou Feminino,Fase de grupos,Arena de Vôlei de Praia,Av. Atlântica - Posto 2 - Copacabana, Rio de Janeiro
+BV013,2016-08-10T10:00-03:00,2016-08-10T13:50-03:00,Vôlei de praia,Masculino e/ou Feminino,Fase de grupos,Arena de Vôlei de Praia,Av. Atlântica - Posto 2 - Copacabana, Rio de Janeiro
+BV014,2016-08-10T15:30-03:00,2016-08-10T19:20-03:00,Vôlei de praia,Masculino e/ou Feminino,Fase de grupos,Arena de Vôlei de Praia,Av. Atlântica - Posto 2 - Copacabana, Rio de Janeiro
+BV015,2016-08-10T21:00-03:00,2016-08-10T00:50-03:00,Vôlei de praia,Masculino e/ou Feminino,Fase de grupos,Arena de Vôlei de Praia,Av. Atlântica - Posto 2 - Copacabana, Rio de Janeiro
+BV016,2016-08-11T10:00-03:00,2016-08-11T13:50-03:00,Vôlei de praia,Masculino e/ou Feminino,Fase de grupos,Arena de Vôlei de Praia,Av. Atlântica - Posto 2 - Copacabana, Rio de Janeiro
+BV017,2016-08-11T15:30-03:00,2016-08-11T19:20-03:00,Vôlei de praia,Masculino e/ou Feminino,Fase de grupos,Arena de Vôlei de Praia,Av. Atlântica - Posto 2 - Copacabana, Rio de Janeiro
+BV018,2016-08-11T21:00-03:00,2016-08-11T00:50-03:00,Vôlei de praia,Masculino e/ou Feminino,Fase de grupos e Repescagem,Arena de Vôlei de Praia,Av. Atlântica - Posto 2 - Copacabana, Rio de Janeiro
+BV019,2016-08-12T11:00-03:00,2016-08-12T12:50-03:00,Vôlei de praia,Masculino e/ou Feminino,Oitavas de final,Arena de Vôlei de Praia,Av. Atlântica - Posto 2 - Copacabana, Rio de Janeiro
+BV020,2016-08-12T15:00-03:00,2016-08-12T16:50-03:00,Vôlei de praia,Masculino e/ou Feminino,Oitavas de final,Arena de Vôlei de Praia,Av. Atlântica - Posto 2 - Copacabana, Rio de Janeiro
+BV021,2016-08-12T19:00-03:00,2016-08-12T20:50-03:00,Vôlei de praia,Masculino e/ou Feminino,Oitavas de final,Arena de Vôlei de Praia,Av. Atlântica - Posto 2 - Copacabana, Rio de Janeiro
+BV022,2016-08-12T23:00-03:00,2016-08-12T00:50-03:00,Vôlei de praia,Masculino e/ou Feminino,Oitavas de final,Arena de Vôlei de Praia,Av. Atlântica - Posto 2 - Copacabana, Rio de Janeiro
+BV023,2016-08-13T11:00-03:00,2016-08-13T12:50-03:00,Vôlei de praia,Masculino e/ou Feminino,Oitavas de final,Arena de Vôlei de Praia,Av. Atlântica - Posto 2 - Copacabana, Rio de Janeiro
+BV024,2016-08-13T15:00-03:00,2016-08-13T16:50-03:00,Vôlei de praia,Masculino e/ou Feminino,Oitavas de final,Arena de Vôlei de Praia,Av. Atlântica - Posto 2 - Copacabana, Rio de Janeiro
+BV025,2016-08-13T19:00-03:00,2016-08-13T20:50-03:00,Vôlei de praia,Masculino e/ou Feminino,Oitavas de final,Arena de Vôlei de Praia,Av. Atlântica - Posto 2 - Copacabana, Rio de Janeiro
+BV026,2016-08-13T23:00-03:00,2016-08-13T00:50-03:00,Vôlei de praia,Masculino e/ou Feminino,Oitavas de final,Arena de Vôlei de Praia,Av. Atlântica - Posto 2 - Copacabana, Rio de Janeiro
+BV027,2016-08-14T16:00-03:00,2016-08-14T17:50-03:00,Vôlei de praia,Feminino,Quartas de final,Arena de Vôlei de Praia,Av. Atlântica - Posto 2 - Copacabana, Rio de Janeiro
+BV028,2016-08-14T23:00-03:00,2016-08-14T00:50-03:00,Vôlei de praia,Feminino,Quartas de final,Arena de Vôlei de Praia,Av. Atlântica - Posto 2 - Copacabana, Rio de Janeiro
+BV029,2016-08-15T16:00-03:00,2016-08-15T17:50-03:00,Vôlei de praia,Masculino,Quartas de final,Arena de Vôlei de Praia,Av. Atlântica - Posto 2 - Copacabana, Rio de Janeiro
+BV030,2016-08-15T23:00-03:00,2016-08-15T00:50-03:00,Vôlei de praia,Masculino,Quartas de final,Arena de Vôlei de Praia,Av. Atlântica - Posto 2 - Copacabana, Rio de Janeiro
+BV031,2016-08-16T16:00-03:00,2016-08-16T17:50-03:00,Vôlei de praia,Masculino e/ou Feminino,Semifinais,Arena de Vôlei de Praia,Av. Atlântica - Posto 2 - Copacabana, Rio de Janeiro
+BV032,2016-08-16T23:00-03:00,2016-08-16T00:50-03:00,Vôlei de praia,Masculino e/ou Feminino,Semifinais,Arena de Vôlei de Praia,Av. Atlântica - Posto 2 - Copacabana, Rio de Janeiro
+BV033,2016-08-17T22:00-03:00,2016-08-17T01:10-03:00,Vôlei de praia,Feminino,Bronze e Final,Arena de Vôlei de Praia,Av. Atlântica - Posto 2 - Copacabana, Rio de Janeiro
+BV034,2016-08-18T22:00-03:00,2016-08-18T01:10-03:00,Vôlei de praia,Masculino,Bronze e Final,Arena de Vôlei de Praia,Av. Atlântica - Posto 2 - Copacabana, Rio de Janeiro
+HB001,2016-08-06T09:30-03:00,2016-08-06T13:00-03:00,Handebol,Feminino,Primeira fase,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+HB002,2016-08-06T14:40-03:00,2016-08-06T18:10-03:00,Handebol,Feminino,Primeira fase,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+HB003,2016-08-06T19:50-03:00,2016-08-06T23:20-03:00,Handebol,Feminino,Primeira fase,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+HB004,2016-08-07T09:30-03:00,2016-08-07T13:00-03:00,Handebol,Masculino,Primeira fase,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+HB005,2016-08-07T14:40-03:00,2016-08-07T18:10-03:00,Handebol,Masculino,Primeira fase,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+HB006,2016-08-07T19:50-03:00,2016-08-07T23:20-03:00,Handebol,Masculino,Primeira fase,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+HB007,2016-08-08T09:30-03:00,2016-08-08T13:00-03:00,Handebol,Feminino,Primeira fase,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+HB008,2016-08-08T14:40-03:00,2016-08-08T18:10-03:00,Handebol,Feminino,Primeira fase,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+HB009,2016-08-08T19:50-03:00,2016-08-08T23:20-03:00,Handebol,Feminino,Primeira fase,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+HB010,2016-08-09T09:30-03:00,2016-08-09T13:00-03:00,Handebol,Masculino,Primeira fase,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+HB011,2016-08-09T14:40-03:00,2016-08-09T18:10-03:00,Handebol,Masculino,Primeira fase,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+HB012,2016-08-09T19:50-03:00,2016-08-09T23:20-03:00,Handebol,Masculino,Primeira fase,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+HB013,2016-08-10T09:30-03:00,2016-08-10T13:00-03:00,Handebol,Feminino,Primeira fase,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+HB014,2016-08-10T14:40-03:00,2016-08-10T18:10-03:00,Handebol,Feminino,Primeira fase,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+HB015,2016-08-10T19:50-03:00,2016-08-10T23:20-03:00,Handebol,Feminino,Primeira fase,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+HB016,2016-08-11T09:30-03:00,2016-08-11T13:00-03:00,Handebol,Masculino,Primeira fase,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+HB017,2016-08-11T14:40-03:00,2016-08-11T18:10-03:00,Handebol,Masculino,Primeira fase,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+HB018,2016-08-11T19:50-03:00,2016-08-11T23:20-03:00,Handebol,Masculino,Primeira fase,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+HB019,2016-08-12T09:30-03:00,2016-08-12T13:00-03:00,Handebol,Feminino,Primeira fase,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+HB020,2016-08-12T14:40-03:00,2016-08-12T18:10-03:00,Handebol,Feminino,Primeira fase,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+HB021,2016-08-12T19:50-03:00,2016-08-12T23:20-03:00,Handebol,Feminino,Primeira fase,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+HB022,2016-08-13T09:30-03:00,2016-08-13T13:00-03:00,Handebol,Masculino,Primeira fase,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+HB023,2016-08-13T14:40-03:00,2016-08-13T18:10-03:00,Handebol,Masculino,Primeira fase,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+HB024,2016-08-13T19:50-03:00,2016-08-13T23:20-03:00,Handebol,Masculino,Primeira fase,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+HB025,2016-08-14T09:30-03:00,2016-08-14T13:00-03:00,Handebol,Feminino,Primeira fase,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+HB026,2016-08-14T14:40-03:00,2016-08-14T18:10-03:00,Handebol,Feminino,Primeira fase,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+HB027,2016-08-14T19:50-03:00,2016-08-14T23:20-03:00,Handebol,Feminino,Primeira fase,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+HB028,2016-08-15T09:30-03:00,2016-08-15T13:00-03:00,Handebol,Masculino,Primeira fase,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+HB029,2016-08-15T14:40-03:00,2016-08-15T18:10-03:00,Handebol,Masculino,Primeira fase,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+HB030,2016-08-15T19:50-03:00,2016-08-15T23:20-03:00,Handebol,Masculino,Primeira fase,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+HB031,2016-08-16T10:00-03:00,2016-08-16T12:00-03:00,Handebol,Feminino,Quartas de final,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+HB032,2016-08-16T13:30-03:00,2016-08-16T15:30-03:00,Handebol,Feminino,Quartas de final,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+HB033,2016-08-16T17:00-03:00,2016-08-16T19:00-03:00,Handebol,Feminino,Quartas de final,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+HB034,2016-08-16T20:30-03:00,2016-08-16T22:30-03:00,Handebol,Feminino,Quartas de final,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+HB035,2016-08-17T10:00-03:00,2016-08-17T12:00-03:00,Handebol,Masculino,Quartas de final,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+HB036,2016-08-17T13:30-03:00,2016-08-17T15:30-03:00,Handebol,Masculino,Quartas de final,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+HB037,2016-08-17T17:00-03:00,2016-08-17T19:00-03:00,Handebol,Masculino,Quartas de final,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+HB038,2016-08-17T20:30-03:00,2016-08-17T22:30-03:00,Handebol,Masculino,Quartas de final,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+HB039,2016-08-18T15:30-03:00,2016-08-18T17:30-03:00,Handebol,Feminino,Semifinal,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+HB040,2016-08-18T20:30-03:00,2016-08-18T22:30-03:00,Handebol,Feminino,Semifinal,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+HB041,2016-08-19T15:30-03:00,2016-08-19T17:30-03:00,Handebol,Masculino,Semifinal,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+HB042,2016-08-19T20:30-03:00,2016-08-19T22:30-03:00,Handebol,Masculino,Semifinal,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+HB043,2016-08-20T11:30-03:00,2016-08-20T13:30-03:00,Handebol,Feminino,Bronze,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+HB044,2016-08-20T15:30-03:00,2016-08-20T17:45-03:00,Handebol,Feminino,Final,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+HB045,2016-08-21T10:30-03:00,2016-08-21T12:30-03:00,Handebol,Masculino,Bronze,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+HB046,2016-08-21T14:00-03:00,2016-08-21T16:15-03:00,Handebol,Masculino,Final,Arena do Futuro,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+FB006,2016-08-04T17:00-03:00,2016-08-04T22:00-03:00,Futebol,Masculino,primeira fase,Arena Fonte Nova,Ladeira Fonte das Pedras - Nazaré, Salvador
+FB013,2016-08-07T13:00-03:00,2016-08-07T18:00-03:00,Futebol,Masculino,primeira fase,Arena Fonte Nova,Ladeira Fonte das Pedras - Nazaré, Salvador
+FB016,2016-08-09T16:00-03:00,2016-08-09T21:00-03:00,Futebol,Feminino,primeira fase,Arena Fonte Nova,Ladeira Fonte das Pedras - Nazaré, Salvador
+FB021,2016-08-10T19:00-03:00,2016-08-10T00:00-03:00,Futebol,Masculino,primeira fase,Arena Fonte Nova,Ladeira Fonte das Pedras - Nazaré, Salvador
+FB024,2016-08-12T16:00-03:00,2016-08-12T18:00-03:00,Futebol,Feminino,quarta de final,Arena Fonte Nova,Ladeira Fonte das Pedras - Nazaré, Salvador
+FB028,2016-08-13T16:00-03:00,2016-08-13T18:00-03:00,Futebol,Masculino,quarta de final,Arena Fonte Nova,Ladeira Fonte das Pedras - Nazaré, Salvador
+GA001,2016-08-06T10:30-03:00,2016-08-06T13:00-03:00,Ginástica artística,Masculino,Classificatória,Arena Olímpica do Rio,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+GA002,2016-08-06T14:30-03:00,2016-08-06T17:00-03:00,Ginástica artística,Masculino,Classificatória,Arena Olímpica do Rio,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+GA003,2016-08-06T18:30-03:00,2016-08-06T21:00-03:00,Ginástica artística,Masculino,Classificatória,Arena Olímpica do Rio,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+GA004,2016-08-07T09:45-03:00,2016-08-07T13:00-03:00,Ginástica artística,Feminino,Classificatória,Arena Olímpica do Rio,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+GA005,2016-08-07T14:30-03:00,2016-08-07T16:00-03:00,Ginástica artística,Feminino,Classificatória,Arena Olímpica do Rio,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+GA006,2016-08-07T17:30-03:00,2016-08-07T19:00-03:00,Ginástica artística,Feminino,Classificatória,Arena Olímpica do Rio,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+GA007,2016-08-07T20:30-03:00,2016-08-07T22:00-03:00,Ginástica artística,Feminino,Classificatória,Arena Olímpica do Rio,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+GA008,2016-08-08T16:00-03:00,2016-08-08T19:00-03:00,Ginástica artística,Competição por Equipes masculina,Final,Arena Olímpica do Rio,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+GA009,2016-08-09T16:00-03:00,2016-08-09T18:15-03:00,Ginástica artística,Competição por Equipes feminina,Final,Arena Olímpica do Rio,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+GA010,2016-08-10T16:00-03:00,2016-08-10T18:45-03:00,Ginástica artística,Competição Individual Geral masculina,Final,Arena Olímpica do Rio,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+GA011,2016-08-11T16:00-03:00,2016-08-11T18:10-03:00,Ginástica artística,Competição Individual Geral feminina,Final,Arena Olímpica do Rio,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+GT001,2016-08-12T14:00-03:00,2016-08-12T16:30-03:00,Ginástica de trampolim,Rotina classificatória feminina,Final,Arena Olímpica do Rio,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+GT002,2016-08-13T14:00-03:00,2016-08-13T16:30-03:00,Ginástica de trampolim,Rotina classificatória masculina,Final,Arena Olímpica do Rio,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+GA012,2016-08-14T14:00-03:00,2016-08-14T17:00-03:00,Ginástica artística,Masculino e Feminino,Finais de aparelhos,Arena Olímpica do Rio,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+GA013,2016-08-15T14:00-03:00,2016-08-15T16:25-03:00,Ginástica artística,Masculino e Feminino,Finais de aparelhos,Arena Olímpica do Rio,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+GA014,2016-08-16T14:00-03:00,2016-08-16T16:15-03:00,Ginástica artística,Masculino e Feminino,Finais de aparelhos,Arena Olímpica do Rio,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+GR001,2016-08-19T10:20-03:00,2016-08-19T13:20-03:00,Ginástica rítmica,Competição individual geral feminina,Classificatórias,Arena Olímpica do Rio,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+GR002,2016-08-19T14:50-03:00,2016-08-19T17:50-03:00,Ginástica rítmica,Competição individual geral feminina,Classificatórias,Arena Olímpica do Rio,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+GR003,2016-08-20T10:00-03:00,2016-08-20T11:10-03:00,Ginástica rítmica,Competição por equipes femininas,Classificatórias,Arena Olímpica do Rio,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+GR004,2016-08-20T12:40-03:00,2016-08-20T13:50-03:00,Ginástica rítmica,Competição por equipes femininas,Classificatórias,Arena Olímpica do Rio,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+GR005,2016-08-20T15:20-03:00,2016-08-20T17:45-03:00,Ginástica rítmica,Competição individual geral feminina,Final,Arena Olímpica do Rio,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+GR006,2016-08-21T11:00-03:00,2016-08-21T12:45-03:00,Ginástica rítmica,Competição por equipes femininas,Final,Arena Olímpica do Rio,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
 TE032,2016-08-13T12:00-03:00,2016-08-13T20:00-03:00,Tênis,Duplas femininas,Bronze; Duplas mistas,Centro Olímpico de Tênis - Quadra 1,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
-TE031,2016-08-13T12:00-03:00,2016-08-13T20:00-03:00,Tênis,Simples masculino,Bronze; Simples feminino,Final,,
+TE031,2016-08-13T12:00-03:00,2016-08-13T20:00-03:00,Tênis,Simples masculino,Bronze; Simples feminino,Final
 BD016,2016-08-16T17:30-03:00,2016-08-16T23:00-03:00,Badminton,Simples feminino,Bronze; Quartas; Duplas mistas,Riocentro - Pavilhão 4,Av. Salvador Allende 6.555 - Barra da Tijuca, Rio de Janeiro
-FE008,2016-08-09T16:00-03:00,2016-08-09T18:30-03:00,Esgrima,Espada Individual masculina,Semifinais,Bronze e Finais,,
-FE002,2016-08-06T16:00-03:00,2016-08-06T18:30-03:00,Esgrima,Espada Individual feminina,Semifinais,Bronze e Final,,
-RU006,2016-08-08T17:30-03:00,2016-08-08T20:00-03:00,Rugby,Feminino,Disputa 5°-8º,Bronze e Final,,
-RU012,2016-08-11T17:30-03:00,2016-08-11T20:00-03:00,Rugby,Masculino,Disputa 5°-8º,Bronze e Final,,
+FE008,2016-08-09T16:00-03:00,2016-08-09T18:30-03:00,Esgrima,Espada Individual masculina,Semifinais,Bronze e Finais
+FE002,2016-08-06T16:00-03:00,2016-08-06T18:30-03:00,Esgrima,Espada Individual feminina,Semifinais,Bronze e Final
+RU006,2016-08-08T17:30-03:00,2016-08-08T20:00-03:00,Rugby,Feminino,Disputa 5°-8º,Bronze e Final
+RU012,2016-08-11T17:30-03:00,2016-08-11T20:00-03:00,Rugby,Masculino,Disputa 5°-8º,Bronze e Final
 BD018,2016-08-18T08:30-03:00,2016-08-18T13:30-03:00,Badminton,Simples feminino,Bronze e Final; Semifinais; Duplas,Riocentro - Pavilhão 4,Av. Salvador Allende 6.555 - Barra da Tijuca, Rio de Janeiro
-GO001,2016-08-11T07:30-03:00,2016-08-11T16:00-03:00,Golfe,Masculino,Volta 1,Campo Olímpico de Golfe,Av. das Américas 10.033 - Barra da Tijuca, Rio de Janeiro,
-GO002,2016-08-12T07:30-03:00,2016-08-12T16:00-03:00,Golfe,Masculino,Volta 2,Campo Olímpico de Golfe,Av. das Américas 10.033 - Barra da Tijuca, Rio de Janeiro,
-GO003,2016-08-13T07:30-03:00,2016-08-13T16:00-03:00,Golfe,Masculino,Volta 3,Campo Olímpico de Golfe,Av. das Américas 10.033 - Barra da Tijuca, Rio de Janeiro,
-GO004,2016-08-14T07:00-03:00,2016-08-14T15:50-03:00,Golfe,Masculino,Volta final,Campo Olímpico de Golfe,Av. das Américas 10.033 - Barra da Tijuca, Rio de Janeiro,
-GO005,2016-08-17T07:30-03:00,2016-08-17T16:00-03:00,Golfe,Feminino,Volta 1,Campo Olímpico de Golfe,Av. das Américas 10.033 - Barra da Tijuca, Rio de Janeiro,
-GO006,2016-08-18T07:30-03:00,2016-08-18T16:00-03:00,Golfe,Feminino,Volta 2,Campo Olímpico de Golfe,Av. das Américas 10.033 - Barra da Tijuca, Rio de Janeiro,
-GO007,2016-08-19T07:30-03:00,2016-08-19T16:00-03:00,Golfe,Feminino,Volta 3,Campo Olímpico de Golfe,Av. das Américas 10.033 - Barra da Tijuca, Rio de Janeiro,
-GO008,2016-08-20T07:00-03:00,2016-08-20T15:50-03:00,Golfe,Feminino,Volta final,Campo Olímpico de Golfe,Av. das Américas 10.033 - Barra da Tijuca, Rio de Janeiro,
-WP001,2016-08-06T09:00-03:00,2016-08-06T14:20-03:00,Polo aquático,Masculino,Primeira fase,Centro Aquático Maria Lenk,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,
-WP003,2016-08-06T19:30-03:00,2016-08-06T22:10-03:00,Polo aquático,Masculino,Primeira fase,Centro Aquático Maria Lenk,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,
-DV001,2016-08-07T16:00-03:00,2016-08-07T17:15-03:00,Saltos ornamentais,Sincronizado Trampolim 3m feminino,Final,Centro Aquático Maria Lenk,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,
-WP004,2016-08-08T09:00-03:00,2016-08-08T14:20-03:00,Polo aquático,Masculino,Primeira fase,Centro Aquático Maria Lenk,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,
-DV002,2016-08-08T16:00-03:00,2016-08-08T17:15-03:00,Saltos ornamentais,Sincronizado Plataforma 10m masculino,Final,Centro Aquático Maria Lenk,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,
-WP006,2016-08-08T19:30-03:00,2016-08-08T22:10-03:00,Polo aquático,Masculino,Primeira fase,Centro Aquático Maria Lenk,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,
-WP007,2016-08-09T09:00-03:00,2016-08-09T14:20-03:00,Polo aquático,Feminino,Primeira fase,Centro Aquático Maria Lenk,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,
-DV003,2016-08-09T16:00-03:00,2016-08-09T17:15-03:00,Saltos ornamentais,Sincronizado Plataforma 10m feminino,Final,Centro Aquático Maria Lenk,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,
-WP009,2016-08-10T09:00-03:00,2016-08-10T14:20-03:00,Polo aquático,Masculino,Primeira fase,Centro Aquático Maria Lenk,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,
-DV004,2016-08-10T16:00-03:00,2016-08-10T17:15-03:00,Saltos ornamentais,Sincronizado Trampolim 3m masculino,Final,Centro Aquático Maria Lenk,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,
-WP011,2016-08-10T19:30-03:00,2016-08-10T22:10-03:00,Polo aquático,Masculino,Primeira fase,Centro Aquático Maria Lenk,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,
-WP012,2016-08-11T09:00-03:00,2016-08-11T14:20-03:00,Polo aquático,Feminino,Primeira fase,Centro Aquático Maria Lenk,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,
-WP014,2016-08-12T09:00-03:00,2016-08-12T13:00-03:00,Polo aquático,Masculino,Primeira fase,Centro Aquático Maria Lenk,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,
-DV005,2016-08-12T15:30-03:00,2016-08-12T18:30-03:00,Saltos ornamentais,Trampolim 3m feminino,Preliminar,Centro Aquático Maria Lenk,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,
-WP016,2016-08-12T19:30-03:00,2016-08-12T23:30-03:00,Polo aquático,Masculino,Primeira fase,Centro Aquático Maria Lenk,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,
-WP017,2016-08-13T09:00-03:00,2016-08-13T14:20-03:00,Polo aquático,Feminino,Primeira fase,Centro Aquático Maria Lenk,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,
-DV006,2016-08-13T16:00-03:00,2016-08-13T17:40-03:00,Saltos ornamentais,Trampolim 3m feminino,Semifinal,Centro Aquático Maria Lenk,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,
-SY001,2016-08-14T11:00-03:00,2016-08-14T13:15-03:00,Nado sincronizado,Feminino,Dueto Rotina Livre,Centro Aquático Maria Lenk,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,
-DV007,2016-08-14T16:00-03:00,2016-08-14T17:30-03:00,Saltos ornamentais,Trampolim 3m feminino,Final,Centro Aquático Maria Lenk,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,
-SY002,2016-08-15T11:00-03:00,2016-08-15T13:15-03:00,Nado sincronizado,Feminino,Dueto Rotina Técnica,Centro Aquático Maria Lenk,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,
-DV008,2016-08-15T15:15-03:00,2016-08-15T18:45-03:00,Saltos ornamentais,Trampolim 3m masculino,Preliminar,Centro Aquático Maria Lenk,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,
-DV009,2016-08-16T10:00-03:00,2016-08-16T11:50-03:00,Saltos ornamentais,Trampolim 3m masculino,Semifinal,Centro Aquático Maria Lenk,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,
-SY003,2016-08-16T14:00-03:00,2016-08-16T15:30-03:00,Nado sincronizado,Feminino,Dueto Rotina Livre Final,Centro Aquático Maria Lenk,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,
-DV010,2016-08-16T18:00-03:00,2016-08-16T20:00-03:00,Saltos ornamentais,Trampolim 3m masculino,Final,Centro Aquático Maria Lenk,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,
-DV011,2016-08-17T15:00-03:00,2016-08-17T18:10-03:00,Saltos ornamentais,Plataforma 10m feminino,Preliminar,Centro Aquático Maria Lenk,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,
-DV012,2016-08-18T10:00-03:00,2016-08-18T11:30-03:00,Saltos ornamentais,Plataforma 10m feminino,Semifinal,Centro Aquático Maria Lenk,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,
-SY004,2016-08-18T13:00-03:00,2016-08-18T13:50-03:00,Nado sincronizado,Feminino,Rotina Técnica por Equipes,Centro Aquático Maria Lenk,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,
-DV013,2016-08-18T16:00-03:00,2016-08-18T17:30-03:00,Saltos ornamentais,Plataforma 10m feminino,Final,Centro Aquático Maria Lenk,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,
-SY005,2016-08-19T12:00-03:00,2016-08-19T13:30-03:00,Nado sincronizado,Feminino,Rotina Livre por Equipes,Centro Aquático Maria Lenk,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,
-DV014,2016-08-19T16:00-03:00,2016-08-19T19:10-03:00,Saltos ornamentais,Plataforma 10m masculino,Preliminar,Centro Aquático Maria Lenk,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,
-DV015,2016-08-20T11:00-03:00,2016-08-20T12:50-03:00,Saltos ornamentais,Plataforma 10m masculino,Semifinal,Centro Aquático Maria Lenk,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,
-DV016,2016-08-20T16:30-03:00,2016-08-20T18:10-03:00,Saltos ornamentais,Plataforma 10m masculino,Final,Centro Aquático Maria Lenk,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,
-CM001,2016-08-20T12:30-03:00,2016-08-20T14:30-03:00,Ciclismo mountain bike,Cross-country feminino,Final,Centro de Mountain Bike,Estrada Marechal Alencastro 1.357 -  Vila Militar, Rio de Janeiro,
-CM002,2016-08-21T12:30-03:00,2016-08-21T14:30-03:00,Ciclismo mountain bike,Cross-country masculino,Final,Centro de Mountain Bike,Estrada Marechal Alencastro 1.357 -  Vila Militar, Rio de Janeiro,
-CB001,2016-08-17T13:30-03:00,2016-08-17T15:25-03:00,Ciclismo BMX,Masculino e Feminino,Volta Classificatória,Centro Olímpico de BMX,Estrada Marechal Alencastro 1.357 -  Vila Militar, Rio de Janeiro,
-CB002,2016-08-18T13:30-03:00,2016-08-18T14:35-03:00,Ciclismo BMX,Masculino,Quartas,Centro Olímpico de BMX,Estrada Marechal Alencastro 1.357 -  Vila Militar, Rio de Janeiro,
-CB003,2016-08-19T13:30-03:00,2016-08-19T15:45-03:00,Ciclismo BMX,Masculino e Feminino,Semifinais e Finais,Centro Olímpico de BMX,Estrada Marechal Alencastro 1.357 -  Vila Militar, Rio de Janeiro,
-EC001,2016-08-06T10:00-03:00,2016-08-06T16:05-03:00,Hipismo CCE,CCE Adestramento Individual e por Equipes,,Centro Olímpico de Hipismo,Av. Duque de Caxias 2.660 -  Vila Militar, Rio de Janeiro,
-EC002,2016-08-07T10:00-03:00,2016-08-07T15:55-03:00,Hipismo CCE,CCE Adestramento Individual e por Equipes,,Centro Olímpico de Hipismo,Av. Duque de Caxias 2.660 -  Vila Militar, Rio de Janeiro,
-EC004,2016-08-09T10:00-03:00,2016-08-09T15:25-03:00,Hipismo CCE,CCE Saltos Individual e por Equipes,Final,Centro Olímpico de Hipismo,Av. Duque de Caxias 2.660 -  Vila Militar, Rio de Janeiro,
-ED001,2016-08-10T10:00-03:00,2016-08-10T16:00-03:00,Hipismo adestramento,Adestramento por Equipes,Preliminares,Centro Olímpico de Hipismo,Av. Duque de Caxias 2.660 -  Vila Militar, Rio de Janeiro,
-ED002,2016-08-11T10:00-03:00,2016-08-11T16:00-03:00,Hipismo adestramento,Adestramento por Equipes,Preliminares,Centro Olímpico de Hipismo,Av. Duque de Caxias 2.660 -  Vila Militar, Rio de Janeiro,
-ED003,2016-08-12T10:00-03:00,2016-08-12T16:40-03:00,Hipismo adestramento,Adestramento por Equipes,Finais,Centro Olímpico de Hipismo,Av. Duque de Caxias 2.660 -  Vila Militar, Rio de Janeiro,
-ES001,2016-08-14T10:00-03:00,2016-08-14T13:40-03:00,Hipismo saltos,Salto Individual,Classificatória,Centro Olímpico de Hipismo,Av. Duque de Caxias 2.660 -  Vila Militar, Rio de Janeiro,
-ED004,2016-08-15T10:00-03:00,2016-08-15T13:50-03:00,Hipismo adestramento,Adestramento Individual,Finais,Centro Olímpico de Hipismo,Av. Duque de Caxias 2.660 -  Vila Militar, Rio de Janeiro,
-ES002,2016-08-16T10:00-03:00,2016-08-16T13:30-03:00,Hipismo saltos,Saltos por Equipes,Classificatória,Centro Olímpico de Hipismo,Av. Duque de Caxias 2.660 -  Vila Militar, Rio de Janeiro,
-ES003,2016-08-17T10:00-03:00,2016-08-17T12:45-03:00,Hipismo saltos,Saltos por Equipes,Final,Centro Olímpico de Hipismo,Av. Duque de Caxias 2.660 -  Vila Militar, Rio de Janeiro,
-ES004,2016-08-19T10:00-03:00,2016-08-19T14:40-03:00,Hipismo saltos,Salto Individual,Final,Centro Olímpico de Hipismo,Av. Duque de Caxias 2.660 -  Vila Militar, Rio de Janeiro,
-HO001,2016-08-06T10:00-03:00,2016-08-06T14:15-03:00,Hóquei sobre grama,Masculino,Fase de grupos,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro,
-HO002,2016-08-06T11:00-03:00,2016-08-06T15:15-03:00,Hóquei sobre grama,Masculino,Fase de grupos,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro,
-HO003,2016-08-06T17:00-03:00,2016-08-06T21:15-03:00,Hóquei sobre grama,Feminino,Fase de grupos,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro,
-HO004,2016-08-06T18:00-03:00,2016-08-06T22:15-03:00,Hóquei sobre grama,Masculino,Fase de grupos,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro,
-HO005,2016-08-07T10:00-03:00,2016-08-07T14:15-03:00,Hóquei sobre grama,Feminino,Fase de grupos,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro,
-HO006,2016-08-07T11:00-03:00,2016-08-07T15:15-03:00,Hóquei sobre grama,Feminino,Fase de grupos,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro,
-HO007,2016-08-07T17:00-03:00,2016-08-07T21:15-03:00,Hóquei sobre grama,Masculino,Fase de grupos,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro,
-HO008,2016-08-07T18:00-03:00,2016-08-07T22:15-03:00,Hóquei sobre grama,Masculino,Fase de grupos,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro,
-HO009,2016-08-08T10:00-03:00,2016-08-08T14:15-03:00,Hóquei sobre grama,Masculino e Feminino,Fase de grupos,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro,
-HO010,2016-08-08T11:00-03:00,2016-08-08T15:15-03:00,Hóquei sobre grama,Masculino e Feminino,Fase de grupos,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro,
-HO011,2016-08-08T17:00-03:00,2016-08-08T21:15-03:00,Hóquei sobre grama,Feminino,Fase de grupos,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro,
-HO012,2016-08-08T18:00-03:00,2016-08-08T22:15-03:00,Hóquei sobre grama,Feminino,Fase de grupos,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro,
-HO013,2016-08-09T10:00-03:00,2016-08-09T14:15-03:00,Hóquei sobre grama,Masculino,Fase de grupos,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro,
-HO014,2016-08-09T11:00-03:00,2016-08-09T15:15-03:00,Hóquei sobre grama,Masculino,Fase de grupos,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro,
-HO015,2016-08-09T18:00-03:00,2016-08-09T22:15-03:00,Hóquei sobre grama,Masculino,Fase de grupos,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro,
-HO016,2016-08-10T10:00-03:00,2016-08-10T14:15-03:00,Hóquei sobre grama,Feminino,Fase de grupos,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro,
-HO017,2016-08-10T11:00-03:00,2016-08-10T15:15-03:00,Hóquei sobre grama,Feminino,Fase de grupos,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro,
-HO018,2016-08-10T17:00-03:00,2016-08-10T21:15-03:00,Hóquei sobre grama,Masculino e Feminino,Fase de grupos,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro,
-HO019,2016-08-10T18:00-03:00,2016-08-10T22:15-03:00,Hóquei sobre grama,Masculino e Feminino,Fase de grupos,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro,
-HO020,2016-08-11T10:00-03:00,2016-08-11T14:15-03:00,Hóquei sobre grama,Masculino,Fase de grupos,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro,
-HO021,2016-08-11T11:00-03:00,2016-08-11T15:15-03:00,Hóquei sobre grama,Masculino,Fase de grupos,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro,
-HO022,2016-08-11T17:00-03:00,2016-08-11T21:15-03:00,Hóquei sobre grama,Feminino,Fase de grupos,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro,
-HO023,2016-08-11T18:00-03:00,2016-08-11T22:15-03:00,Hóquei sobre grama,Feminino,Fase de grupos,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro,
-HO024,2016-08-12T10:00-03:00,2016-08-12T14:15-03:00,Hóquei sobre grama,Masculino e Feminino,Fase de grupos,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro,
-HO025,2016-08-12T11:00-03:00,2016-08-12T15:15-03:00,Hóquei sobre grama,Masculino e Feminino,Fase de grupos,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro,
-HO026,2016-08-12T17:00-03:00,2016-08-12T21:15-03:00,Hóquei sobre grama,Masculino,Fase de grupos,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro,
-HO027,2016-08-12T18:00-03:00,2016-08-12T22:15-03:00,Hóquei sobre grama,Masculino,Fase de grupos,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro,
-HO028,2016-08-13T10:00-03:00,2016-08-13T14:15-03:00,Hóquei sobre grama,Feminino,Fase de grupos,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro,
-HO029,2016-08-13T17:00-03:00,2016-08-13T21:15-03:00,Hóquei sobre grama,Feminino,Fase de grupos,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro,
-HO030,2016-08-13T18:00-03:00,2016-08-13T22:15-03:00,Hóquei sobre grama,Feminino,Fase de grupos,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro,
-HO031,2016-08-14T10:00-03:00,2016-08-14T14:45-03:00,Hóquei sobre grama,Masculino,Quartas de final,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro,
-HO032,2016-08-14T18:00-03:00,2016-08-14T22:45-03:00,Hóquei sobre grama,Masculino,Quartas de final,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro,
-HO033,2016-08-15T10:00-03:00,2016-08-15T14:45-03:00,Hóquei sobre grama,Feminino,Quartas de final,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro,
-HO034,2016-08-15T18:00-03:00,2016-08-15T22:45-03:00,Hóquei sobre grama,Feminino,Quartas de final,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro,
-HO035,2016-08-16T12:00-03:00,2016-08-16T14:15-03:00,Hóquei sobre grama,Masculino,Semifinais,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro,
-HO036,2016-08-16T17:00-03:00,2016-08-16T19:15-03:00,Hóquei sobre grama,Masculino,Semifinais,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro,
-HO037,2016-08-17T12:00-03:00,2016-08-17T14:15-03:00,Hóquei sobre grama,Feminino,Semifinais,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro,
-HO038,2016-08-17T17:00-03:00,2016-08-17T19:15-03:00,Hóquei sobre grama,Feminino,Semifinais,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro,
-HO039,2016-08-18T12:00-03:00,2016-08-18T14:15-03:00,Hóquei sobre grama,Masculino,Bronze,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro,
-HO040,2016-08-18T17:00-03:00,2016-08-18T19:30-03:00,Hóquei sobre grama,Masculino,Final,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro,
-HO041,2016-08-19T12:00-03:00,2016-08-19T14:45-03:00,Hóquei sobre grama,Feminino,Bronze,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro,
-HO042,2016-08-19T17:00-03:00,2016-08-19T19:30-03:00,Hóquei sobre grama,Feminino,Final,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro,
+GO001,2016-08-11T07:30-03:00,2016-08-11T16:00-03:00,Golfe,Masculino,Volta 1,Campo Olímpico de Golfe,Av. das Américas 10.033 - Barra da Tijuca, Rio de Janeiro
+GO002,2016-08-12T07:30-03:00,2016-08-12T16:00-03:00,Golfe,Masculino,Volta 2,Campo Olímpico de Golfe,Av. das Américas 10.033 - Barra da Tijuca, Rio de Janeiro
+GO003,2016-08-13T07:30-03:00,2016-08-13T16:00-03:00,Golfe,Masculino,Volta 3,Campo Olímpico de Golfe,Av. das Américas 10.033 - Barra da Tijuca, Rio de Janeiro
+GO004,2016-08-14T07:00-03:00,2016-08-14T15:50-03:00,Golfe,Masculino,Volta final,Campo Olímpico de Golfe,Av. das Américas 10.033 - Barra da Tijuca, Rio de Janeiro
+GO005,2016-08-17T07:30-03:00,2016-08-17T16:00-03:00,Golfe,Feminino,Volta 1,Campo Olímpico de Golfe,Av. das Américas 10.033 - Barra da Tijuca, Rio de Janeiro
+GO006,2016-08-18T07:30-03:00,2016-08-18T16:00-03:00,Golfe,Feminino,Volta 2,Campo Olímpico de Golfe,Av. das Américas 10.033 - Barra da Tijuca, Rio de Janeiro
+GO007,2016-08-19T07:30-03:00,2016-08-19T16:00-03:00,Golfe,Feminino,Volta 3,Campo Olímpico de Golfe,Av. das Américas 10.033 - Barra da Tijuca, Rio de Janeiro
+GO008,2016-08-20T07:00-03:00,2016-08-20T15:50-03:00,Golfe,Feminino,Volta final,Campo Olímpico de Golfe,Av. das Américas 10.033 - Barra da Tijuca, Rio de Janeiro
+WP001,2016-08-06T09:00-03:00,2016-08-06T14:20-03:00,Polo aquático,Masculino,Primeira fase,Centro Aquático Maria Lenk,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+WP003,2016-08-06T19:30-03:00,2016-08-06T22:10-03:00,Polo aquático,Masculino,Primeira fase,Centro Aquático Maria Lenk,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+DV001,2016-08-07T16:00-03:00,2016-08-07T17:15-03:00,Saltos ornamentais,Sincronizado Trampolim 3m feminino,Final,Centro Aquático Maria Lenk,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+WP004,2016-08-08T09:00-03:00,2016-08-08T14:20-03:00,Polo aquático,Masculino,Primeira fase,Centro Aquático Maria Lenk,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+DV002,2016-08-08T16:00-03:00,2016-08-08T17:15-03:00,Saltos ornamentais,Sincronizado Plataforma 10m masculino,Final,Centro Aquático Maria Lenk,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+WP006,2016-08-08T19:30-03:00,2016-08-08T22:10-03:00,Polo aquático,Masculino,Primeira fase,Centro Aquático Maria Lenk,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+WP007,2016-08-09T09:00-03:00,2016-08-09T14:20-03:00,Polo aquático,Feminino,Primeira fase,Centro Aquático Maria Lenk,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+DV003,2016-08-09T16:00-03:00,2016-08-09T17:15-03:00,Saltos ornamentais,Sincronizado Plataforma 10m feminino,Final,Centro Aquático Maria Lenk,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+WP009,2016-08-10T09:00-03:00,2016-08-10T14:20-03:00,Polo aquático,Masculino,Primeira fase,Centro Aquático Maria Lenk,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+DV004,2016-08-10T16:00-03:00,2016-08-10T17:15-03:00,Saltos ornamentais,Sincronizado Trampolim 3m masculino,Final,Centro Aquático Maria Lenk,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+WP011,2016-08-10T19:30-03:00,2016-08-10T22:10-03:00,Polo aquático,Masculino,Primeira fase,Centro Aquático Maria Lenk,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+WP012,2016-08-11T09:00-03:00,2016-08-11T14:20-03:00,Polo aquático,Feminino,Primeira fase,Centro Aquático Maria Lenk,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+WP014,2016-08-12T09:00-03:00,2016-08-12T13:00-03:00,Polo aquático,Masculino,Primeira fase,Centro Aquático Maria Lenk,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+DV005,2016-08-12T15:30-03:00,2016-08-12T18:30-03:00,Saltos ornamentais,Trampolim 3m feminino,Preliminar,Centro Aquático Maria Lenk,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+WP016,2016-08-12T19:30-03:00,2016-08-12T23:30-03:00,Polo aquático,Masculino,Primeira fase,Centro Aquático Maria Lenk,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+WP017,2016-08-13T09:00-03:00,2016-08-13T14:20-03:00,Polo aquático,Feminino,Primeira fase,Centro Aquático Maria Lenk,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+DV006,2016-08-13T16:00-03:00,2016-08-13T17:40-03:00,Saltos ornamentais,Trampolim 3m feminino,Semifinal,Centro Aquático Maria Lenk,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+SY001,2016-08-14T11:00-03:00,2016-08-14T13:15-03:00,Nado sincronizado,Feminino,Dueto Rotina Livre,Centro Aquático Maria Lenk,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+DV007,2016-08-14T16:00-03:00,2016-08-14T17:30-03:00,Saltos ornamentais,Trampolim 3m feminino,Final,Centro Aquático Maria Lenk,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+SY002,2016-08-15T11:00-03:00,2016-08-15T13:15-03:00,Nado sincronizado,Feminino,Dueto Rotina Técnica,Centro Aquático Maria Lenk,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+DV008,2016-08-15T15:15-03:00,2016-08-15T18:45-03:00,Saltos ornamentais,Trampolim 3m masculino,Preliminar,Centro Aquático Maria Lenk,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+DV009,2016-08-16T10:00-03:00,2016-08-16T11:50-03:00,Saltos ornamentais,Trampolim 3m masculino,Semifinal,Centro Aquático Maria Lenk,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+SY003,2016-08-16T14:00-03:00,2016-08-16T15:30-03:00,Nado sincronizado,Feminino,Dueto Rotina Livre Final,Centro Aquático Maria Lenk,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+DV010,2016-08-16T18:00-03:00,2016-08-16T20:00-03:00,Saltos ornamentais,Trampolim 3m masculino,Final,Centro Aquático Maria Lenk,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+DV011,2016-08-17T15:00-03:00,2016-08-17T18:10-03:00,Saltos ornamentais,Plataforma 10m feminino,Preliminar,Centro Aquático Maria Lenk,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+DV012,2016-08-18T10:00-03:00,2016-08-18T11:30-03:00,Saltos ornamentais,Plataforma 10m feminino,Semifinal,Centro Aquático Maria Lenk,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+SY004,2016-08-18T13:00-03:00,2016-08-18T13:50-03:00,Nado sincronizado,Feminino,Rotina Técnica por Equipes,Centro Aquático Maria Lenk,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+DV013,2016-08-18T16:00-03:00,2016-08-18T17:30-03:00,Saltos ornamentais,Plataforma 10m feminino,Final,Centro Aquático Maria Lenk,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+SY005,2016-08-19T12:00-03:00,2016-08-19T13:30-03:00,Nado sincronizado,Feminino,Rotina Livre por Equipes,Centro Aquático Maria Lenk,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+DV014,2016-08-19T16:00-03:00,2016-08-19T19:10-03:00,Saltos ornamentais,Plataforma 10m masculino,Preliminar,Centro Aquático Maria Lenk,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+DV015,2016-08-20T11:00-03:00,2016-08-20T12:50-03:00,Saltos ornamentais,Plataforma 10m masculino,Semifinal,Centro Aquático Maria Lenk,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+DV016,2016-08-20T16:30-03:00,2016-08-20T18:10-03:00,Saltos ornamentais,Plataforma 10m masculino,Final,Centro Aquático Maria Lenk,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+CM001,2016-08-20T12:30-03:00,2016-08-20T14:30-03:00,Ciclismo mountain bike,Cross-country feminino,Final,Centro de Mountain Bike,Estrada Marechal Alencastro 1.357 -  Vila Militar, Rio de Janeiro
+CM002,2016-08-21T12:30-03:00,2016-08-21T14:30-03:00,Ciclismo mountain bike,Cross-country masculino,Final,Centro de Mountain Bike,Estrada Marechal Alencastro 1.357 -  Vila Militar, Rio de Janeiro
+CB001,2016-08-17T13:30-03:00,2016-08-17T15:25-03:00,Ciclismo BMX,Masculino e Feminino,Volta Classificatória,Centro Olímpico de BMX,Estrada Marechal Alencastro 1.357 -  Vila Militar, Rio de Janeiro
+CB002,2016-08-18T13:30-03:00,2016-08-18T14:35-03:00,Ciclismo BMX,Masculino,Quartas,Centro Olímpico de BMX,Estrada Marechal Alencastro 1.357 -  Vila Militar, Rio de Janeiro
+CB003,2016-08-19T13:30-03:00,2016-08-19T15:45-03:00,Ciclismo BMX,Masculino e Feminino,Semifinais e Finais,Centro Olímpico de BMX,Estrada Marechal Alencastro 1.357 -  Vila Militar, Rio de Janeiro
+EC001,2016-08-06T10:00-03:00,2016-08-06T16:05-03:00,Hipismo CCE,CCE Adestramento Individual e por Equipes,,Centro Olímpico de Hipismo,Av. Duque de Caxias 2.660 -  Vila Militar, Rio de Janeiro
+EC002,2016-08-07T10:00-03:00,2016-08-07T15:55-03:00,Hipismo CCE,CCE Adestramento Individual e por Equipes,,Centro Olímpico de Hipismo,Av. Duque de Caxias 2.660 -  Vila Militar, Rio de Janeiro
+EC004,2016-08-09T10:00-03:00,2016-08-09T15:25-03:00,Hipismo CCE,CCE Saltos Individual e por Equipes,Final,Centro Olímpico de Hipismo,Av. Duque de Caxias 2.660 -  Vila Militar, Rio de Janeiro
+ED001,2016-08-10T10:00-03:00,2016-08-10T16:00-03:00,Hipismo adestramento,Adestramento por Equipes,Preliminares,Centro Olímpico de Hipismo,Av. Duque de Caxias 2.660 -  Vila Militar, Rio de Janeiro
+ED002,2016-08-11T10:00-03:00,2016-08-11T16:00-03:00,Hipismo adestramento,Adestramento por Equipes,Preliminares,Centro Olímpico de Hipismo,Av. Duque de Caxias 2.660 -  Vila Militar, Rio de Janeiro
+ED003,2016-08-12T10:00-03:00,2016-08-12T16:40-03:00,Hipismo adestramento,Adestramento por Equipes,Finais,Centro Olímpico de Hipismo,Av. Duque de Caxias 2.660 -  Vila Militar, Rio de Janeiro
+ES001,2016-08-14T10:00-03:00,2016-08-14T13:40-03:00,Hipismo saltos,Salto Individual,Classificatória,Centro Olímpico de Hipismo,Av. Duque de Caxias 2.660 -  Vila Militar, Rio de Janeiro
+ED004,2016-08-15T10:00-03:00,2016-08-15T13:50-03:00,Hipismo adestramento,Adestramento Individual,Finais,Centro Olímpico de Hipismo,Av. Duque de Caxias 2.660 -  Vila Militar, Rio de Janeiro
+ES002,2016-08-16T10:00-03:00,2016-08-16T13:30-03:00,Hipismo saltos,Saltos por Equipes,Classificatória,Centro Olímpico de Hipismo,Av. Duque de Caxias 2.660 -  Vila Militar, Rio de Janeiro
+ES003,2016-08-17T10:00-03:00,2016-08-17T12:45-03:00,Hipismo saltos,Saltos por Equipes,Final,Centro Olímpico de Hipismo,Av. Duque de Caxias 2.660 -  Vila Militar, Rio de Janeiro
+ES004,2016-08-19T10:00-03:00,2016-08-19T14:40-03:00,Hipismo saltos,Salto Individual,Final,Centro Olímpico de Hipismo,Av. Duque de Caxias 2.660 -  Vila Militar, Rio de Janeiro
+HO001,2016-08-06T10:00-03:00,2016-08-06T14:15-03:00,Hóquei sobre grama,Masculino,Fase de grupos,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro
+HO002,2016-08-06T11:00-03:00,2016-08-06T15:15-03:00,Hóquei sobre grama,Masculino,Fase de grupos,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro
+HO003,2016-08-06T17:00-03:00,2016-08-06T21:15-03:00,Hóquei sobre grama,Feminino,Fase de grupos,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro
+HO004,2016-08-06T18:00-03:00,2016-08-06T22:15-03:00,Hóquei sobre grama,Masculino,Fase de grupos,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro
+HO005,2016-08-07T10:00-03:00,2016-08-07T14:15-03:00,Hóquei sobre grama,Feminino,Fase de grupos,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro
+HO006,2016-08-07T11:00-03:00,2016-08-07T15:15-03:00,Hóquei sobre grama,Feminino,Fase de grupos,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro
+HO007,2016-08-07T17:00-03:00,2016-08-07T21:15-03:00,Hóquei sobre grama,Masculino,Fase de grupos,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro
+HO008,2016-08-07T18:00-03:00,2016-08-07T22:15-03:00,Hóquei sobre grama,Masculino,Fase de grupos,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro
+HO009,2016-08-08T10:00-03:00,2016-08-08T14:15-03:00,Hóquei sobre grama,Masculino e Feminino,Fase de grupos,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro
+HO010,2016-08-08T11:00-03:00,2016-08-08T15:15-03:00,Hóquei sobre grama,Masculino e Feminino,Fase de grupos,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro
+HO011,2016-08-08T17:00-03:00,2016-08-08T21:15-03:00,Hóquei sobre grama,Feminino,Fase de grupos,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro
+HO012,2016-08-08T18:00-03:00,2016-08-08T22:15-03:00,Hóquei sobre grama,Feminino,Fase de grupos,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro
+HO013,2016-08-09T10:00-03:00,2016-08-09T14:15-03:00,Hóquei sobre grama,Masculino,Fase de grupos,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro
+HO014,2016-08-09T11:00-03:00,2016-08-09T15:15-03:00,Hóquei sobre grama,Masculino,Fase de grupos,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro
+HO015,2016-08-09T18:00-03:00,2016-08-09T22:15-03:00,Hóquei sobre grama,Masculino,Fase de grupos,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro
+HO016,2016-08-10T10:00-03:00,2016-08-10T14:15-03:00,Hóquei sobre grama,Feminino,Fase de grupos,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro
+HO017,2016-08-10T11:00-03:00,2016-08-10T15:15-03:00,Hóquei sobre grama,Feminino,Fase de grupos,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro
+HO018,2016-08-10T17:00-03:00,2016-08-10T21:15-03:00,Hóquei sobre grama,Masculino e Feminino,Fase de grupos,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro
+HO019,2016-08-10T18:00-03:00,2016-08-10T22:15-03:00,Hóquei sobre grama,Masculino e Feminino,Fase de grupos,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro
+HO020,2016-08-11T10:00-03:00,2016-08-11T14:15-03:00,Hóquei sobre grama,Masculino,Fase de grupos,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro
+HO021,2016-08-11T11:00-03:00,2016-08-11T15:15-03:00,Hóquei sobre grama,Masculino,Fase de grupos,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro
+HO022,2016-08-11T17:00-03:00,2016-08-11T21:15-03:00,Hóquei sobre grama,Feminino,Fase de grupos,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro
+HO023,2016-08-11T18:00-03:00,2016-08-11T22:15-03:00,Hóquei sobre grama,Feminino,Fase de grupos,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro
+HO024,2016-08-12T10:00-03:00,2016-08-12T14:15-03:00,Hóquei sobre grama,Masculino e Feminino,Fase de grupos,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro
+HO025,2016-08-12T11:00-03:00,2016-08-12T15:15-03:00,Hóquei sobre grama,Masculino e Feminino,Fase de grupos,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro
+HO026,2016-08-12T17:00-03:00,2016-08-12T21:15-03:00,Hóquei sobre grama,Masculino,Fase de grupos,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro
+HO027,2016-08-12T18:00-03:00,2016-08-12T22:15-03:00,Hóquei sobre grama,Masculino,Fase de grupos,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro
+HO028,2016-08-13T10:00-03:00,2016-08-13T14:15-03:00,Hóquei sobre grama,Feminino,Fase de grupos,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro
+HO029,2016-08-13T17:00-03:00,2016-08-13T21:15-03:00,Hóquei sobre grama,Feminino,Fase de grupos,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro
+HO030,2016-08-13T18:00-03:00,2016-08-13T22:15-03:00,Hóquei sobre grama,Feminino,Fase de grupos,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro
+HO031,2016-08-14T10:00-03:00,2016-08-14T14:45-03:00,Hóquei sobre grama,Masculino,Quartas de final,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro
+HO032,2016-08-14T18:00-03:00,2016-08-14T22:45-03:00,Hóquei sobre grama,Masculino,Quartas de final,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro
+HO033,2016-08-15T10:00-03:00,2016-08-15T14:45-03:00,Hóquei sobre grama,Feminino,Quartas de final,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro
+HO034,2016-08-15T18:00-03:00,2016-08-15T22:45-03:00,Hóquei sobre grama,Feminino,Quartas de final,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro
+HO035,2016-08-16T12:00-03:00,2016-08-16T14:15-03:00,Hóquei sobre grama,Masculino,Semifinais,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro
+HO036,2016-08-16T17:00-03:00,2016-08-16T19:15-03:00,Hóquei sobre grama,Masculino,Semifinais,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro
+HO037,2016-08-17T12:00-03:00,2016-08-17T14:15-03:00,Hóquei sobre grama,Feminino,Semifinais,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro
+HO038,2016-08-17T17:00-03:00,2016-08-17T19:15-03:00,Hóquei sobre grama,Feminino,Semifinais,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro
+HO039,2016-08-18T12:00-03:00,2016-08-18T14:15-03:00,Hóquei sobre grama,Masculino,Bronze,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro
+HO040,2016-08-18T17:00-03:00,2016-08-18T19:30-03:00,Hóquei sobre grama,Masculino,Final,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro
+HO041,2016-08-19T12:00-03:00,2016-08-19T14:45-03:00,Hóquei sobre grama,Feminino,Bronze,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro
+HO042,2016-08-19T17:00-03:00,2016-08-19T19:30-03:00,Hóquei sobre grama,Feminino,Final,Centro Olímpico de Hóquei,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro
 TE001,2016-08-06T10:45-03:00,2016-08-06T16:30-03:00,Tênis,Masculino e Feminino,Simples e duplas,Centro Olímpico de Tênis - Quadra Central,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
 TE002,2016-08-06T11:00-03:00,2016-08-06T20:00-03:00,Tênis,Masculino e Feminino,Simples e duplas,Centro Olímpico de Tênis - Quadra 1,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
 TE003,2016-08-06T11:00-03:00,2016-08-06T20:00-03:00,Tênis,Masculino e Feminino,Simples e duplas,Centro Olímpico de Tênis - Quadra 2,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
@@ -334,83 +334,83 @@ TE017,2016-08-09T11:00-03:00,2016-08-09T20:00-03:00,Tênis,Masculino e Feminino,
 TE019,2016-08-09T11:00-03:00,2016-08-09T20:00-03:00,Tênis,Masculino e Feminino,Simples 2° e 3° rodadas; Duplas QF,Centro Olímpico de Tênis - Quadras 3-9,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
 TE020,2016-08-09T18:45-03:00,2016-08-09T23:00-03:00,Tênis,Masculino e Feminino,Simples 2° e 3° rodadas; Duplas QF,Centro Olímpico de Tênis - Quadra Central,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
 TE024,2016-08-10T11:00-03:00,2016-08-10T20:00-03:00,Tênis,Masculino,Simples 3° rodada; Duplas mistas 1° rodada,Centro Olímpico de Tênis - Quadras 3-9,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
-SH001,2016-08-06T08:30-03:00,2016-08-06T16:30-03:00,Tiro esportivo,Masculino e Feminino,Classificatórias e Finais,Centro Olímpico de Tiro,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro,
-SH010,2016-08-06T10:30-03:00,2016-08-06T11:30-03:00,Tiro esportivo,Feminino,Final,Centro Olímpico de Tiro,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro,
-SH011,2016-08-06T15:30-03:00,2016-08-06T16:30-03:00,Tiro esportivo,Masculino,Final,Centro Olímpico de Tiro,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro,
-SH002,2016-08-07T09:00-03:00,2016-08-07T16:30-03:00,Tiro esportivo,Masculino e Feminino,Classificatórias e Finais,Centro Olímpico de Tiro,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro,
-SH003,2016-08-08T09:00-03:00,2016-08-08T16:30-03:00,Tiro esportivo,Masculino,Classificatórias e Finais,Centro Olímpico de Tiro,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro,
-SH004,2016-08-09T09:00-03:00,2016-08-09T16:45-03:00,Tiro esportivo,Feminino,Classificatórias e Finais,Centro Olímpico de Tiro,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro,
-SH012,2016-08-09T15:30-03:00,2016-08-09T16:45-03:00,Tiro esportivo,Feminino,Final,Centro Olímpico de Tiro,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro,
-SH005,2016-08-10T09:00-03:00,2016-08-10T16:30-03:00,Tiro esportivo,Masculino,Classificatórias e Finais,Centro Olímpico de Tiro,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro,
-SH006,2016-08-11T09:00-03:00,2016-08-11T13:30-03:00,Tiro esportivo,Feminino,Classificatórias e Finais,Centro Olímpico de Tiro,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro,
-SH013,2016-08-11T12:00-03:00,2016-08-11T13:30-03:00,Tiro esportivo,Feminino,Final,Centro Olímpico de Tiro,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro,
-SH007,2016-08-12T09:00-03:00,2016-08-12T16:30-03:00,Tiro esportivo,Masculino e feminino,Classificatórias e Finais,Centro Olímpico de Tiro,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro,
-SH008,2016-08-13T09:00-03:00,2016-08-13T16:30-03:00,Tiro esportivo,Masculino,Classificatórias e Finais,Centro Olímpico de Tiro,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro,
-SH009,2016-08-14T09:00-03:00,2016-08-14T14:30-03:00,Tiro esportivo,Masculino,Classificatórias e Finais,Centro Olímpico de Tiro,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro,
-SH014,2016-08-14T13:00-03:00,2016-08-14T14:30-03:00,Tiro esportivo,Masculino,Final,Centro Olímpico de Tiro,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro,
+SH001,2016-08-06T08:30-03:00,2016-08-06T16:30-03:00,Tiro esportivo,Masculino e Feminino,Classificatórias e Finais,Centro Olímpico de Tiro,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro
+SH010,2016-08-06T10:30-03:00,2016-08-06T11:30-03:00,Tiro esportivo,Feminino,Final,Centro Olímpico de Tiro,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro
+SH011,2016-08-06T15:30-03:00,2016-08-06T16:30-03:00,Tiro esportivo,Masculino,Final,Centro Olímpico de Tiro,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro
+SH002,2016-08-07T09:00-03:00,2016-08-07T16:30-03:00,Tiro esportivo,Masculino e Feminino,Classificatórias e Finais,Centro Olímpico de Tiro,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro
+SH003,2016-08-08T09:00-03:00,2016-08-08T16:30-03:00,Tiro esportivo,Masculino,Classificatórias e Finais,Centro Olímpico de Tiro,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro
+SH004,2016-08-09T09:00-03:00,2016-08-09T16:45-03:00,Tiro esportivo,Feminino,Classificatórias e Finais,Centro Olímpico de Tiro,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro
+SH012,2016-08-09T15:30-03:00,2016-08-09T16:45-03:00,Tiro esportivo,Feminino,Final,Centro Olímpico de Tiro,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro
+SH005,2016-08-10T09:00-03:00,2016-08-10T16:30-03:00,Tiro esportivo,Masculino,Classificatórias e Finais,Centro Olímpico de Tiro,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro
+SH006,2016-08-11T09:00-03:00,2016-08-11T13:30-03:00,Tiro esportivo,Feminino,Classificatórias e Finais,Centro Olímpico de Tiro,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro
+SH013,2016-08-11T12:00-03:00,2016-08-11T13:30-03:00,Tiro esportivo,Feminino,Final,Centro Olímpico de Tiro,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro
+SH007,2016-08-12T09:00-03:00,2016-08-12T16:30-03:00,Tiro esportivo,Masculino e feminino,Classificatórias e Finais,Centro Olímpico de Tiro,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro
+SH008,2016-08-13T09:00-03:00,2016-08-13T16:30-03:00,Tiro esportivo,Masculino,Classificatórias e Finais,Centro Olímpico de Tiro,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro
+SH009,2016-08-14T09:00-03:00,2016-08-14T14:30-03:00,Tiro esportivo,Masculino,Classificatórias e Finais,Centro Olímpico de Tiro,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro
+SH014,2016-08-14T13:00-03:00,2016-08-14T14:30-03:00,Tiro esportivo,Masculino,Final,Centro Olímpico de Tiro,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro
 CT007,2016-08-15T16:00-03:00,2016-08-15T18:45-03:00,Ciclismo de pista,Masculino,Classific. e Finais; Feminino,Classific.,Velódromo Olímpico do Rio,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
 CT004,2016-08-13T16:00-03:00,2016-08-13T18:25-03:00,Ciclismo de pista,Masculino,Quartas e Semis; Feminino,Classific. e Final,Velódromo Olímpico do Rio,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
 CT008,2016-08-16T10:00-03:00,2016-08-16T11:50-03:00,Ciclismo de pista,Masculino,Classific.; Feminino,Classific. e Quartas,Velódromo Olímpico do Rio,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
 CT005,2016-08-14T16:00-03:00,2016-08-14T20:00-03:00,Ciclismo de pista,Masculino,Finais; Feminino,Classificatórias e Repescagem,Velódromo Olímpico do Rio,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
 CT003,2016-08-13T10:00-03:00,2016-08-13T11:40-03:00,Ciclismo de pista,Masculino,Oitavas; Feminino,Classificatórias e Semis,Velódromo Olímpico do Rio,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
-TE027,2016-08-11T12:00-03:00,2016-08-11T20:00-03:00,Tênis,Masculino e Feminino,Simples QF,Duplas QF e Semifinais,,
-TE026,2016-08-11T12:00-03:00,2016-08-11T20:00-03:00,Tênis,Masculino e Feminino,Simples QF e SF,Duplas QF e SF,,
-SW001,2016-08-06T13:00-03:00,2016-08-06T15:20-03:00,Natação,Masculino e Feminino,Eliminatórias,Estádio Aquático Olímpico,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,
-SW002,2016-08-06T22:00-03:00,2016-08-06T23:55-03:00,Natação,Masculino e Feminino,Semifinais e Finais,Estádio Aquático Olímpico,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,
-SW003,2016-08-07T13:00-03:00,2016-08-07T15:30-03:00,Natação,Masculino e Feminino,Eliminatórias,Estádio Aquático Olímpico,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,
-SW004,2016-08-07T22:00-03:00,2016-08-07T00:25-03:00,Natação,Masculino e Feminino,Semifinais e Finais,Estádio Aquático Olímpico,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,
-SW005,2016-08-08T13:00-03:00,2016-08-08T14:25-03:00,Natação,Masculino e Feminino,Eliminatórias,Estádio Aquático Olímpico,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,
-SW006,2016-08-08T22:00-03:00,2016-08-08T00:00-03:00,Natação,Masculino e Feminino,Semifinais e Finais,Estádio Aquático Olímpico,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,
-SW007,2016-08-09T13:00-03:00,2016-08-09T14:45-03:00,Natação,Masculino e Feminino,Eliminatórias,Estádio Aquático Olímpico,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,
-SW008,2016-08-09T22:00-03:00,2016-08-09T00:10-03:00,Natação,Masculino e Feminino,Semifinais e Finais,Estádio Aquático Olímpico,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,
-SW009,2016-08-10T13:00-03:00,2016-08-10T15:00-03:00,Natação,Masculino e Feminino,Eliminatórias,Estádio Aquático Olímpico,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,
-SW010,2016-08-10T22:00-03:00,2016-08-10T00:30-03:00,Natação,Masculino e Feminino,Semifinais e Finais,Estádio Aquático Olímpico,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,
-SW011,2016-08-11T13:00-03:00,2016-08-11T16:00-03:00,Natação,Masculino e Feminino,Eliminatórias,Estádio Aquático Olímpico,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,
-SW012,2016-08-11T22:00-03:00,2016-08-11T23:55-03:00,Natação,Masculino e Feminino,Semifinais e Finais,Estádio Aquático Olímpico,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,
-SW013,2016-08-12T13:00-03:00,2016-08-12T15:35-03:00,Natação,Masculino e Feminino,Eliminatórias,Estádio Aquático Olímpico,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,
-SW014,2016-08-12T22:00-03:00,2016-08-12T23:30-03:00,Natação,Masculino e Feminino,Semifinais e Finais,Estádio Aquático Olímpico,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,
-SW015,2016-08-13T22:00-03:00,2016-08-13T23:40-03:00,Natação,Masculino e Feminino,Finais,Estádio Aquático Olímpico,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,
-WP019,2016-08-14T12:50-03:00,2016-08-14T18:10-03:00,Polo aquático,Masculino,Primeira fase,Estádio Aquático Olímpico,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,
-WP020,2016-08-14T19:30-03:00,2016-08-14T22:10-03:00,Polo aquático,Masculino,Primeira fase,Estádio Aquático Olímpico,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,
-WP022,2016-08-15T14:10-03:00,2016-08-15T16:50-03:00,Polo aquático,Feminino,Quartas de final,Estádio Aquático Olímpico,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,
-WP023,2016-08-15T18:20-03:00,2016-08-15T21:00-03:00,Polo aquático,Feminino,Quartas de final,Estádio Aquático Olímpico,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,
-WP024,2016-08-16T11:00-03:00,2016-08-16T13:40-03:00,Polo aquático,Masculino,Quartas de final,Estádio Aquático Olímpico,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,
-WP025,2016-08-16T15:10-03:00,2016-08-16T17:50-03:00,Polo aquático,Masculino,Quartas de final,Estádio Aquático Olímpico,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,
-WP026,2016-08-17T11:00-03:00,2016-08-17T13:40-03:00,Polo aquático,Feminino,Classificação e Semifinal,Estádio Aquático Olímpico,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,
-WP027,2016-08-17T15:10-03:00,2016-08-17T17:50-03:00,Polo aquático,Feminino,Classificação e Semifinal,Estádio Aquático Olímpico,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,
-WP028,2016-08-18T11:00-03:00,2016-08-18T13:40-03:00,Polo aquático,Masculino,Classificação e Semifinal,Estádio Aquático Olímpico,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,
-WP029,2016-08-18T15:10-03:00,2016-08-18T17:50-03:00,Polo aquático,Masculino,Classificação e Semifinal,Estádio Aquático Olímpico,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,
-WP030,2016-08-19T10:00-03:00,2016-08-19T12:40-03:00,Polo aquático,Feminino,Classificação e Bronze,Estádio Aquático Olímpico,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,
-WP031,2016-08-19T14:10-03:00,2016-08-19T17:20-03:00,Polo aquático,Feminino,Classificação e Final,Estádio Aquático Olímpico,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,
-WP032,2016-08-20T11:40-03:00,2016-08-20T14:20-03:00,Polo aquático,Masculino,Classificação e Bronze,Estádio Aquático Olímpico,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,
-WP033,2016-08-20T16:30-03:00,2016-08-20T19:40-03:00,Polo aquático,Masculino,Classificação e Final,Estádio Aquático Olímpico,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,
-RO001,2016-08-06T08:30-03:00,2016-08-06T13:10-03:00,Remo,Masculino e Feminino,Baterias,Estádio da Lagoa,Av. Borges de Medeiros 1.424 - Lagoa, Rio de Janeiro,
-RO002,2016-08-07T08:30-03:00,2016-08-07T12:30-03:00,Remo,Masculino e Feminino,Baterias e Repescagens,Estádio da Lagoa,Av. Borges de Medeiros 1.424 - Lagoa, Rio de Janeiro,
-RO004,2016-08-09T08:30-03:00,2016-08-09T11:50-03:00,Remo,Masculino e Feminino,Quartas de final e Semifinais,Estádio da Lagoa,Av. Borges de Medeiros 1.424 - Lagoa, Rio de Janeiro,
-RO005,2016-08-10T08:30-03:00,2016-08-10T12:40-03:00,Remo,Masculino e Feminino,Semifinais e Final,Estádio da Lagoa,Av. Borges de Medeiros 1.424 - Lagoa, Rio de Janeiro,
-RO006,2016-08-11T08:30-03:00,2016-08-11T11:15-03:00,Remo,Masculino e Feminino,Semifinais e Final,Estádio da Lagoa,Av. Borges de Medeiros 1.424 - Lagoa, Rio de Janeiro,
-RO007,2016-08-12T08:30-03:00,2016-08-12T11:15-03:00,Remo,Masculino e Feminino,Final,Estádio da Lagoa,Av. Borges de Medeiros 1.424 - Lagoa, Rio de Janeiro,
-RO008,2016-08-13T09:30-03:00,2016-08-13T12:00-03:00,Remo,Masculino e Feminino,Final,Estádio da Lagoa,Av. Borges de Medeiros 1.424 - Lagoa, Rio de Janeiro,
-CF001,2016-08-15T09:00-03:00,2016-08-15T11:30-03:00,Canoagem velocidade,Masculino e Feminino,Classificatórias e semifinais,Estádio da Lagoa,Av. Borges de Medeiros 1.424 - Lagoa, Rio de Janeiro,
-CF002,2016-08-16T09:00-03:00,2016-08-16T10:40-03:00,Canoagem velocidade,Masculino e Feminino,Finais,Estádio da Lagoa,Av. Borges de Medeiros 1.424 - Lagoa, Rio de Janeiro,
-CF003,2016-08-17T09:00-03:00,2016-08-17T11:05-03:00,Canoagem velocidade,Masculino e Feminino,Classificatórias e semifinais,Estádio da Lagoa,Av. Borges de Medeiros 1.424 - Lagoa, Rio de Janeiro,
-CF004,2016-08-18T09:00-03:00,2016-08-18T10:25-03:00,Canoagem velocidade,Masculino e Feminino,Finais,Estádio da Lagoa,Av. Borges de Medeiros 1.424 - Lagoa, Rio de Janeiro,
-CF005,2016-08-19T09:00-03:00,2016-08-19T10:45-03:00,Canoagem velocidade,Masculino e Feminino,Classificatórias e semifinais,Estádio da Lagoa,Av. Borges de Medeiros 1.424 - Lagoa, Rio de Janeiro,
-CF006,2016-08-20T09:00-03:00,2016-08-20T10:30-03:00,Canoagem velocidade,Masculino e Feminino,Finais,Estádio da Lagoa,Av. Borges de Medeiros 1.424 - Lagoa, Rio de Janeiro,
-CS001,2016-08-07T12:30-03:00,2016-08-07T16:15-03:00,Canoagem slalom,Masculino,Classificatórias de canoa e caiaque,Estádio de Canoagem Slalom,Estrada Marechal Alencastro 1357  Vila Militar -  Ricardo de Albuquerque, Rio de Janeiro,
-CS002,2016-08-08T12:30-03:00,2016-08-08T15:55-03:00,Canoagem slalom,Masculino e Feminino,Classificatórias de canoa e caiaque,Estádio de Canoagem Slalom,Estrada Marechal Alencastro 1357  Vila Militar -  Ricardo de Albuquerque, Rio de Janeiro,
-CS003,2016-08-09T13:30-03:00,2016-08-09T16:10-03:00,Canoagem slalom,Canoa Individual masculina,Semifinais e Final,Estádio de Canoagem Slalom,Estrada Marechal Alencastro 1357  Vila Militar -  Ricardo de Albuquerque, Rio de Janeiro,
-CS004,2016-08-10T13:30-03:00,2016-08-10T16:15-03:00,Canoagem slalom,Caiaque masculino,Semifinal e Final,Estádio de Canoagem Slalom,Estrada Marechal Alencastro 1357  Vila Militar -  Ricardo de Albuquerque, Rio de Janeiro,
-RU001,2016-08-06T11:00-03:00,2016-08-06T14:00-03:00,Rugby,Feminino,Fase de grupos (6 Partidas),Estádio de Deodoro,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro,
-RU002,2016-08-06T16:00-03:00,2016-08-06T19:00-03:00,Rugby,Feminino,Fase de grupos (6 Partidas),Estádio de Deodoro,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro,
-RU003,2016-08-07T11:00-03:00,2016-08-07T14:00-03:00,Rugby,Feminino,Fase de grupos (6 Partidas),Estádio de Deodoro,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro,
-RU004,2016-08-07T16:00-03:00,2016-08-07T19:00-03:00,Rugby,Feminino,Disputa 9º-12º e Quartas de Final,Estádio de Deodoro,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro,
-RU005,2016-08-08T12:30-03:00,2016-08-08T15:30-03:00,Rugby,Feminino,Disputa 5°-12º e Semifinais,Estádio de Deodoro,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro,
-RU007,2016-08-09T11:00-03:00,2016-08-09T14:00-03:00,Rugby,Masculino,Fase de grupos (6 Partidas),Estádio de Deodoro,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro,
-RU008,2016-08-09T16:00-03:00,2016-08-09T19:00-03:00,Rugby,Masculino,Fase de grupos (6 Partidas),Estádio de Deodoro,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro,
-RU009,2016-08-10T11:00-03:00,2016-08-10T14:00-03:00,Rugby,Masculino,Fase de grupos (6 Partidas),Estádio de Deodoro,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro,
-RU010,2016-08-10T16:00-03:00,2016-08-10T19:00-03:00,Rugby,Masculino,Disputa 9º-12º e Quartas de Final,Estádio de Deodoro,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro,
-RU011,2016-08-11T12:30-03:00,2016-08-11T15:30-03:00,Rugby,Masculino,Disputa 5°-12º e Semifinais,Estádio de Deodoro,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro,
+TE027,2016-08-11T12:00-03:00,2016-08-11T20:00-03:00,Tênis,Masculino e Feminino,Simples QF,Duplas QF e Semifinais
+TE026,2016-08-11T12:00-03:00,2016-08-11T20:00-03:00,Tênis,Masculino e Feminino,Simples QF e SF,Duplas QF e SF
+SW001,2016-08-06T13:00-03:00,2016-08-06T15:20-03:00,Natação,Masculino e Feminino,Eliminatórias,Estádio Aquático Olímpico,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+SW002,2016-08-06T22:00-03:00,2016-08-06T23:55-03:00,Natação,Masculino e Feminino,Semifinais e Finais,Estádio Aquático Olímpico,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+SW003,2016-08-07T13:00-03:00,2016-08-07T15:30-03:00,Natação,Masculino e Feminino,Eliminatórias,Estádio Aquático Olímpico,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+SW004,2016-08-07T22:00-03:00,2016-08-07T00:25-03:00,Natação,Masculino e Feminino,Semifinais e Finais,Estádio Aquático Olímpico,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+SW005,2016-08-08T13:00-03:00,2016-08-08T14:25-03:00,Natação,Masculino e Feminino,Eliminatórias,Estádio Aquático Olímpico,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+SW006,2016-08-08T22:00-03:00,2016-08-08T00:00-03:00,Natação,Masculino e Feminino,Semifinais e Finais,Estádio Aquático Olímpico,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+SW007,2016-08-09T13:00-03:00,2016-08-09T14:45-03:00,Natação,Masculino e Feminino,Eliminatórias,Estádio Aquático Olímpico,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+SW008,2016-08-09T22:00-03:00,2016-08-09T00:10-03:00,Natação,Masculino e Feminino,Semifinais e Finais,Estádio Aquático Olímpico,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+SW009,2016-08-10T13:00-03:00,2016-08-10T15:00-03:00,Natação,Masculino e Feminino,Eliminatórias,Estádio Aquático Olímpico,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+SW010,2016-08-10T22:00-03:00,2016-08-10T00:30-03:00,Natação,Masculino e Feminino,Semifinais e Finais,Estádio Aquático Olímpico,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+SW011,2016-08-11T13:00-03:00,2016-08-11T16:00-03:00,Natação,Masculino e Feminino,Eliminatórias,Estádio Aquático Olímpico,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+SW012,2016-08-11T22:00-03:00,2016-08-11T23:55-03:00,Natação,Masculino e Feminino,Semifinais e Finais,Estádio Aquático Olímpico,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+SW013,2016-08-12T13:00-03:00,2016-08-12T15:35-03:00,Natação,Masculino e Feminino,Eliminatórias,Estádio Aquático Olímpico,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+SW014,2016-08-12T22:00-03:00,2016-08-12T23:30-03:00,Natação,Masculino e Feminino,Semifinais e Finais,Estádio Aquático Olímpico,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+SW015,2016-08-13T22:00-03:00,2016-08-13T23:40-03:00,Natação,Masculino e Feminino,Finais,Estádio Aquático Olímpico,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+WP019,2016-08-14T12:50-03:00,2016-08-14T18:10-03:00,Polo aquático,Masculino,Primeira fase,Estádio Aquático Olímpico,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+WP020,2016-08-14T19:30-03:00,2016-08-14T22:10-03:00,Polo aquático,Masculino,Primeira fase,Estádio Aquático Olímpico,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+WP022,2016-08-15T14:10-03:00,2016-08-15T16:50-03:00,Polo aquático,Feminino,Quartas de final,Estádio Aquático Olímpico,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+WP023,2016-08-15T18:20-03:00,2016-08-15T21:00-03:00,Polo aquático,Feminino,Quartas de final,Estádio Aquático Olímpico,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+WP024,2016-08-16T11:00-03:00,2016-08-16T13:40-03:00,Polo aquático,Masculino,Quartas de final,Estádio Aquático Olímpico,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+WP025,2016-08-16T15:10-03:00,2016-08-16T17:50-03:00,Polo aquático,Masculino,Quartas de final,Estádio Aquático Olímpico,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+WP026,2016-08-17T11:00-03:00,2016-08-17T13:40-03:00,Polo aquático,Feminino,Classificação e Semifinal,Estádio Aquático Olímpico,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+WP027,2016-08-17T15:10-03:00,2016-08-17T17:50-03:00,Polo aquático,Feminino,Classificação e Semifinal,Estádio Aquático Olímpico,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+WP028,2016-08-18T11:00-03:00,2016-08-18T13:40-03:00,Polo aquático,Masculino,Classificação e Semifinal,Estádio Aquático Olímpico,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+WP029,2016-08-18T15:10-03:00,2016-08-18T17:50-03:00,Polo aquático,Masculino,Classificação e Semifinal,Estádio Aquático Olímpico,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+WP030,2016-08-19T10:00-03:00,2016-08-19T12:40-03:00,Polo aquático,Feminino,Classificação e Bronze,Estádio Aquático Olímpico,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+WP031,2016-08-19T14:10-03:00,2016-08-19T17:20-03:00,Polo aquático,Feminino,Classificação e Final,Estádio Aquático Olímpico,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+WP032,2016-08-20T11:40-03:00,2016-08-20T14:20-03:00,Polo aquático,Masculino,Classificação e Bronze,Estádio Aquático Olímpico,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+WP033,2016-08-20T16:30-03:00,2016-08-20T19:40-03:00,Polo aquático,Masculino,Classificação e Final,Estádio Aquático Olímpico,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+RO001,2016-08-06T08:30-03:00,2016-08-06T13:10-03:00,Remo,Masculino e Feminino,Baterias,Estádio da Lagoa,Av. Borges de Medeiros 1.424 - Lagoa, Rio de Janeiro
+RO002,2016-08-07T08:30-03:00,2016-08-07T12:30-03:00,Remo,Masculino e Feminino,Baterias e Repescagens,Estádio da Lagoa,Av. Borges de Medeiros 1.424 - Lagoa, Rio de Janeiro
+RO004,2016-08-09T08:30-03:00,2016-08-09T11:50-03:00,Remo,Masculino e Feminino,Quartas de final e Semifinais,Estádio da Lagoa,Av. Borges de Medeiros 1.424 - Lagoa, Rio de Janeiro
+RO005,2016-08-10T08:30-03:00,2016-08-10T12:40-03:00,Remo,Masculino e Feminino,Semifinais e Final,Estádio da Lagoa,Av. Borges de Medeiros 1.424 - Lagoa, Rio de Janeiro
+RO006,2016-08-11T08:30-03:00,2016-08-11T11:15-03:00,Remo,Masculino e Feminino,Semifinais e Final,Estádio da Lagoa,Av. Borges de Medeiros 1.424 - Lagoa, Rio de Janeiro
+RO007,2016-08-12T08:30-03:00,2016-08-12T11:15-03:00,Remo,Masculino e Feminino,Final,Estádio da Lagoa,Av. Borges de Medeiros 1.424 - Lagoa, Rio de Janeiro
+RO008,2016-08-13T09:30-03:00,2016-08-13T12:00-03:00,Remo,Masculino e Feminino,Final,Estádio da Lagoa,Av. Borges de Medeiros 1.424 - Lagoa, Rio de Janeiro
+CF001,2016-08-15T09:00-03:00,2016-08-15T11:30-03:00,Canoagem velocidade,Masculino e Feminino,Classificatórias e semifinais,Estádio da Lagoa,Av. Borges de Medeiros 1.424 - Lagoa, Rio de Janeiro
+CF002,2016-08-16T09:00-03:00,2016-08-16T10:40-03:00,Canoagem velocidade,Masculino e Feminino,Finais,Estádio da Lagoa,Av. Borges de Medeiros 1.424 - Lagoa, Rio de Janeiro
+CF003,2016-08-17T09:00-03:00,2016-08-17T11:05-03:00,Canoagem velocidade,Masculino e Feminino,Classificatórias e semifinais,Estádio da Lagoa,Av. Borges de Medeiros 1.424 - Lagoa, Rio de Janeiro
+CF004,2016-08-18T09:00-03:00,2016-08-18T10:25-03:00,Canoagem velocidade,Masculino e Feminino,Finais,Estádio da Lagoa,Av. Borges de Medeiros 1.424 - Lagoa, Rio de Janeiro
+CF005,2016-08-19T09:00-03:00,2016-08-19T10:45-03:00,Canoagem velocidade,Masculino e Feminino,Classificatórias e semifinais,Estádio da Lagoa,Av. Borges de Medeiros 1.424 - Lagoa, Rio de Janeiro
+CF006,2016-08-20T09:00-03:00,2016-08-20T10:30-03:00,Canoagem velocidade,Masculino e Feminino,Finais,Estádio da Lagoa,Av. Borges de Medeiros 1.424 - Lagoa, Rio de Janeiro
+CS001,2016-08-07T12:30-03:00,2016-08-07T16:15-03:00,Canoagem slalom,Masculino,Classificatórias de canoa e caiaque,Estádio de Canoagem Slalom,Estrada Marechal Alencastro 1357  Vila Militar -  Ricardo de Albuquerque, Rio de Janeiro
+CS002,2016-08-08T12:30-03:00,2016-08-08T15:55-03:00,Canoagem slalom,Masculino e Feminino,Classificatórias de canoa e caiaque,Estádio de Canoagem Slalom,Estrada Marechal Alencastro 1357  Vila Militar -  Ricardo de Albuquerque, Rio de Janeiro
+CS003,2016-08-09T13:30-03:00,2016-08-09T16:10-03:00,Canoagem slalom,Canoa Individual masculina,Semifinais e Final,Estádio de Canoagem Slalom,Estrada Marechal Alencastro 1357  Vila Militar -  Ricardo de Albuquerque, Rio de Janeiro
+CS004,2016-08-10T13:30-03:00,2016-08-10T16:15-03:00,Canoagem slalom,Caiaque masculino,Semifinal e Final,Estádio de Canoagem Slalom,Estrada Marechal Alencastro 1357  Vila Militar -  Ricardo de Albuquerque, Rio de Janeiro
+RU001,2016-08-06T11:00-03:00,2016-08-06T14:00-03:00,Rugby,Feminino,Fase de grupos (6 Partidas),Estádio de Deodoro,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro
+RU002,2016-08-06T16:00-03:00,2016-08-06T19:00-03:00,Rugby,Feminino,Fase de grupos (6 Partidas),Estádio de Deodoro,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro
+RU003,2016-08-07T11:00-03:00,2016-08-07T14:00-03:00,Rugby,Feminino,Fase de grupos (6 Partidas),Estádio de Deodoro,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro
+RU004,2016-08-07T16:00-03:00,2016-08-07T19:00-03:00,Rugby,Feminino,Disputa 9º-12º e Quartas de Final,Estádio de Deodoro,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro
+RU005,2016-08-08T12:30-03:00,2016-08-08T15:30-03:00,Rugby,Feminino,Disputa 5°-12º e Semifinais,Estádio de Deodoro,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro
+RU007,2016-08-09T11:00-03:00,2016-08-09T14:00-03:00,Rugby,Masculino,Fase de grupos (6 Partidas),Estádio de Deodoro,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro
+RU008,2016-08-09T16:00-03:00,2016-08-09T19:00-03:00,Rugby,Masculino,Fase de grupos (6 Partidas),Estádio de Deodoro,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro
+RU009,2016-08-10T11:00-03:00,2016-08-10T14:00-03:00,Rugby,Masculino,Fase de grupos (6 Partidas),Estádio de Deodoro,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro
+RU010,2016-08-10T16:00-03:00,2016-08-10T19:00-03:00,Rugby,Masculino,Disputa 9º-12º e Quartas de Final,Estádio de Deodoro,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro
+RU011,2016-08-11T12:30-03:00,2016-08-11T15:30-03:00,Rugby,Masculino,Disputa 5°-12º e Semifinais,Estádio de Deodoro,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro
 FB004,2016-08-04T13:00-03:00,2016-08-04T18:00-03:00,Futebol,Masculino,primeira fase,Estádio Mané Garrincha,Setor Recreativo Parque Norte - SRPN - Asa Norte, Brasília
 FB014,2016-08-07T19:00-03:00,2016-08-07T00:00-03:00,Futebol,Masculino,primeira fase,Estádio Mané Garrincha,Setor Recreativo Parque Norte - SRPN - Asa Norte, Brasília
 FB015,2016-08-09T16:00-03:00,2016-08-09T18:00-03:00,Futebol,Feminino,primeira fase,Estádio Mané Garrincha,Setor Recreativo Parque Norte - SRPN - Asa Norte, Brasília
@@ -422,93 +422,93 @@ FB001,2016-08-03T13:00-03:00,2016-08-03T18:00-03:00,Futebol,Feminino,primeira fa
 FB005,2016-08-04T15:00-03:00,2016-08-04T20:00-03:00,Futebol,Masculino,primeira fase,Estádio Olímpico Engenhão,Rua José dos Reis 425 - Engenho de Dentro, Rio de Janeiro
 FB010,2016-08-06T19:00-03:00,2016-08-06T00:00-03:00,Futebol,Feminino,primeira fase,Estádio Olímpico Engenhão,Rua José dos Reis 425 - Engenho de Dentro, Rio de Janeiro
 FB012,2016-08-07T15:00-03:00,2016-08-07T20:00-03:00,Futebol,Masculino,primeira fase,Estádio Olímpico Engenhão,Rua José dos Reis 425 - Engenho de Dentro, Rio de Janeiro
-WG002,2016-08-14T16:00-03:00,2016-08-14T19:00-03:00,Luta greco-romana,Masculino 59kg,75kg; Finais,,,
-AT006,2016-08-15T09:30-03:00,2016-08-15T12:10-03:00,Atletismo,Masculino e Feminino,Preliminares; Finais,,,
-WG004,2016-08-15T16:00-03:00,2016-08-15T19:00-03:00,Luta greco-romana,Masculino 85kg; 130kg,Finais,,,
-AT007,2016-08-15T20:15-03:00,2016-08-15T22:50-03:00,Atletismo,Masculino e Feminino,Preliminares,,,
-AT008,2016-08-16T09:30-03:00,2016-08-16T12:40-03:00,Atletismo,Masculino e Feminino,Preliminares,,,
-WG006,2016-08-16T16:00-03:00,2016-08-16T19:00-03:00,Luta greco-romana,Masculino 66kg; 98kg,,,,
-TK003,2016-08-17T20:00-03:00,2016-08-17T23:05-03:00,Taekwondo,Masculino até 58kg e Feminino até 49kg,Repescagens; Finais,,,
-AT012,2016-08-18T09:30-03:00,2016-08-18T16:25-03:00,Atletismo,Masculino e Feminino,Preliminares; Finais,,,
-TK006,2016-08-18T20:00-03:00,2016-08-18T23:05-03:00,Taekwondo,Masculino até 68kg e Feminino até 57kg,Repescagens; Finais,,,
-WF006,2016-08-19T16:00-03:00,2016-08-19T19:00-03:00,Luta livre,Masculino 57kg; 74kg,Finais,,,
-TK009,2016-08-19T20:00-03:00,2016-08-19T23:05-03:00,Taekwondo,Masculino até 80kg e Feminino até 67kg,Repescagens; Finais,,,
-AT014,2016-08-19T20:10-03:00,2016-08-19T22:45-03:00,Atletismo,Masculino e Feminino,Preliminares; Finais,,,
-WF008,2016-08-20T16:00-03:00,2016-08-20T19:00-03:00,Luta livre,Masculino 86kg; 125kg,Finais,,,
-AT015,2016-08-20T20:10-03:00,2016-08-20T23:00-03:00,Atletismo,Masculino e Feminino,Preliminares; Finais,,,
-WF010,2016-08-21T12:45-03:00,2016-08-21T15:15-03:00,Luta livre,Masculino 65kg,97kg,Finais,,,
-AT001,2016-08-12T09:30-03:00,2016-08-12T13:10-03:00,Atletismo,Masculino e Feminino,Preliminares,,,
+WG002,2016-08-14T16:00-03:00,2016-08-14T19:00-03:00,Luta greco-romana,Masculino 59kg,75kg; Finais
+AT006,2016-08-15T09:30-03:00,2016-08-15T12:10-03:00,Atletismo,Masculino e Feminino,Preliminares; Finais
+WG004,2016-08-15T16:00-03:00,2016-08-15T19:00-03:00,Luta greco-romana,Masculino 85kg; 130kg,Finais
+AT007,2016-08-15T20:15-03:00,2016-08-15T22:50-03:00,Atletismo,Masculino e Feminino,Preliminares
+AT008,2016-08-16T09:30-03:00,2016-08-16T12:40-03:00,Atletismo,Masculino e Feminino,Preliminares
+WG006,2016-08-16T16:00-03:00,2016-08-16T19:00-03:00,Luta greco-romana,Masculino 66kg; 98kg
+TK003,2016-08-17T20:00-03:00,2016-08-17T23:05-03:00,Taekwondo,Masculino até 58kg e Feminino até 49kg,Repescagens; Finais
+AT012,2016-08-18T09:30-03:00,2016-08-18T16:25-03:00,Atletismo,Masculino e Feminino,Preliminares; Finais
+TK006,2016-08-18T20:00-03:00,2016-08-18T23:05-03:00,Taekwondo,Masculino até 68kg e Feminino até 57kg,Repescagens; Finais
+WF006,2016-08-19T16:00-03:00,2016-08-19T19:00-03:00,Luta livre,Masculino 57kg; 74kg,Finais
+TK009,2016-08-19T20:00-03:00,2016-08-19T23:05-03:00,Taekwondo,Masculino até 80kg e Feminino até 67kg,Repescagens; Finais
+AT014,2016-08-19T20:10-03:00,2016-08-19T22:45-03:00,Atletismo,Masculino e Feminino,Preliminares; Finais
+WF008,2016-08-20T16:00-03:00,2016-08-20T19:00-03:00,Luta livre,Masculino 86kg; 125kg,Finais
+AT015,2016-08-20T20:10-03:00,2016-08-20T23:00-03:00,Atletismo,Masculino e Feminino,Preliminares; Finais
+WF010,2016-08-21T12:45-03:00,2016-08-21T15:15-03:00,Luta livre,Masculino 65kg,97kg,Finais
+AT001,2016-08-12T09:30-03:00,2016-08-12T13:10-03:00,Atletismo,Masculino e Feminino,Preliminares
 TE029,2016-08-12T12:00-03:00,2016-08-12T20:00-03:00,Tênis,Simples masculino,Semifinal; Duplas masculinas; Final,Centro Olímpico de Tênis - Quadra Central,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
-AT002,2016-08-12T20:20-03:00,2016-08-12T23:25-03:00,Atletismo,Masculino e Feminino,Preliminares; Final,,,
-AT003,2016-08-13T09:30-03:00,2016-08-13T12:50-03:00,Atletismo,Masculino e Feminino,Preliminares; Final,,,
-TE033,2016-08-14T12:00-03:00,2016-08-14T20:00-03:00,Tênis,Simples masculino,duplas femininas e duplas mistas; Final,,,
+AT002,2016-08-12T20:20-03:00,2016-08-12T23:25-03:00,Atletismo,Masculino e Feminino,Preliminares; Final
+AT003,2016-08-13T09:30-03:00,2016-08-13T12:50-03:00,Atletismo,Masculino e Feminino,Preliminares; Final
+TE033,2016-08-14T12:00-03:00,2016-08-14T20:00-03:00,Tênis,Simples masculino,duplas femininas e duplas mistas; Final
 BD017,2016-08-17T08:30-03:00,2016-08-17T13:30-03:00,Badminton,Simples masculino,Quartas; Duplas mistas; Final,Riocentro - Pavilhão 4,Av. Salvador Allende 6.555 - Barra da Tijuca, Rio de Janeiro
-AT010,2016-08-17T09:30-03:00,2016-08-17T13:05-03:00,Atletismo,Masculino e Feminino,Preliminares; Final,,,
+AT010,2016-08-17T09:30-03:00,2016-08-17T13:05-03:00,Atletismo,Masculino e Feminino,Preliminares; Final
 BD019,2016-08-19T08:30-03:00,2016-08-19T13:30-03:00,Badminton,Simples masculino e feminino,SF e Final; Duplas; Final,Riocentro - Pavilhão 4,Av. Salvador Allende 6.555 - Barra da Tijuca, Rio de Janeiro
-,2016-08-11T12:30-03:00,2016-08-11T16:00-03:00,Canoagem slalom,"Masculino - Canoa SF, Final; Feminino - Caiaque SF, Final ",Estádio de Canoagem Slalom Estrada Marechal Alencastro 1357  Vila Militar -  Ricardo de Albuquerque, Rio de Janeiro,,,
-CR001,2016-08-06T09:30-03:00,2016-08-06T16:15-03:00,Ciclismo de estrada,Prova de Estrada masculina,Final,Forte de Copacabana,Av. Atlântica - Copacabana, Rio de Janeiro,
-CR002,2016-08-07T12:15-03:00,2016-08-07T16:35-03:00,Ciclismo de estrada,Prova de Estrada feminina,Final,Forte de Copacabana,Av. Atlântica - Copacabana, Rio de Janeiro,
-TR001,2016-08-18T11:00-03:00,2016-08-18T13:15-03:00,Triatlo,Masculino,Final,Forte de Copacabana,Av. Atlântica - Copacabana, Rio de Janeiro,
-TR002,2016-08-20T11:00-03:00,2016-08-20T13:30-03:00,Triatlo,Feminino,Final,Forte de Copacabana,Av. Atlântica - Copacabana, Rio de Janeiro,
-ZO001,2016-08-05T19:15-03:00,2016-08-05T23:00-03:00,Cerimônia de Abertura,Cerimônia de Abertura,,Maracanã,Avenida Maracanã - Maracanã, Rio de Janeiro,,
-FB032,2016-08-16T13:00-03:00,2016-08-16T15:00-03:00,Futebol,Feminino,semifinal,Maracanã,Avenida Maracanã - Maracanã, Rio de Janeiro,,
-FB034,2016-08-17T13:00-03:00,2016-08-17T15:00-03:00,Futebol,Masculino,semifinal,Maracanã,Avenida Maracanã - Maracanã, Rio de Janeiro,,
-FB036,2016-08-19T17:30-03:00,2016-08-19T20:00-03:00,Futebol,Feminino,ouro,Maracanã,Avenida Maracanã - Maracanã, Rio de Janeiro,,
-FB038,2016-08-20T17:30-03:00,2016-08-20T20:00-03:00,Futebol,Masculino,ouro,Maracanã,Avenida Maracanã - Maracanã, Rio de Janeiro,,
-VO001,2016-08-06T09:30-03:00,2016-08-06T13:20-03:00,Voleibol,Feminino,Primeira fase,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro,,
-VO002,2016-08-06T15:00-03:00,2016-08-06T18:50-03:00,Voleibol,Feminino,Primeira fase,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro,,
-VO003,2016-08-06T20:30-03:00,2016-08-06T00:20-03:00,Voleibol,Feminino,Primeira fase,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro,,
-VO004,2016-08-07T09:30-03:00,2016-08-07T13:20-03:00,Voleibol,Masculino,Primeira fase,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro,,
-VO005,2016-08-07T15:00-03:00,2016-08-07T18:50-03:00,Voleibol,Masculino,Primeira fase,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro,,
-VO006,2016-08-07T20:30-03:00,2016-08-07T00:20-03:00,Voleibol,Masculino,Primeira fase,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro,,
-VO007,2016-08-08T09:30-03:00,2016-08-08T13:20-03:00,Voleibol,Feminino,Primeira fase,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro,,
-VO008,2016-08-08T15:00-03:00,2016-08-08T18:50-03:00,Voleibol,Feminino,Primeira fase,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro,,
-VO009,2016-08-08T20:30-03:00,2016-08-08T00:20-03:00,Voleibol,Feminino,Primeira fase,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro,,
-VO010,2016-08-09T09:30-03:00,2016-08-09T13:20-03:00,Voleibol,Masculino,Primeira fase,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro,,
-VO011,2016-08-09T15:00-03:00,2016-08-09T18:50-03:00,Voleibol,Masculino,Primeira fase,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro,,
-VO012,2016-08-09T20:30-03:00,2016-08-09T00:20-03:00,Voleibol,Masculino,Primeira fase,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro,,
-VO013,2016-08-10T09:30-03:00,2016-08-10T13:20-03:00,Voleibol,Feminino,Primeira fase,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro,,
-VO014,2016-08-10T15:00-03:00,2016-08-10T18:50-03:00,Voleibol,Feminino,Primeira fase,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro,,
-VO015,2016-08-10T20:30-03:00,2016-08-10T00:20-03:00,Voleibol,Feminino,Primeira fase,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro,,
-VO016,2016-08-11T09:30-03:00,2016-08-11T13:20-03:00,Voleibol,Masculino,Primeira fase,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro,,
-VO017,2016-08-11T15:00-03:00,2016-08-11T18:50-03:00,Voleibol,Masculino,Primeira fase,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro,,
-VO018,2016-08-11T20:30-03:00,2016-08-11T00:20-03:00,Voleibol,Masculino,Primeira fase,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro,,
-VO019,2016-08-12T09:30-03:00,2016-08-12T13:20-03:00,Voleibol,Feminino,Primeira fase,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro,,
-VO020,2016-08-12T15:00-03:00,2016-08-12T18:50-03:00,Voleibol,Feminino,Primeira fase,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro,,
-VO021,2016-08-12T20:30-03:00,2016-08-12T00:20-03:00,Voleibol,Feminino,Primeira fase,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro,,
-VO022,2016-08-13T09:30-03:00,2016-08-13T13:20-03:00,Voleibol,Masculino,Primeira fase,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro,,
-VO023,2016-08-13T15:00-03:00,2016-08-13T18:50-03:00,Voleibol,Masculino,Primeira fase,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro,,
-VO024,2016-08-13T20:30-03:00,2016-08-13T00:20-03:00,Voleibol,Masculino,Primeira fase,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro,,
-VO025,2016-08-14T09:30-03:00,2016-08-14T13:20-03:00,Voleibol,Feminino,Primeira fase,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro,,
-VO026,2016-08-14T15:00-03:00,2016-08-14T18:50-03:00,Voleibol,Feminino,Primeira fase,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro,,
-VO027,2016-08-14T20:30-03:00,2016-08-14T00:20-03:00,Voleibol,Feminino,Primeira fase,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro,,
-VO028,2016-08-15T09:30-03:00,2016-08-15T13:20-03:00,Voleibol,Masculino,Primeira fase,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro,,
-VO029,2016-08-15T15:00-03:00,2016-08-15T18:50-03:00,Voleibol,Masculino,Primeira fase,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro,,
-VO030,2016-08-15T20:30-03:00,2016-08-15T00:20-03:00,Voleibol,Masculino,Primeira fase,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro,,
-VO031,2016-08-16T10:00-03:00,2016-08-16T12:00-03:00,Voleibol,Feminino,Quartas de Final,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro,,
-VO032,2016-08-16T14:00-03:00,2016-08-16T16:00-03:00,Voleibol,Feminino,Quartas de Final,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro,,
-VO033,2016-08-16T18:00-03:00,2016-08-16T20:00-03:00,Voleibol,Feminino,Quartas de Final,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro,,
-VO034,2016-08-16T22:15-03:00,2016-08-16T00:15-03:00,Voleibol,Feminino,Quartas de Final,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro,,
-VO035,2016-08-17T10:00-03:00,2016-08-17T12:00-03:00,Voleibol,Masculino,Quartas de Final,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro,,
-VO036,2016-08-17T14:00-03:00,2016-08-17T16:00-03:00,Voleibol,Masculino,Quartas de Final,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro,,
-VO037,2016-08-17T18:00-03:00,2016-08-17T20:00-03:00,Voleibol,Masculino,Quartas de Final,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro,,
-VO038,2016-08-17T22:15-03:00,2016-08-17T00:15-03:00,Voleibol,Masculino,Quartas de Final,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro,,
-VO039,2016-08-18T13:00-03:00,2016-08-18T15:00-03:00,Voleibol,Feminino,Semifinais,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro,,
-VO040,2016-08-18T22:15-03:00,2016-08-18T00:15-03:00,Voleibol,Feminino,Semifinais,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro,,
-VO041,2016-08-19T13:00-03:00,2016-08-19T15:00-03:00,Voleibol,Masculino,Semifinais,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro,,
-VO042,2016-08-19T22:15-03:00,2016-08-19T00:15-03:00,Voleibol,Masculino,Semifinais,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro,,
-VO043,2016-08-20T13:00-03:00,2016-08-20T15:00-03:00,Voleibol,Feminino,Bronze,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro,,
-VO044,2016-08-20T22:15-03:00,2016-08-20T00:30-03:00,Voleibol,Feminino,Final,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro,,
-VO045,2016-08-21T09:30-03:00,2016-08-21T11:30-03:00,Voleibol,Masculino,Bronze,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro,,
-VO046,2016-08-21T13:15-03:00,2016-08-21T15:30-03:00,Voleibol,Masculino,Final,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro,,
-SA001,2016-08-08T13:00-03:00,2016-08-08T15:40-03:00,Vela,Masculino e Feminino,Regatas,Marina da Glória,Av. Infante Dom Henrique - Aterro do Flamengo -  Glória, Rio de Janeiro,
-SA002,2016-08-09T13:00-03:00,2016-08-09T15:40-03:00,Vela,Masculino e Feminino,Regatas,Marina da Glória,Av. Infante Dom Henrique - Aterro do Flamengo -  Glória, Rio de Janeiro,
-SA003,2016-08-10T13:00-03:00,2016-08-10T15:35-03:00,Vela,Masculino e Feminino,Regatas,Marina da Glória,Av. Infante Dom Henrique - Aterro do Flamengo -  Glória, Rio de Janeiro,
-SA004,2016-08-11T13:00-03:00,2016-08-11T15:40-03:00,Vela,Masculino e Feminino,Regatas,Marina da Glória,Av. Infante Dom Henrique - Aterro do Flamengo -  Glória, Rio de Janeiro,
-SA005,2016-08-12T13:00-03:00,2016-08-12T15:40-03:00,Vela,Masculino e Feminino,Regatas,Marina da Glória,Av. Infante Dom Henrique - Aterro do Flamengo -  Glória, Rio de Janeiro,
-SA006,2016-08-13T13:00-03:00,2016-08-13T15:35-03:00,Vela,Masculino e Feminino,Regatas,Marina da Glória,Av. Infante Dom Henrique - Aterro do Flamengo -  Glória, Rio de Janeiro,
-SA010,2016-08-17T13:00-03:00,2016-08-17T16:45-03:00,Vela,Masculino e Feminino,Regatas das Medalhas,Marina da Glória,Av. Infante Dom Henrique - Aterro do Flamengo -  Glória, Rio de Janeiro,
-SA011,2016-08-18T13:00-03:00,2016-08-18T16:45-03:00,Vela,Masculino e Feminino,Regatas das Medalhas,Marina da Glória,Av. Infante Dom Henrique - Aterro do Flamengo -  Glória, Rio de Janeiro,
+,2016-08-11T12:30-03:00,2016-08-11T16:00-03:00,Canoagem slalom,"Masculino - Canoa SF, Final; Feminino - Caiaque SF, Final ",Estádio de Canoagem Slalom Estrada Marechal Alencastro 1357  Vila Militar -  Ricardo de Albuquerque, Rio de Janeiro
+CR001,2016-08-06T09:30-03:00,2016-08-06T16:15-03:00,Ciclismo de estrada,Prova de Estrada masculina,Final,Forte de Copacabana,Av. Atlântica - Copacabana, Rio de Janeiro
+CR002,2016-08-07T12:15-03:00,2016-08-07T16:35-03:00,Ciclismo de estrada,Prova de Estrada feminina,Final,Forte de Copacabana,Av. Atlântica - Copacabana, Rio de Janeiro
+TR001,2016-08-18T11:00-03:00,2016-08-18T13:15-03:00,Triatlo,Masculino,Final,Forte de Copacabana,Av. Atlântica - Copacabana, Rio de Janeiro
+TR002,2016-08-20T11:00-03:00,2016-08-20T13:30-03:00,Triatlo,Feminino,Final,Forte de Copacabana,Av. Atlântica - Copacabana, Rio de Janeiro
+ZO001,2016-08-05T19:15-03:00,2016-08-05T23:00-03:00,Cerimônia de Abertura,Cerimônia de Abertura,,Maracanã,Avenida Maracanã - Maracanã, Rio de Janeiro
+FB032,2016-08-16T13:00-03:00,2016-08-16T15:00-03:00,Futebol,Feminino,semifinal,Maracanã,Avenida Maracanã - Maracanã, Rio de Janeiro
+FB034,2016-08-17T13:00-03:00,2016-08-17T15:00-03:00,Futebol,Masculino,semifinal,Maracanã,Avenida Maracanã - Maracanã, Rio de Janeiro
+FB036,2016-08-19T17:30-03:00,2016-08-19T20:00-03:00,Futebol,Feminino,ouro,Maracanã,Avenida Maracanã - Maracanã, Rio de Janeiro
+FB038,2016-08-20T17:30-03:00,2016-08-20T20:00-03:00,Futebol,Masculino,ouro,Maracanã,Avenida Maracanã - Maracanã, Rio de Janeiro
+VO001,2016-08-06T09:30-03:00,2016-08-06T13:20-03:00,Voleibol,Feminino,Primeira fase,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro
+VO002,2016-08-06T15:00-03:00,2016-08-06T18:50-03:00,Voleibol,Feminino,Primeira fase,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro
+VO003,2016-08-06T20:30-03:00,2016-08-06T00:20-03:00,Voleibol,Feminino,Primeira fase,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro
+VO004,2016-08-07T09:30-03:00,2016-08-07T13:20-03:00,Voleibol,Masculino,Primeira fase,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro
+VO005,2016-08-07T15:00-03:00,2016-08-07T18:50-03:00,Voleibol,Masculino,Primeira fase,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro
+VO006,2016-08-07T20:30-03:00,2016-08-07T00:20-03:00,Voleibol,Masculino,Primeira fase,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro
+VO007,2016-08-08T09:30-03:00,2016-08-08T13:20-03:00,Voleibol,Feminino,Primeira fase,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro
+VO008,2016-08-08T15:00-03:00,2016-08-08T18:50-03:00,Voleibol,Feminino,Primeira fase,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro
+VO009,2016-08-08T20:30-03:00,2016-08-08T00:20-03:00,Voleibol,Feminino,Primeira fase,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro
+VO010,2016-08-09T09:30-03:00,2016-08-09T13:20-03:00,Voleibol,Masculino,Primeira fase,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro
+VO011,2016-08-09T15:00-03:00,2016-08-09T18:50-03:00,Voleibol,Masculino,Primeira fase,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro
+VO012,2016-08-09T20:30-03:00,2016-08-09T00:20-03:00,Voleibol,Masculino,Primeira fase,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro
+VO013,2016-08-10T09:30-03:00,2016-08-10T13:20-03:00,Voleibol,Feminino,Primeira fase,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro
+VO014,2016-08-10T15:00-03:00,2016-08-10T18:50-03:00,Voleibol,Feminino,Primeira fase,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro
+VO015,2016-08-10T20:30-03:00,2016-08-10T00:20-03:00,Voleibol,Feminino,Primeira fase,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro
+VO016,2016-08-11T09:30-03:00,2016-08-11T13:20-03:00,Voleibol,Masculino,Primeira fase,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro
+VO017,2016-08-11T15:00-03:00,2016-08-11T18:50-03:00,Voleibol,Masculino,Primeira fase,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro
+VO018,2016-08-11T20:30-03:00,2016-08-11T00:20-03:00,Voleibol,Masculino,Primeira fase,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro
+VO019,2016-08-12T09:30-03:00,2016-08-12T13:20-03:00,Voleibol,Feminino,Primeira fase,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro
+VO020,2016-08-12T15:00-03:00,2016-08-12T18:50-03:00,Voleibol,Feminino,Primeira fase,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro
+VO021,2016-08-12T20:30-03:00,2016-08-12T00:20-03:00,Voleibol,Feminino,Primeira fase,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro
+VO022,2016-08-13T09:30-03:00,2016-08-13T13:20-03:00,Voleibol,Masculino,Primeira fase,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro
+VO023,2016-08-13T15:00-03:00,2016-08-13T18:50-03:00,Voleibol,Masculino,Primeira fase,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro
+VO024,2016-08-13T20:30-03:00,2016-08-13T00:20-03:00,Voleibol,Masculino,Primeira fase,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro
+VO025,2016-08-14T09:30-03:00,2016-08-14T13:20-03:00,Voleibol,Feminino,Primeira fase,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro
+VO026,2016-08-14T15:00-03:00,2016-08-14T18:50-03:00,Voleibol,Feminino,Primeira fase,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro
+VO027,2016-08-14T20:30-03:00,2016-08-14T00:20-03:00,Voleibol,Feminino,Primeira fase,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro
+VO028,2016-08-15T09:30-03:00,2016-08-15T13:20-03:00,Voleibol,Masculino,Primeira fase,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro
+VO029,2016-08-15T15:00-03:00,2016-08-15T18:50-03:00,Voleibol,Masculino,Primeira fase,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro
+VO030,2016-08-15T20:30-03:00,2016-08-15T00:20-03:00,Voleibol,Masculino,Primeira fase,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro
+VO031,2016-08-16T10:00-03:00,2016-08-16T12:00-03:00,Voleibol,Feminino,Quartas de Final,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro
+VO032,2016-08-16T14:00-03:00,2016-08-16T16:00-03:00,Voleibol,Feminino,Quartas de Final,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro
+VO033,2016-08-16T18:00-03:00,2016-08-16T20:00-03:00,Voleibol,Feminino,Quartas de Final,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro
+VO034,2016-08-16T22:15-03:00,2016-08-16T00:15-03:00,Voleibol,Feminino,Quartas de Final,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro
+VO035,2016-08-17T10:00-03:00,2016-08-17T12:00-03:00,Voleibol,Masculino,Quartas de Final,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro
+VO036,2016-08-17T14:00-03:00,2016-08-17T16:00-03:00,Voleibol,Masculino,Quartas de Final,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro
+VO037,2016-08-17T18:00-03:00,2016-08-17T20:00-03:00,Voleibol,Masculino,Quartas de Final,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro
+VO038,2016-08-17T22:15-03:00,2016-08-17T00:15-03:00,Voleibol,Masculino,Quartas de Final,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro
+VO039,2016-08-18T13:00-03:00,2016-08-18T15:00-03:00,Voleibol,Feminino,Semifinais,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro
+VO040,2016-08-18T22:15-03:00,2016-08-18T00:15-03:00,Voleibol,Feminino,Semifinais,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro
+VO041,2016-08-19T13:00-03:00,2016-08-19T15:00-03:00,Voleibol,Masculino,Semifinais,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro
+VO042,2016-08-19T22:15-03:00,2016-08-19T00:15-03:00,Voleibol,Masculino,Semifinais,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro
+VO043,2016-08-20T13:00-03:00,2016-08-20T15:00-03:00,Voleibol,Feminino,Bronze,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro
+VO044,2016-08-20T22:15-03:00,2016-08-20T00:30-03:00,Voleibol,Feminino,Final,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro
+VO045,2016-08-21T09:30-03:00,2016-08-21T11:30-03:00,Voleibol,Masculino,Bronze,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro
+VO046,2016-08-21T13:15-03:00,2016-08-21T15:30-03:00,Voleibol,Masculino,Final,Maracanãzinho,Rua Prof.Eurico Rabelo - Maracanã, Rio de Janeiro
+SA001,2016-08-08T13:00-03:00,2016-08-08T15:40-03:00,Vela,Masculino e Feminino,Regatas,Marina da Glória,Av. Infante Dom Henrique - Aterro do Flamengo -  Glória, Rio de Janeiro
+SA002,2016-08-09T13:00-03:00,2016-08-09T15:40-03:00,Vela,Masculino e Feminino,Regatas,Marina da Glória,Av. Infante Dom Henrique - Aterro do Flamengo -  Glória, Rio de Janeiro
+SA003,2016-08-10T13:00-03:00,2016-08-10T15:35-03:00,Vela,Masculino e Feminino,Regatas,Marina da Glória,Av. Infante Dom Henrique - Aterro do Flamengo -  Glória, Rio de Janeiro
+SA004,2016-08-11T13:00-03:00,2016-08-11T15:40-03:00,Vela,Masculino e Feminino,Regatas,Marina da Glória,Av. Infante Dom Henrique - Aterro do Flamengo -  Glória, Rio de Janeiro
+SA005,2016-08-12T13:00-03:00,2016-08-12T15:40-03:00,Vela,Masculino e Feminino,Regatas,Marina da Glória,Av. Infante Dom Henrique - Aterro do Flamengo -  Glória, Rio de Janeiro
+SA006,2016-08-13T13:00-03:00,2016-08-13T15:35-03:00,Vela,Masculino e Feminino,Regatas,Marina da Glória,Av. Infante Dom Henrique - Aterro do Flamengo -  Glória, Rio de Janeiro
+SA010,2016-08-17T13:00-03:00,2016-08-17T16:45-03:00,Vela,Masculino e Feminino,Regatas das Medalhas,Marina da Glória,Av. Infante Dom Henrique - Aterro do Flamengo -  Glória, Rio de Janeiro
+SA011,2016-08-18T13:00-03:00,2016-08-18T16:45-03:00,Vela,Masculino e Feminino,Regatas das Medalhas,Marina da Glória,Av. Infante Dom Henrique - Aterro do Flamengo -  Glória, Rio de Janeiro
 FB003,2016-08-03T19:00-03:00,2016-08-03T00:00-03:00,Futebol,Feminino,primeira fase,Mineirão,Av. Antônio Abrahão Caram, 1.001 – Pampulha - Belo Horizonte, Rio de Janeiro
 FB009,2016-08-06T17:00-03:00,2016-08-06T22:00-03:00,Futebol,Feminino,primeira fase,Mineirão,Av. Antônio Abrahão Caram, 1.001 – Pampulha - Belo Horizonte, Rio de Janeiro
 FB019,2016-08-10T13:00-03:00,2016-08-10T18:00-03:00,Futebol,Masculino,primeira fase,Mineirão,Av. Antônio Abrahão Caram, 1.001 – Pampulha - Belo Horizonte, Rio de Janeiro
@@ -516,8 +516,8 @@ FB026,2016-08-12T22:00-03:00,2016-08-12T00:00-03:00,Futebol,Feminino,quarta de f
 FB029,2016-08-13T19:00-03:00,2016-08-13T21:00-03:00,Futebol,Masculino,quarta de final,Mineirão,Av. Antônio Abrahão Caram, 1.001 – Pampulha - Belo Horizonte, Rio de Janeiro
 FB031,2016-08-16T16:00-03:00,2016-08-16T18:00-03:00,Futebol,Feminino,semifinal,Mineirão,Av. Antônio Abrahão Caram, 1.001 – Pampulha - Belo Horizonte, Rio de Janeiro
 FB037,2016-08-20T13:00-03:00,2016-08-20T15:30-03:00,Futebol,Masculino,bronze,Mineirão,Av. Antônio Abrahão Caram, 1.001 – Pampulha - Belo Horizonte, Rio de Janeiro
-FE007,2016-08-09T09:00-03:00,2016-08-09T14:15-03:00,Esgrima,Espada Individual masculina,Preliminares,Oitavas e QF,,
-FE001,2016-08-06T09:00-03:00,2016-08-06T14:15-03:00,Esgrima,Espada Individual feminina,Preliminares,Oitavas e Quartas,,
+FE007,2016-08-09T09:00-03:00,2016-08-09T14:15-03:00,Esgrima,Espada Individual masculina,Preliminares,Oitavas e QF
+FE001,2016-08-06T09:00-03:00,2016-08-06T14:15-03:00,Esgrima,Espada Individual feminina,Preliminares,Oitavas e Quartas
 WL005,2016-08-08T10:00-03:00,2016-08-08T14:00-03:00,Levantamento de peso,Masculino 62kg; Feminino 58kg,,Riocentro - Pavilhão 2,Av. Salvador Allende 6.555 - Barra da Tijuca, Rio de Janeiro
 WL008,2016-08-09T10:00-03:00,2016-08-09T14:00-03:00,Levantamento de peso,Masculino 69kg; Feminino 63kg,,Riocentro - Pavilhão 2,Av. Salvador Allende 6.555 - Barra da Tijuca, Rio de Janeiro
 WL009,2016-08-09T15:30-03:00,2016-08-09T17:30-03:00,Levantamento de peso,Feminino 63kg,,Riocentro - Pavilhão 2,Av. Salvador Allende 6.555 - Barra da Tijuca, Rio de Janeiro
@@ -540,26 +540,26 @@ BD009,2016-08-13T19:30-03:00,2016-08-13T23:00-03:00,Badminton,Simples e duplas f
 BD010,2016-08-14T08:00-03:00,2016-08-14T13:30-03:00,Badminton,Simples feminino e masculino,,Riocentro - Pavilhão 4,Av. Salvador Allende 6.555 - Barra da Tijuca, Rio de Janeiro
 BD011,2016-08-14T15:30-03:00,2016-08-14T18:00-03:00,Badminton,Simples feminino e masculino,,Riocentro - Pavilhão 4,Av. Salvador Allende 6.555 - Barra da Tijuca, Rio de Janeiro
 CR003,2016-08-10T08:30-03:00,2016-08-10T13:20-03:00,Ciclismo de estrada,Masculino e Feminino,Contrarrelógio,Pontal,Av. Lucio Costa - Praça Tim Maia - Recreio, Rio de Janeiro
-,2016-08-10T11:00-03:00,2016-08-10T20:00-03:00,Tênis,Masculino e Feminino,Simples 3° rodada,QF,,
-,2016-08-10T18:45-03:00,2016-08-10T23:00-03:00,Tênis,Masculino e Feminino,Simples 3° rodada,QF,,
-TE021,2016-08-10T10:45-03:00,2016-08-10T16:30-03:00,Tênis,Masculino e Feminino,Simples 3° rodada,QF; Duplas QF e SF,,
-TE022,2016-08-10T11:00-03:00,2016-08-10T20:00-03:00,Tênis,Masculino e Feminino,Simples 3° rodada,QF; Duplas QF e SF,,
-,2016-08-11T09:00-03:00,2016-08-11T15:30-03:00,Esgrima,Espada por equipes feminina,Oitavas,Quartas,,
+,2016-08-10T11:00-03:00,2016-08-10T20:00-03:00,Tênis,Masculino e Feminino,Simples 3° rodada,QF
+,2016-08-10T18:45-03:00,2016-08-10T23:00-03:00,Tênis,Masculino e Feminino,Simples 3° rodada,QF
+TE021,2016-08-10T10:45-03:00,2016-08-10T16:30-03:00,Tênis,Masculino e Feminino,Simples 3° rodada,QF; Duplas QF e SF
+TE022,2016-08-10T11:00-03:00,2016-08-10T20:00-03:00,Tênis,Masculino e Feminino,Simples 3° rodada,QF; Duplas QF e SF
+,2016-08-11T09:00-03:00,2016-08-11T15:30-03:00,Esgrima,Espada por equipes feminina,Oitavas,Quartas
 TE028,2016-08-11T12:00-03:00,2016-08-11T20:00-03:00,Tênis,Duplas femininas,Semifinal; Duplas mistas,Quartas,Centro Olímpico de Tênis - Quadra 2,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
-,2016-08-12T09:00-03:00,2016-08-12T15:30-03:00,Esgrima,Florete por equipes masculino,Oitavas,Quartas,,
-,2016-08-14T11:00-03:00,2016-08-14T14:45-03:00,Boxe,Masculino e Feminino,Preliminares,Quartas,,
-,2016-08-15T17:00-03:00,2016-08-15T19:45-03:00,Boxe,Masculino e Feminino,Preliminares,Quartas,,
+,2016-08-12T09:00-03:00,2016-08-12T15:30-03:00,Esgrima,Florete por equipes masculino,Oitavas,Quartas
+,2016-08-14T11:00-03:00,2016-08-14T14:45-03:00,Boxe,Masculino e Feminino,Preliminares,Quartas
+,2016-08-15T17:00-03:00,2016-08-15T19:45-03:00,Boxe,Masculino e Feminino,Preliminares,Quartas
 BD013,2016-08-15T08:30-03:00,2016-08-15T13:30-03:00,Badminton,Simples masculino,Oitavas; Duplas,Quartas de final,Riocentro - Pavilhão 4,Av. Salvador Allende 6.555 - Barra da Tijuca, Rio de Janeiro
-BX015,2016-08-13T11:00-03:00,2016-08-13T14:00-03:00,Boxe,Masculino,Preliminares,Quartas de final e Semifinal,,
-BX016,2016-08-13T17:00-03:00,2016-08-13T20:00-03:00,Boxe,Masculino,Preliminares,Quartas de final e Semifinal,,
-BX013,2016-08-12T11:00-03:00,2016-08-12T13:45-03:00,Boxe,Masculino e Feminino,Preliminares,Quartas e Semifinais,,
-FE015,2016-08-13T09:00-03:00,2016-08-13T14:30-03:00,Esgrima,Sabre por equipes feminino,Oitavas,Quartas e Semifinais,,
-FE017,2016-08-14T09:00-03:00,2016-08-14T15:30-03:00,Esgrima,Espada por equipes masculina,Oitavas,Quartas e Semifinais,,
-BX018,2016-08-14T17:00-03:00,2016-08-14T20:15-03:00,Boxe,Masculino e Feminino,Preliminares,Quartas e Semifinais,,
-BX019,2016-08-15T11:00-03:00,2016-08-15T13:15-03:00,Boxe,Masculino e Feminino,Preliminares,Quartas e Semifinais,,
-SA007,2016-08-14T13:00-03:00,2016-08-14T16:45-03:00,Vela,Masculino e Feminino,Regatas,Regatas das Medalhas,,
-SA008,2016-08-15T13:00-03:00,2016-08-15T16:45-03:00,Vela,Masculino e Feminino,Regatas,Regatas das Medalhas,,
-SA009,2016-08-16T13:00-03:00,2016-08-16T16:45-03:00,Vela,Masculino e Feminino,Regatas,Regatas das Medalhas,,
+BX015,2016-08-13T11:00-03:00,2016-08-13T14:00-03:00,Boxe,Masculino,Preliminares,Quartas de final e Semifinal
+BX016,2016-08-13T17:00-03:00,2016-08-13T20:00-03:00,Boxe,Masculino,Preliminares,Quartas de final e Semifinal
+BX013,2016-08-12T11:00-03:00,2016-08-12T13:45-03:00,Boxe,Masculino e Feminino,Preliminares,Quartas e Semifinais
+FE015,2016-08-13T09:00-03:00,2016-08-13T14:30-03:00,Esgrima,Sabre por equipes feminino,Oitavas,Quartas e Semifinais
+FE017,2016-08-14T09:00-03:00,2016-08-14T15:30-03:00,Esgrima,Espada por equipes masculina,Oitavas,Quartas e Semifinais
+BX018,2016-08-14T17:00-03:00,2016-08-14T20:15-03:00,Boxe,Masculino e Feminino,Preliminares,Quartas e Semifinais
+BX019,2016-08-15T11:00-03:00,2016-08-15T13:15-03:00,Boxe,Masculino e Feminino,Preliminares,Quartas e Semifinais
+SA007,2016-08-14T13:00-03:00,2016-08-14T16:45-03:00,Vela,Masculino e Feminino,Regatas,Regatas das Medalhas
+SA008,2016-08-15T13:00-03:00,2016-08-15T16:45-03:00,Vela,Masculino e Feminino,Regatas,Regatas das Medalhas
+SA009,2016-08-16T13:00-03:00,2016-08-16T16:45-03:00,Vela,Masculino e Feminino,Regatas,Regatas das Medalhas
 TT001,2016-08-06T09:00-03:00,2016-08-06T12:45-03:00,Tênis de mesa,Simples Masculino e Feminino,Preliminares e 1ª Rodada,Riocentro - Pavilhão 3,Av. Salvador Allende 6.555 - Barra da Tijuca, Rio de Janeiro
 BX001,2016-08-06T11:00-03:00,2016-08-06T13:15-03:00,Boxe,Masculino,Preliminares,Riocentro - Pavilhão 6,Av. Salvador Allende 6.555 - Barra da Tijuca, Rio de Janeiro
 TT002,2016-08-06T14:30-03:00,2016-08-06T17:30-03:00,Tênis de mesa,Simples Masculino e Feminino,1ª Rodada,Riocentro - Pavilhão 3,Av. Salvador Allende 6.555 - Barra da Tijuca, Rio de Janeiro
@@ -626,66 +626,66 @@ BX025,2016-08-19T14:00-03:00,2016-08-19T16:30-03:00,Boxe,Masculino e Feminino,Se
 BD020,2016-08-20T08:30-03:00,2016-08-20T11:00-03:00,Badminton,Simples masculino,Finais,Riocentro - Pavilhão 4,Av. Salvador Allende 6.555 - Barra da Tijuca, Rio de Janeiro
 BX026,2016-08-20T14:00-03:00,2016-08-20T15:30-03:00,Boxe,Masculino e Feminino,Finais,Riocentro - Pavilhão 6,Av. Salvador Allende 6.555 - Barra da Tijuca, Rio de Janeiro
 BX027,2016-08-21T14:00-03:00,2016-08-21T16:00-03:00,Boxe,Masculino e Feminino,Finais,Riocentro - Pavilhão 6,Av. Salvador Allende 6.555 - Barra da Tijuca, Rio de Janeiro
-AR003,2016-08-06T09:00-03:00,2016-08-06T10:40-03:00,Tiro com arco,Masculino,Eliminatórias por equipes,Sambódromo,Av. Marquês de Sapucaí S/N  Sambódromo -  Santo Cristo, Rio de Janeiro,
-AR005,2016-08-07T09:00-03:00,2016-08-07T10:40-03:00,Tiro com arco,Feminino,Eliminatórias por equipes,Sambódromo,Av. Marquês de Sapucaí S/N  Sambódromo -  Santo Cristo, Rio de Janeiro,
-AR007,2016-08-08T09:00-03:00,2016-08-08T12:55-03:00,Tiro com arco,Masculino e feminino,Eliminatórias individuais,Sambódromo,Av. Marquês de Sapucaí S/N  Sambódromo -  Santo Cristo, Rio de Janeiro,
-AR008,2016-08-08T15:00-03:00,2016-08-08T17:40-03:00,Tiro com arco,Masculino e feminino,Eliminatórias individuais,Sambódromo,Av. Marquês de Sapucaí S/N  Sambódromo -  Santo Cristo, Rio de Janeiro,
-AR009,2016-08-09T09:00-03:00,2016-08-09T12:55-03:00,Tiro com arco,Masculino e feminino,Eliminatórias individuais,Sambódromo,Av. Marquês de Sapucaí S/N  Sambódromo -  Santo Cristo, Rio de Janeiro,
-AR010,2016-08-09T15:00-03:00,2016-08-09T17:40-03:00,Tiro com arco,Masculino e feminino,Eliminatórias individuais,Sambódromo,Av. Marquês de Sapucaí S/N  Sambódromo -  Santo Cristo, Rio de Janeiro,
-AR011,2016-08-10T09:00-03:00,2016-08-10T12:55-03:00,Tiro com arco,Masculino e feminino,Eliminatórias individuais,Sambódromo,Av. Marquês de Sapucaí S/N  Sambódromo -  Santo Cristo, Rio de Janeiro,
-AR012,2016-08-10T15:00-03:00,2016-08-10T18:55-03:00,Tiro com arco,Masculino e feminino,Eliminatórias individuais,Sambódromo,Av. Marquês de Sapucaí S/N  Sambódromo -  Santo Cristo, Rio de Janeiro,
-AR013,2016-08-11T09:00-03:00,2016-08-11T10:45-03:00,Tiro com arco,Feminino,Oitavas de final,Sambódromo,Av. Marquês de Sapucaí S/N  Sambódromo -  Santo Cristo, Rio de Janeiro,
-,2016-08-11T15:00-03:00,2016-08-11T17:10-03:00,Tiro com arco,Feminino,Quartas de final,Semifinais,,
+AR003,2016-08-06T09:00-03:00,2016-08-06T10:40-03:00,Tiro com arco,Masculino,Eliminatórias por equipes,Sambódromo,Av. Marquês de Sapucaí S/N  Sambódromo -  Santo Cristo, Rio de Janeiro
+AR005,2016-08-07T09:00-03:00,2016-08-07T10:40-03:00,Tiro com arco,Feminino,Eliminatórias por equipes,Sambódromo,Av. Marquês de Sapucaí S/N  Sambódromo -  Santo Cristo, Rio de Janeiro
+AR007,2016-08-08T09:00-03:00,2016-08-08T12:55-03:00,Tiro com arco,Masculino e feminino,Eliminatórias individuais,Sambódromo,Av. Marquês de Sapucaí S/N  Sambódromo -  Santo Cristo, Rio de Janeiro
+AR008,2016-08-08T15:00-03:00,2016-08-08T17:40-03:00,Tiro com arco,Masculino e feminino,Eliminatórias individuais,Sambódromo,Av. Marquês de Sapucaí S/N  Sambódromo -  Santo Cristo, Rio de Janeiro
+AR009,2016-08-09T09:00-03:00,2016-08-09T12:55-03:00,Tiro com arco,Masculino e feminino,Eliminatórias individuais,Sambódromo,Av. Marquês de Sapucaí S/N  Sambódromo -  Santo Cristo, Rio de Janeiro
+AR010,2016-08-09T15:00-03:00,2016-08-09T17:40-03:00,Tiro com arco,Masculino e feminino,Eliminatórias individuais,Sambódromo,Av. Marquês de Sapucaí S/N  Sambódromo -  Santo Cristo, Rio de Janeiro
+AR011,2016-08-10T09:00-03:00,2016-08-10T12:55-03:00,Tiro com arco,Masculino e feminino,Eliminatórias individuais,Sambódromo,Av. Marquês de Sapucaí S/N  Sambódromo -  Santo Cristo, Rio de Janeiro
+AR012,2016-08-10T15:00-03:00,2016-08-10T18:55-03:00,Tiro com arco,Masculino e feminino,Eliminatórias individuais,Sambódromo,Av. Marquês de Sapucaí S/N  Sambódromo -  Santo Cristo, Rio de Janeiro
+AR013,2016-08-11T09:00-03:00,2016-08-11T10:45-03:00,Tiro com arco,Feminino,Oitavas de final,Sambódromo,Av. Marquês de Sapucaí S/N  Sambódromo -  Santo Cristo, Rio de Janeiro
+,2016-08-11T15:00-03:00,2016-08-11T17:10-03:00,Tiro com arco,Feminino,Quartas de final,Semifinais
 TE030,2016-08-12T12:00-03:00,2016-08-12T20:00-03:00,Tênis,Duplas masculinas,Bronze; Duplas mistas,Semifinais,Centro Olímpico de Tênis - Quadra 1,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
-,2016-08-12T15:00-03:00,2016-08-12T17:10-03:00,Tiro com arco,Masculino,Quartas de final,Semifinais,,
-,2016-08-13T20:00-03:00,2016-08-13T23:15-03:00,Atletismo,Masculino e Feminino,Preliminares,Semifinais,,
-,2016-08-14T20:20-03:00,2016-08-14T22:30-03:00,Atletismo,Masculino e Feminino,Preliminares,Semifinais,,
-,2016-08-16T20:15-03:00,2016-08-16T22:50-03:00,Atletismo,Masculino e Feminino,Preliminares,Semifinais,,
-,2016-08-17T17:45-03:00,2016-08-17T23:05-03:00,Atletismo,Masculino e Feminino,Preliminares,Semifinais,,
-,2016-08-18T18:35-03:00,2016-08-18T22:35-03:00,Atletismo,Masculino e Feminino,Preliminares,Semifinais,,
-CT002,2016-08-12T16:00-03:00,2016-08-12T19:10-03:00,Ciclismo de pista,Masculino e Feminino,Classificatórias,Semifinais e Finais,,
-BX023,2016-08-17T14:00-03:00,2016-08-17T17:00-03:00,Boxe,Masculino e Feminino,Quartas de final,Semifinais e Final,,
-,2016-08-06T14:00-03:00,2016-08-06T17:45-03:00,Tiro com arco,Masculino,Quartas,Semis,,
-,2016-08-07T14:00-03:00,2016-08-07T17:45-03:00,Tiro com arco,Feminino,Quartas,Semis,,
+,2016-08-12T15:00-03:00,2016-08-12T17:10-03:00,Tiro com arco,Masculino,Quartas de final,Semifinais
+,2016-08-13T20:00-03:00,2016-08-13T23:15-03:00,Atletismo,Masculino e Feminino,Preliminares,Semifinais
+,2016-08-14T20:20-03:00,2016-08-14T22:30-03:00,Atletismo,Masculino e Feminino,Preliminares,Semifinais
+,2016-08-16T20:15-03:00,2016-08-16T22:50-03:00,Atletismo,Masculino e Feminino,Preliminares,Semifinais
+,2016-08-17T17:45-03:00,2016-08-17T23:05-03:00,Atletismo,Masculino e Feminino,Preliminares,Semifinais
+,2016-08-18T18:35-03:00,2016-08-18T22:35-03:00,Atletismo,Masculino e Feminino,Preliminares,Semifinais
+CT002,2016-08-12T16:00-03:00,2016-08-12T19:10-03:00,Ciclismo de pista,Masculino e Feminino,Classificatórias,Semifinais e Finais
+BX023,2016-08-17T14:00-03:00,2016-08-17T17:00-03:00,Boxe,Masculino e Feminino,Quartas de final,Semifinais e Final
+,2016-08-06T14:00-03:00,2016-08-06T17:45-03:00,Tiro com arco,Masculino,Quartas,Semis
+,2016-08-07T14:00-03:00,2016-08-07T17:45-03:00,Tiro com arco,Feminino,Quartas,Semis
 CT009,2016-08-16T16:00-03:00,2016-08-16T18:50-03:00,Ciclismo de pista,Masculino,Classific. e Final; Feminino,Semis e Final,Velódromo Olímpico do Rio,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
-BX022,2016-08-16T17:00-03:00,2016-08-16T19:45-03:00,Boxe,Masculino e Feminino,Quartas,Semis e Final,,
+BX022,2016-08-16T17:00-03:00,2016-08-16T19:45-03:00,Boxe,Masculino e Feminino,Quartas,Semis e Final
 BD014,2016-08-15T17:30-03:00,2016-08-15T23:00-03:00,Badminton,Simples feminino e masculino,Oitavas; Duplas mistas,SF,Riocentro - Pavilhão 4,Av. Salvador Allende 6.555 - Barra da Tijuca, Rio de Janeiro
-CT006,2016-08-15T10:00-03:00,2016-08-15T11:20-03:00,Ciclismo de pista,Masculino e Feminino,Classificatórias,Velódromo Olímpico do Rio,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,
-FE003,2016-08-07T09:00-03:00,2016-08-07T14:15-03:00,Esgrima,Florete Individual masculino,Preliminares; Oitavas e QF,,,
-FE004,2016-08-07T16:00-03:00,2016-08-07T18:30-03:00,Esgrima,Florete Individual masculino,Semifinais; Bronze e Finais,,,
-RO003,2016-08-08T08:30-03:00,2016-08-08T11:10-03:00,Remo,Masculino e Feminino,Baterias; Repescagens e Semifinais,,,
-FE005,2016-08-08T09:00-03:00,2016-08-08T13:05-03:00,Esgrima,Sabre Individual feminino,Preliminares; Oitavas e Quartas,,,
-JU005,2016-08-08T10:00-03:00,2016-08-08T13:00-03:00,Judô,Masculino até 73kg e Feminino até 57kg,Arena Carioca 2,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,,
-EC003,2016-08-08T10:00-03:00,2016-08-08T15:00-03:00,Hipismo CCE,CCE Cross country,Centro Olímpico de Hipismo,Av. Duque de Caxias 2.660 -  Vila Militar, Rio de Janeiro,,
-FE006,2016-08-08T16:00-03:00,2016-08-08T18:30-03:00,Esgrima,Sabre Individual feminino,Semifinais; Bronze e Finais,,,
-JU007,2016-08-09T10:00-03:00,2016-08-09T13:00-03:00,Judô,Masculino até 81kg e Feminino até 63kg,Arena Carioca 2,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,,
-JU009,2016-08-10T10:00-03:00,2016-08-10T13:00-03:00,Judô,Masculino até 90kg e Feminino até 70kg,Arena Carioca 2,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,,
-JU011,2016-08-11T10:00-03:00,2016-08-11T13:00-03:00,Judô,Masculino até 100kg e Feminino até 78kg,Arena Carioca 2,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,,
-AR015,2016-08-12T09:00-03:00,2016-08-12T10:45-03:00,Tiro com arco,Oitavas de final da competição individual masculina,Sambódromo,Av. Marquês de Sapucaí S/N  Sambódromo -  Santo Cristo, Rio de Janeiro,,
-JU013,2016-08-12T10:00-03:00,2016-08-12T13:00-03:00,Judô,Masculino acima de 100kg e Feminino acima de 78kg,Arena Carioca 2,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,,
-AW001,2016-08-12T14:30-03:00,2016-08-12T16:10-03:00,Atletismo (Marcha atlética),Marcha atlética 20km masculina,Pontal,Av. Lucio Costa - Praça Tim Maia - Recreio, Rio de Janeiro,
-AM001,2016-08-14T09:00-03:00,2016-08-14T12:45-03:00,Atletismo (Maratona),Maratona feminina,Sambódromo,Av. Marquês de Sapucaí S/N  Sambódromo -  Santo Cristo, Rio de Janeiro,,
-WG001,2016-08-14T10:00-03:00,2016-08-14T13:00-03:00,Luta greco-romana,Masculino 59kg,75kg,,,
-OW001,2016-08-15T09:00-03:00,2016-08-15T11:40-03:00,Maratonas aquáticas,Maratona Aquática Feminina,Forte de Copacabana,Av. Atlântica - Copacabana, Rio de Janeiro,,
-WG003,2016-08-15T10:00-03:00,2016-08-15T13:00-03:00,Luta greco-romana,Masculino 85kg,130kg,,,
-OW002,2016-08-16T09:00-03:00,2016-08-16T11:40-03:00,Maratonas aquáticas,Maratona Aquática Masculina,Forte de Copacabana,Av. Atlântica - Copacabana, Rio de Janeiro,,
-WG005,2016-08-16T10:00-03:00,2016-08-16T13:00-03:00,Luta greco-romana,Masculino 66kg,98kg,,,
-,2016-08-17T10:00-03:00,2016-08-17T13:00-03:00,Luta livre,Feminino 48kg,58kg,,,
-GG001,2016-08-17T11:00-03:00,2016-08-17T12:30-03:00,Ginástica Gala,Ginástica Gala,Arena Olímpica do Rio,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,,
-GG002,2016-08-17T15:00-03:00,2016-08-17T16:30-03:00,Ginástica Gala,Ginástica Gala,Arena Olímpica do Rio,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro,,,
-,2016-08-17T16:00-03:00,2016-08-17T19:00-03:00,Luta livre,Feminino 48kg,58kg,,,
-,2016-08-18T10:00-03:00,2016-08-18T13:00-03:00,Luta livre,Feminino 53kg,63kg,,,
-,2016-08-18T16:00-03:00,2016-08-18T19:00-03:00,Luta livre,Feminino 53kg,63kg,,,
-AW002,2016-08-19T08:00-03:00,2016-08-19T12:20-03:00,Atletismo (Marcha atlética),Marcha atlética 50km masculina,Pontal,Av. Lucio Costa - Praça Tim Maia - Recreio, Rio de Janeiro,
-WF005,2016-08-19T10:00-03:00,2016-08-19T13:00-03:00,Luta livre,Masculino 57kg,74kg,,,
-MP003,2016-08-19T12:00-03:00,2016-08-19T18:35-03:00,Pentatlo moderno,Competição Feminina (todas as disciplinas),Múltiplas instalações,,,
-MP004,2016-08-19T14:00-03:00,2016-08-19T18:35-03:00,Pentatlo moderno,Competição Feminina (4 disciplinas),Estádio de Deodoro,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro,,
-AW003,2016-08-19T14:30-03:00,2016-08-19T16:15-03:00,Atletismo (Marcha atlética),Marcha atlética 20km feminina,Pontal,Av. Lucio Costa - Praça Tim Maia - Recreio, Rio de Janeiro,
-MP005,2016-08-19T15:00-03:00,2016-08-19T19:00-03:00,Pentatlo moderno,Competição Feminina (3 disciplinas),Estádio de Deodoro,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro,,
-WF007,2016-08-20T10:00-03:00,2016-08-20T13:00-03:00,Luta livre,Masculino 86kg,125kg,,,
-MP006,2016-08-20T12:00-03:00,2016-08-20T18:35-03:00,Pentatlo moderno,Competição Masculina (todas as disciplinas),Múltiplas instalações,,,
-MP007,2016-08-20T14:00-03:00,2016-08-20T18:35-03:00,Pentatlo moderno,Competição Masculina (4 disciplinas),Estádio de Deodoro,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro,,
-MP008,2016-08-20T15:00-03:00,2016-08-20T19:00-03:00,Pentatlo moderno,Competição Masculina (3 disciplinas),Estádio de Deodoro,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro,,
-WF009,2016-08-21T08:30-03:00,2016-08-21T11:15-03:00,Luta livre,Masculino 65kg,97kg,,,
-AM002,2016-08-21T09:30-03:00,2016-08-21T12:15-03:00,Atletismo (Maratona),Maratona Masculina,Sambódromo,Av. Marquês de Sapucaí S/N  Sambódromo -  Santo Cristo, Rio de Janeiro,,
-ZC001,2016-08-21T19:15-03:00,2016-08-21T23:00-03:00,Cerimônia de Encerramento,Cerimônia de Encerramento,Maracanã,Avenida Maracanã - Maracanã, Rio de Janeiro,,,
+CT006,2016-08-15T10:00-03:00,2016-08-15T11:20-03:00,Ciclismo de pista,Masculino e Feminino,Classificatórias,Velódromo Olímpico do Rio,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+FE003,2016-08-07T09:00-03:00,2016-08-07T14:15-03:00,Esgrima,Florete Individual masculino,Preliminares; Oitavas e QF
+FE004,2016-08-07T16:00-03:00,2016-08-07T18:30-03:00,Esgrima,Florete Individual masculino,Semifinais; Bronze e Finais
+RO003,2016-08-08T08:30-03:00,2016-08-08T11:10-03:00,Remo,Masculino e Feminino,Baterias; Repescagens e Semifinais
+FE005,2016-08-08T09:00-03:00,2016-08-08T13:05-03:00,Esgrima,Sabre Individual feminino,Preliminares; Oitavas e Quartas
+JU005,2016-08-08T10:00-03:00,2016-08-08T13:00-03:00,Judô,Masculino até 73kg e Feminino até 57kg,Arena Carioca 2,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+EC003,2016-08-08T10:00-03:00,2016-08-08T15:00-03:00,Hipismo CCE,CCE Cross country,Centro Olímpico de Hipismo,Av. Duque de Caxias 2.660 -  Vila Militar, Rio de Janeiro
+FE006,2016-08-08T16:00-03:00,2016-08-08T18:30-03:00,Esgrima,Sabre Individual feminino,Semifinais; Bronze e Finais
+JU007,2016-08-09T10:00-03:00,2016-08-09T13:00-03:00,Judô,Masculino até 81kg e Feminino até 63kg,Arena Carioca 2,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+JU009,2016-08-10T10:00-03:00,2016-08-10T13:00-03:00,Judô,Masculino até 90kg e Feminino até 70kg,Arena Carioca 2,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+JU011,2016-08-11T10:00-03:00,2016-08-11T13:00-03:00,Judô,Masculino até 100kg e Feminino até 78kg,Arena Carioca 2,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+AR015,2016-08-12T09:00-03:00,2016-08-12T10:45-03:00,Tiro com arco,Oitavas de final da competição individual masculina,Sambódromo,Av. Marquês de Sapucaí S/N  Sambódromo -  Santo Cristo, Rio de Janeiro
+JU013,2016-08-12T10:00-03:00,2016-08-12T13:00-03:00,Judô,Masculino acima de 100kg e Feminino acima de 78kg,Arena Carioca 2,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+AW001,2016-08-12T14:30-03:00,2016-08-12T16:10-03:00,Atletismo (Marcha atlética),Marcha atlética 20km masculina,Pontal,Av. Lucio Costa - Praça Tim Maia - Recreio, Rio de Janeiro
+AM001,2016-08-14T09:00-03:00,2016-08-14T12:45-03:00,Atletismo (Maratona),Maratona feminina,Sambódromo,Av. Marquês de Sapucaí S/N  Sambódromo -  Santo Cristo, Rio de Janeiro
+WG001,2016-08-14T10:00-03:00,2016-08-14T13:00-03:00,Luta greco-romana,Masculino 59kg,75kg
+OW001,2016-08-15T09:00-03:00,2016-08-15T11:40-03:00,Maratonas aquáticas,Maratona Aquática Feminina,Forte de Copacabana,Av. Atlântica - Copacabana, Rio de Janeiro
+WG003,2016-08-15T10:00-03:00,2016-08-15T13:00-03:00,Luta greco-romana,Masculino 85kg,130kg
+OW002,2016-08-16T09:00-03:00,2016-08-16T11:40-03:00,Maratonas aquáticas,Maratona Aquática Masculina,Forte de Copacabana,Av. Atlântica - Copacabana, Rio de Janeiro
+WG005,2016-08-16T10:00-03:00,2016-08-16T13:00-03:00,Luta greco-romana,Masculino 66kg,98kg
+,2016-08-17T10:00-03:00,2016-08-17T13:00-03:00,Luta livre,Feminino 48kg,58kg
+GG001,2016-08-17T11:00-03:00,2016-08-17T12:30-03:00,Ginástica Gala,Ginástica Gala,Arena Olímpica do Rio,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+GG002,2016-08-17T15:00-03:00,2016-08-17T16:30-03:00,Ginástica Gala,Ginástica Gala,Arena Olímpica do Rio,Av. Emb. Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
+,2016-08-17T16:00-03:00,2016-08-17T19:00-03:00,Luta livre,Feminino 48kg,58kg
+,2016-08-18T10:00-03:00,2016-08-18T13:00-03:00,Luta livre,Feminino 53kg,63kg
+,2016-08-18T16:00-03:00,2016-08-18T19:00-03:00,Luta livre,Feminino 53kg,63kg
+AW002,2016-08-19T08:00-03:00,2016-08-19T12:20-03:00,Atletismo (Marcha atlética),Marcha atlética 50km masculina,Pontal,Av. Lucio Costa - Praça Tim Maia - Recreio, Rio de Janeiro
+WF005,2016-08-19T10:00-03:00,2016-08-19T13:00-03:00,Luta livre,Masculino 57kg,74kg
+MP003,2016-08-19T12:00-03:00,2016-08-19T18:35-03:00,Pentatlo moderno,Competição Feminina (todas as disciplinas),Múltiplas instalações
+MP004,2016-08-19T14:00-03:00,2016-08-19T18:35-03:00,Pentatlo moderno,Competição Feminina (4 disciplinas),Estádio de Deodoro,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro
+AW003,2016-08-19T14:30-03:00,2016-08-19T16:15-03:00,Atletismo (Marcha atlética),Marcha atlética 20km feminina,Pontal,Av. Lucio Costa - Praça Tim Maia - Recreio, Rio de Janeiro
+MP005,2016-08-19T15:00-03:00,2016-08-19T19:00-03:00,Pentatlo moderno,Competição Feminina (3 disciplinas),Estádio de Deodoro,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro
+WF007,2016-08-20T10:00-03:00,2016-08-20T13:00-03:00,Luta livre,Masculino 86kg,125kg
+MP006,2016-08-20T12:00-03:00,2016-08-20T18:35-03:00,Pentatlo moderno,Competição Masculina (todas as disciplinas),Múltiplas instalações
+MP007,2016-08-20T14:00-03:00,2016-08-20T18:35-03:00,Pentatlo moderno,Competição Masculina (4 disciplinas),Estádio de Deodoro,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro
+MP008,2016-08-20T15:00-03:00,2016-08-20T19:00-03:00,Pentatlo moderno,Competição Masculina (3 disciplinas),Estádio de Deodoro,Av. Duque de Caxias 2.020 - Vila Militar, Rio de Janeiro
+WF009,2016-08-21T08:30-03:00,2016-08-21T11:15-03:00,Luta livre,Masculino 65kg,97kg
+AM002,2016-08-21T09:30-03:00,2016-08-21T12:15-03:00,Atletismo (Maratona),Maratona Masculina,Sambódromo,Av. Marquês de Sapucaí S/N  Sambódromo -  Santo Cristo, Rio de Janeiro
+ZC001,2016-08-21T19:15-03:00,2016-08-21T23:00-03:00,Cerimônia de Encerramento,Cerimônia de Encerramento,Maracanã,Avenida Maracanã - Maracanã, Rio de Janeiro
