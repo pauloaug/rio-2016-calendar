@@ -69,13 +69,13 @@ TK008,2016-08-19T15:00-03:00,2016-08-19T18:00-03:00,Taekwondo,Masculino até 80k
 TK010,2016-08-20T09:00-03:00,2016-08-20T13:00-03:00,Taekwondo,Masculino +80kg e Feminino +67kg,Preliminares e Oitavas,Arena Carioca 3,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
 TK011,2016-08-20T15:00-03:00,2016-08-20T18:00-03:00,Taekwondo,Masculino +80kg e Feminino +67kg,Quartas e Semifinais,Arena Carioca 3,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
 TK012,2016-08-20T20:00-03:00,2016-08-20T23:05-03:00,Taekwondo,Masculino +80kg e Feminino +67kg,Repescagens e Finais,Arena Carioca 3,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
-FB002,2016-08-03T15:00-03:00,2016-08-03T20:00-03:00,Futebol,Feminino,primeira fase,Arena Corinthians,Av. Miguel Ignácio Curi, 111 - Vila Carmosina,São Paulo
-FB008,2016-08-06T15:00-03:00,2016-08-06T20:00-03:00,Futebol,Feminino,primeira fase,Arena Corinthians,Av. Miguel Ignácio Curi, 111 - Vila Carmosina,São Paulo
-FB022,2016-08-10T19:00-03:00,2016-08-10T00:00-03:00,Futebol,Masculino,primeira fase,Arena Corinthians,Av. Miguel Ignácio Curi, 111 - Vila Carmosina,São Paulo
-FB025,2016-08-12T19:00-03:00,2016-08-12T21:00-03:00,Futebol,Feminino,quarta de final,Arena Corinthians,Av. Miguel Ignácio Curi, 111 - Vila Carmosina,São Paulo
-FB030,2016-08-13T22:00-03:00,2016-08-13T00:00-03:00,Futebol,Masculino,quarta de final,Arena Corinthians,Av. Miguel Ignácio Curi, 111 - Vila Carmosina,São Paulo
-FB033,2016-08-17T16:00-03:00,2016-08-17T18:00-03:00,Futebol,Masculino,semifinal,Arena Corinthians,Av. Miguel Ignácio Curi, 111 - Vila Carmosina,São Paulo
-FB035,2016-08-19T13:00-03:00,2016-08-19T16:00-03:00,Futebol,Feminino,bronze,Arena Corinthians,Av. Miguel Ignácio Curi, 111 - Vila Carmosina,São Paulo
+FB002,2016-08-03T15:00-03:00,2016-08-03T20:00-03:00,Futebol,Feminino,primeira fase,Arena Corinthians,Av. Miguel Ignácio Curi 111 - Vila Carmosina,São Paulo
+FB008,2016-08-06T15:00-03:00,2016-08-06T20:00-03:00,Futebol,Feminino,primeira fase,Arena Corinthians,Av. Miguel Ignácio Curi 111 - Vila Carmosina,São Paulo
+FB022,2016-08-10T19:00-03:00,2016-08-10T00:00-03:00,Futebol,Masculino,primeira fase,Arena Corinthians,Av. Miguel Ignácio Curi 111 - Vila Carmosina,São Paulo
+FB025,2016-08-12T19:00-03:00,2016-08-12T21:00-03:00,Futebol,Feminino,quarta de final,Arena Corinthians,Av. Miguel Ignácio Curi 111 - Vila Carmosina,São Paulo
+FB030,2016-08-13T22:00-03:00,2016-08-13T00:00-03:00,Futebol,Masculino,quarta de final,Arena Corinthians,Av. Miguel Ignácio Curi 111 - Vila Carmosina,São Paulo
+FB033,2016-08-17T16:00-03:00,2016-08-17T18:00-03:00,Futebol,Masculino,semifinal,Arena Corinthians,Av. Miguel Ignácio Curi 111 - Vila Carmosina,São Paulo
+FB035,2016-08-19T13:00-03:00,2016-08-19T16:00-03:00,Futebol,Feminino,bronze,Arena Corinthians,Av. Miguel Ignácio Curi 111 - Vila Carmosina,São Paulo
 FB007,2016-08-04T18:00-03:00,2016-08-04T23:00-03:00,Futebol,Masculino,primeira fase,Arena da Amazônia,Av. Constantino Nery -  Flores,Manaus
 FB011,2016-08-07T18:00-03:00,2016-08-07T23:00-03:00,Futebol,Masculino,primeira fase,Arena da Amazônia,Av. Constantino Nery -  Flores,Manaus
 FB017,2016-08-09T18:00-03:00,2016-08-09T23:00-03:00,Futebol,Feminino,primeira fase,Arena da Amazônia,Av. Constantino Nery -  Flores,Manaus
