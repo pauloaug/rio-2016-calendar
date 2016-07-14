@@ -1,4 +1,4 @@
-id,inicio,fim,esporte,genero,fase,local1,local2,cidade,extra1
+id,inicio,fim,esporte,genero,fase,local1,local2,cidade
 BK002,2016-08-06T14:15-03:00,2016-08-06T16:00-03:00,Basquetebol,Masculino,Primeira fase,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
 BK004,2016-08-06T19:00-03:00,2016-08-06T20:45-03:00,Basquetebol,Masculino,Primeira fase,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
 BK005,2016-08-06T22:30-03:00,2016-08-06T00:15-03:00,Basquetebol,Masculino,Primeira fase,Arena Carioca 1,Av. Embaixador Abelardo Bueno 3.401 - Barra da Tijuca, Rio de Janeiro
