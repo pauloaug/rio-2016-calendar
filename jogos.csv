@@ -1,4 +1,4 @@
-
+id,data,hora_inicio,hora_fim,esporte,fase
 FB001,03/08/2016,13:00,18:00,Futebol,Feminino - primeira fase
 FB002,03/08/2016,15:00,20:00,Futebol,Feminino - primeira fase
 FB003,03/08/2016,19:00,00:00,Futebol,Feminino - primeira fase
